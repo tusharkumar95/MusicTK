@@ -12,68 +12,47 @@
 <body>
   <main class="app-shell">
     <header class="topbar">
-      <div>
-        <div class="brand">music<span>TK</span></div>
-        <div class="tagline">Your music. Your library.</div>
-      </div>
+      <div><div class="brand">music<span>TK</span></div><div class="tagline">Your music. Your library.</div></div>
       <button id="importBtn" class="primary-btn" type="button">＋ Import</button>
       <input id="fileInput" type="file" accept="audio/*" multiple hidden>
     </header>
-
-    <section class="search-wrap">
-      <input id="searchInput" class="search" type="search" placeholder="Search your library..." autocomplete="off">
-    </section>
-
-    <nav class="tabs" aria-label="Library views">
-      <button class="tab active" data-view="all">All</button>
-      <button class="tab" data-view="favorites">♥ Favorites</button>
+    <section class="search-wrap"><input id="searchInput" class="search" type="search" placeholder="Search your library..." autocomplete="off"></section>
+    <nav class="tabs main-tabs" aria-label="Main views">
+      <button class="tab active" data-main-view="library">Library</button>
+      <button class="tab" data-main-view="discover">Discover</button>
     </nav>
-
-    <section id="library" class="library"></section>
-
-    <section id="emptyState" class="empty-state">
-      <div class="empty-icon">♫</div>
-      <h2>Your library is empty</h2>
-      <p>Import music from your device to start building musicTK.</p>
-      <button id="emptyImportBtn" class="primary-btn" type="button">Import music</button>
-    </section>
-
-    <section class="demo-section">
-      <div class="section-title-row">
-        <div>
-          <h2>Built-in demos</h2>
-          <p>Original generated audio — included for testing the player.</p>
+    <section id="libraryView">
+      <nav class="tabs sub-tabs" aria-label="Library views">
+        <button class="tab active" data-view="all">All</button>
+        <button class="tab" data-view="favorites">♥ Favorites</button>
+      </nav>
+      <section id="library" class="library"></section>
+      <section id="emptyState" class="empty-state">
+        <div class="empty-icon">♫</div><h2>Your library is empty</h2>
+        <p>Import music from your device or download tracks from Discover.</p>
+        <button id="emptyImportBtn" class="primary-btn" type="button">Import music</button>
+      </section>
+      <section class="demo-section">
+        <div class="section-title-row"><div><h2>Built-in demos</h2><p>Original generated audio — included for testing the player.</p></div></div>
+        <div id="demoList" class="demo-list">
+          <button class="demo-card" data-demo="morning"><span>▶</span><div><strong>Morning Drive</strong><small>musicTK Demo</small></div></button>
+          <button class="demo-card" data-demo="midnight"><span>▶</span><div><strong>Midnight City</strong><small>musicTK Demo</small></div></button>
+          <button class="demo-card" data-demo="sunrise"><span>▶</span><div><strong>Sunrise</strong><small>musicTK Demo</small></div></button>
         </div>
-      </div>
-      <div id="demoList" class="demo-list">
-        <button class="demo-card" data-demo="morning"><span>▶</span><div><strong>Morning Drive</strong><small>musicTK Demo</small></div></button>
-        <button class="demo-card" data-demo="midnight"><span>▶</span><div><strong>Midnight City</strong><small>musicTK Demo</small></div></button>
-        <button class="demo-card" data-demo="sunrise"><span>▶</span><div><strong>Sunrise</strong><small>musicTK Demo</small></div></button>
-      </div>
+      </section>
+    </section>
+    <section id="discoverView" class="discover-view" hidden>
+      <div class="section-title-row discover-heading"><div><h2>50 free tracks ready to download</h2><p>Openly licensed/public-domain music. Download one and the next available track takes its place.</p></div><span id="discoverCount" class="count-pill">50</span></div>
+      <div id="discoverList" class="library"></div>
+      <p id="discoverStatus" class="discover-status">Loading available music…</p>
     </section>
   </main>
-
   <footer id="player" class="player">
-    <div class="now-playing">
-      <div id="playerIcon" class="player-icon">♫</div>
-      <div class="track-meta">
-        <strong id="playerTitle">Nothing playing</strong>
-        <span id="playerArtist">musicTK</span>
-      </div>
-    </div>
-    <div class="controls">
-      <button id="prevBtn" class="icon-btn" aria-label="Previous">⏮</button>
-      <button id="playBtn" class="play-btn" aria-label="Play">▶</button>
-      <button id="nextBtn" class="icon-btn" aria-label="Next">⏭</button>
-    </div>
-    <div class="progress-wrap">
-      <span id="currentTime">0:00</span>
-      <input id="progress" type="range" min="0" max="100" value="0" aria-label="Track progress">
-      <span id="duration">0:00</span>
-    </div>
+    <div class="now-playing"><div id="playerIcon" class="player-icon">♫</div><div class="track-meta"><strong id="playerTitle">Nothing playing</strong><span id="playerArtist">musicTK</span></div></div>
+    <div class="controls"><button id="prevBtn" class="icon-btn" aria-label="Previous">⏮</button><button id="playBtn" class="play-btn" aria-label="Play">▶</button><button id="nextBtn" class="icon-btn" aria-label="Next">⏭</button></div>
+    <div class="progress-wrap"><span id="currentTime">0:00</span><input id="progress" type="range" min="0" max="100" value="0" aria-label="Track progress"><span id="duration">0:00</span></div>
     <audio id="audio" preload="metadata"></audio>
   </footer>
-
   <script src="app.js"></script>
 </body>
 </html>
