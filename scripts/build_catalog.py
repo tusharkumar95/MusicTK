@@ -2,10 +2,11 @@ import json, os, re, urllib.parse, urllib.request
 
 BASE='https://archive.org'
 OUT='catalog.json'
-TARGET=120
+TARGET=300
 SEARCHES=[
     'mediatype:audio AND subject:music AND licenseurl:*creativecommons.org*',
     'mediatype:audio AND subject:music AND rights:"public domain"',
+    'mediatype:audio AND subject:music AND title:(music OR song OR soundtrack) AND licenseurl:*creativecommons.org*',
 ]
 
 
@@ -41,7 +42,7 @@ def playable(files):
 items=[]
 seen=set()
 for query in SEARCHES:
-    params=urllib.parse.urlencode({'q':query,'fl[]':['identifier','title','creator','licenseurl','rights','subject'],'rows':250,'page':1,'output':'json'},doseq=True)
+    params=urllib.parse.urlencode({'q':query,'fl[]':['identifier','title','creator','licenseurl','rights','subject'],'rows':500,'page':1,'output':'json'},doseq=True)
     data=get_json(f'{BASE}/advancedsearch.php?{params}')
     for doc in data.get('response',{}).get('docs',[]):
         ident=clean(doc.get('identifier'))
