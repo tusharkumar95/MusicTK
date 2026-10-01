@@ -99,69 +99,6 @@
     "source": "Internet Archive"
   },
   {
-    "id": "D_PMixTape11-GotNoTime::MixTape11.mp3",
-    "title": "MixTape 11 - Got No Time",
-    "artist": "D&P",
-    "url": "https://archive.org/download/D_PMixTape11-GotNoTime/MixTape11.mp3",
-    "mime": "audio/mpeg",
-    "license": "CC BY",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "D_PMixTape3.0-ReturntoBasics_1::MixTape3.0.mp3",
-    "title": "MixTape 3.0 - Return to Basics",
-    "artist": "D&P",
-    "url": "https://archive.org/download/D_PMixTape3.0-ReturntoBasics_1/MixTape3.0.mp3",
-    "mime": "audio/mpeg",
-    "license": "CC BY",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "calvin-wilkerson-legalize-recreational-mcnukes::19. I'd Like.MP3",
-    "title": "Legalize Recreational McNukes",
-    "artist": "Calvin Wilkerson",
-    "url": "https://archive.org/download/calvin-wilkerson-legalize-recreational-mcnukes/19.%20I%27d%20Like.MP3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "DavidTotty-ChloroformEp2006::02_smackdub.mp3",
-    "title": "David Totty - Chloroform EP (2006)",
-    "artist": "David Totty",
-    "url": "https://archive.org/download/DavidTotty-ChloroformEp2006/02_smackdub.mp3",
-    "mime": "audio/mpeg",
-    "license": "CC BY-SA",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "DavidTotty-DaisyEp2006::01_Daisy.mp3",
-    "title": "David Totty - Daisy EP (2006)",
-    "artist": "David Totty",
-    "url": "https://archive.org/download/DavidTotty-DaisyEp2006/01_Daisy.mp3",
-    "mime": "audio/mpeg",
-    "license": "CC BY-SA",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "DejanS.MelodicPianoTheme::Dejan S. - Melodic Piano Theme.wav",
-    "title": "Dejan S. - Melodic Piano Theme",
-    "artist": "Dejan Subotin",
-    "url": "https://archive.org/download/DejanS.MelodicPianoTheme/Dejan%20S.%20-%20Melodic%20Piano%20Theme.wav",
-    "mime": "audio/wav",
-    "license": "CC BY",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "DebussyQuantJaiOuyLeTambourin::Debussy_-_Quant_jai_ouy_le_tambourin.ogg",
-    "title": "Debussy Quant Jai Ouy Le Tambourin",
-    "artist": "Massachussetts Institute of Technology",
-    "url": "https://archive.org/download/DebussyQuantJaiOuyLeTambourin/Debussy_-_Quant_jai_ouy_le_tambourin.ogg",
-    "mime": "audio/ogg",
-    "license": "CC BY-SA",
-    "source": "Internet Archive"
-  },
-  {
     "id": "computoser-1119::Sweet Mystery To A Flower.mp3",
     "title": "Sweet Mystery To A Flower",
     "artist": "Computoser",
@@ -333,12 +270,21 @@
     "source": "Internet Archive"
   },
   {
-    "id": "Dfsgdfg_201307::dfsgdfg.mp3",
-    "title": "Dfsgdfg",
-    "artist": "hache",
-    "url": "https://archive.org/download/Dfsgdfg_201307/dfsgdfg.mp3",
+    "id": "FaracyGrouseAndRecyclingthroughMusic::FaracyGrouse7.mp3",
+    "title": "Faracy Grouse and recycling (through) music",
+    "artist": "Tara Brabazon",
+    "url": "https://archive.org/download/FaracyGrouseAndRecyclingthroughMusic/FaracyGrouse7.mp3",
     "mime": "audio/mpeg",
     "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "Flavo-GoesSpain_810::Flavo-GoesSpain.mp3",
+    "title": "Goes Spain",
+    "artist": "Flavo",
+    "url": "https://archive.org/download/Flavo-GoesSpain_810/Flavo-GoesSpain.mp3",
+    "mime": "audio/mpeg",
+    "license": "CC BY",
     "source": "Internet Archive"
   },
   {
@@ -346,6 +292,51 @@
     "title": "Carefree Melody",
     "artist": "Twin Musicom (twinmusicom.org)",
     "url": "https://archive.org/download/twin-musicom-carefree-melody/Carefree%20Melody.mp3",
+    "mime": "audio/mpeg",
+    "license": "CC BY",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "FinalEditsForProject_201804::final edits for project .mp3",
+    "title": "Video Games and Music by Stephanie and Steven",
+    "artist": "Stephanie and Steven",
+    "url": "https://archive.org/download/FinalEditsForProject_201804/final%20edits%20for%20project%20.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "Fermento::Fermento.mp3",
+    "title": "Fermento",
+    "artist": "Vorgi",
+    "url": "https://archive.org/download/Fermento/Fermento.mp3",
+    "mime": "audio/mpeg",
+    "license": "CC BY",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "FredrickWarzwickPodcastEpisode_1-2_20_07-www.myspace.com_fredrickwarzwick::Distance.mp3",
+    "title": "Podcast Episode #1 - 2/20/07 - www.myspace.com/fredrickwarzwick",
+    "artist": "Fredrick Warzwick",
+    "url": "https://archive.org/download/FredrickWarzwickPodcastEpisode_1-2_20_07-www.myspace.com_fredrickwarzwick/Distance.mp3",
+    "mime": "audio/mpeg",
+    "license": "CC BY",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "FredAlvaradoStreetNativeUndergroundRadioHipHopSession1::StreetNativeUngroundRadiosession11.m4a",
+    "title": "Street Native Underground Radio Hip Hop Session 1",
+    "artist": "Fred Alvarado",
+    "url": "https://archive.org/download/FredAlvaradoStreetNativeUndergroundRadioHipHopSession1/StreetNativeUngroundRadiosession11.m4a",
+    "mime": "audio/mp4",
+    "license": "CC BY",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "ForThePoorManDemo::MoneyBass.mp3",
+    "title": "For the Poor Man Demo",
+    "artist": "Lance Sitton & the Seed",
+    "url": "https://archive.org/download/ForThePoorManDemo/MoneyBass.mp3",
     "mime": "audio/mpeg",
     "license": "CC BY",
     "source": "Internet Archive"
@@ -468,6 +459,15 @@
     "source": "Internet Archive"
   },
   {
+    "id": "Fmr-001-crispDelicatessen::02Rill.mp3",
+    "title": "FMR-001-\"crisp delicatessen\"",
+    "artist": "esthing",
+    "url": "https://archive.org/download/Fmr-001-crispDelicatessen/02Rill.mp3",
+    "mime": "audio/mpeg",
+    "license": "CC BY-SA",
+    "source": "Internet Archive"
+  },
+  {
     "id": "computoser-1028::We Take Light.mp3",
     "title": "We Take Light",
     "artist": "Computoser",
@@ -549,11 +549,56 @@
     "source": "Internet Archive"
   },
   {
+    "id": "ForeverChangedByMusicByMrChristopherChuah_329::20100815ForeverChangedByMusic.mp3",
+    "title": "Forever Changed By Music by Mr Christopher Chuah",
+    "artist": "Unknown artist",
+    "url": "https://archive.org/download/ForeverChangedByMusicByMrChristopherChuah_329/20100815ForeverChangedByMusic.mp3",
+    "mime": "audio/mpeg",
+    "license": "CC BY",
+    "source": "Internet Archive"
+  },
+  {
     "id": "wakaranai::10 excitée.flac",
     "title": "分からない",
     "artist": "Löschoperationen",
     "url": "https://archive.org/download/wakaranai/10%20excit%C3%A9e.flac",
     "mime": "audio/flac",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "FrenchQuarterFest504HelenGillet::Fqf504HelenGillet.mp3",
+    "title": "French Quarter Fest 504 Helen Gillet",
+    "artist": "Aura \"Fedora\" Shannon, Public Frog Media LLC",
+    "url": "https://archive.org/download/FrenchQuarterFest504HelenGillet/Fqf504HelenGillet.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "FrenchQuarterFest504WithTheRevivalistsDavidShaw::Fqf504TheRevivalists.mp3",
+    "title": "French Quarter Fest 504 with The Revivalists' David Shaw",
+    "artist": "Aura \"Fedora\" Shannon, Public Frog Media LLC",
+    "url": "https://archive.org/download/FrenchQuarterFest504WithTheRevivalistsDavidShaw/Fqf504TheRevivalists.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "Flutter::flutter6_fly.ogg",
+    "title": "Flutter",
+    "artist": "tim hall",
+    "url": "https://archive.org/download/Flutter/flutter6_fly.ogg",
+    "mime": "audio/ogg",
+    "license": "CC BY-SA",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "geniesduclassique_vol1no25::09 Mozart_ Divertimento In B Flat, K 439B - 5. Rondò.wav",
+    "title": "Les génies du classique, volume I no 25: Mozart",
+    "artist": "Unknown artist",
+    "url": "https://archive.org/download/geniesduclassique_vol1no25/09%20Mozart_%20Divertimento%20In%20B%20Flat%2C%20K%20439B%20-%205.%20Rond%C3%B2.wav",
+    "mime": "audio/wav",
     "license": "Public Domain",
     "source": "Internet Archive"
   },
@@ -585,1342 +630,145 @@
     "source": "Internet Archive"
   },
   {
-    "id": "JV-16826-1940-QmSmS6C1XiaWgmHF23dT9R1wJmk6TEMFKLBaodCgAUozoX.mp3::DV514546.mp3",
-    "title": "Adios, Americano",
-    "artist": "Unknown artist",
-    "url": "https://archive.org/download/JV-16826-1940-QmSmS6C1XiaWgmHF23dT9R1wJmk6TEMFKLBaodCgAUozoX.mp3/DV514546.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "JV-16850-1940-QmVJtexXPoNb5PMEumnKAGCZu35kWPcdrkxUcv3tkrQ4Bo.mp3::DEC67321.mp3",
-    "title": "Hep Cat's Ball",
-    "artist": "Unknown artist",
-    "url": "https://archive.org/download/JV-16850-1940-QmVJtexXPoNb5PMEumnKAGCZu35kWPcdrkxUcv3tkrQ4Bo.mp3/DEC67321.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "JV-28040-1948-QmW1GoUYUHFtmo9q7kxNsoSLtzLBdBsKNx6z2BKi877RWu.mp3::TS486633.mp3",
-    "title": "The Fuller Bop Man (2)",
-    "artist": "Unknown artist",
-    "url": "https://archive.org/download/JV-28040-1948-QmW1GoUYUHFtmo9q7kxNsoSLtzLBdBsKNx6z2BKi877RWu.mp3/TS486633.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "JV-28058-1948-QmQ2i2Z8BNECuTdLrRFjs8hYofKSKDW1NdfeT2hHW9Y2VW.mp3::CL499599.mp3",
-    "title": "She Just Won't Sell No More",
-    "artist": "Unknown artist",
-    "url": "https://archive.org/download/JV-28058-1948-QmQ2i2Z8BNECuTdLrRFjs8hYofKSKDW1NdfeT2hHW9Y2VW.mp3/CL499599.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "JV-28110-1948-QmcwNomodvQTYMiV8nAwjgxRvYgviG6iZ9meGmR9rpRuPP.mp3::TS491498.mp3",
-    "title": "Algo Bueno (Woody 'N' You)",
-    "artist": "Unknown artist",
-    "url": "https://archive.org/download/JV-28110-1948-QmcwNomodvQTYMiV8nAwjgxRvYgviG6iZ9meGmR9rpRuPP.mp3/TS491498.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "JV-28208-1948-QmQSc7AfBu45vkuod3oi2hUy6Aw6QbvQsHH2iqzT9Va9fx.mp3::BB502875.mp3",
-    "title": "Wrap Your Troubles In Dreams",
-    "artist": "Unknown artist",
-    "url": "https://archive.org/download/JV-28208-1948-QmQSc7AfBu45vkuod3oi2hUy6Aw6QbvQsHH2iqzT9Va9fx.mp3/BB502875.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "JV-28213-1948-QmUPcmTSfPHybw7LU8KHhgpM7VrErvHKjSWaXDMEkfChdE.mp3::DV516720.mp3",
-    "title": "Alley Talk",
-    "artist": "Unknown artist",
-    "url": "https://archive.org/download/JV-28213-1948-QmUPcmTSfPHybw7LU8KHhgpM7VrErvHKjSWaXDMEkfChdE.mp3/DV516720.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "JV-2754-1926-QmUkJ4PgapBBoZ8v4EJcXDc8ywgko1pb8Ls3x727pgCZWY.mp3::JV-2754-1926-QmUkJ4PgapBBoZ8v4EJcXDc8ywgko1pb8Ls3x727pgCZWY.mp3",
-    "title": "Tenderly Think Of Me",
-    "artist": "Unknown artist",
-    "url": "https://archive.org/download/JV-2754-1926-QmUkJ4PgapBBoZ8v4EJcXDc8ywgko1pb8Ls3x727pgCZWY.mp3/JV-2754-1926-QmUkJ4PgapBBoZ8v4EJcXDc8ywgko1pb8Ls3x727pgCZWY.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "JV-28230-1948-QmbKgVsdFojykjxewrRTKVBedEuK4isrcnmQaHsYKezUiL.mp3::DECAM1475-C.mp3",
-    "title": "Apex Blues",
-    "artist": "Unknown artist",
-    "url": "https://archive.org/download/JV-28230-1948-QmbKgVsdFojykjxewrRTKVBedEuK4isrcnmQaHsYKezUiL.mp3/DECAM1475-C.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "JV-28244-1948-QmUgce8UoTSfw1FRZzJ8EMXt5zUitt9P7oG1MDnGHZcYPF.mp3::TS491305.mp3",
-    "title": "Stay On It",
-    "artist": "Unknown artist",
-    "url": "https://archive.org/download/JV-28244-1948-QmUgce8UoTSfw1FRZzJ8EMXt5zUitt9P7oG1MDnGHZcYPF.mp3/TS491305.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "JV-2825-1927-QmfE6ge57xL9Nwa8i6UYqFd6hMKBFD1PrRNV94gzEhWyzL.mp3::JV-2825-1927-QmfE6ge57xL9Nwa8i6UYqFd6hMKBFD1PrRNV94gzEhWyzL.mp3",
-    "title": "Muddy Water",
-    "artist": "Unknown artist",
-    "url": "https://archive.org/download/JV-2825-1927-QmfE6ge57xL9Nwa8i6UYqFd6hMKBFD1PrRNV94gzEhWyzL.mp3/JV-2825-1927-QmfE6ge57xL9Nwa8i6UYqFd6hMKBFD1PrRNV94gzEhWyzL.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "JV-2827-1927-QmbbiyGjQxFVVsMoF1SnF1burkD5rTf5GhvEfzxjxUPNfj.mp3::JV-2827-1927-QmbbiyGjQxFVVsMoF1SnF1burkD5rTf5GhvEfzxjxUPNfj.mp3",
-    "title": "I Found A Millon Dollar Baby",
-    "artist": "Unknown artist",
-    "url": "https://archive.org/download/JV-2827-1927-QmbbiyGjQxFVVsMoF1SnF1burkD5rTf5GhvEfzxjxUPNfj.mp3/JV-2827-1927-QmbbiyGjQxFVVsMoF1SnF1burkD5rTf5GhvEfzxjxUPNfj.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "JV-17241-1940-QmUVpuaY9XaSgsZjjyvMWUE4k6cJn7Fv2AViryMAoGcqNV.mp3::ComR2997.mp3",
-    "title": "I Can't Believe That You're In Love With Me",
-    "artist": "Unknown artist",
-    "url": "https://archive.org/download/JV-17241-1940-QmUVpuaY9XaSgsZjjyvMWUE4k6cJn7Fv2AViryMAoGcqNV.mp3/ComR2997.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "JV-27958-1947-QmeZEVQXP44B35ssuiQesD4WnffA21RPcRTBqoiaZKF8Rp.mp3::CL497629.mp3",
-    "title": "Peek-A-Boo",
-    "artist": "Unknown artist",
-    "url": "https://archive.org/download/JV-27958-1947-QmeZEVQXP44B35ssuiQesD4WnffA21RPcRTBqoiaZKF8Rp.mp3/CL497629.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "JV-27992-1947-QmUcAGmzg1TzGP57KRBYswajWWDR9JyExCKYDBE7cvfBxe.mp3::DV514330.mp3",
-    "title": "My Last Affair",
-    "artist": "Unknown artist",
-    "url": "https://archive.org/download/JV-27992-1947-QmUcAGmzg1TzGP57KRBYswajWWDR9JyExCKYDBE7cvfBxe.mp3/DV514330.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "JV-18271-1941-QmemNH9GanEPH9gaiNWPCX5Hmfjn6kr2ACKaYdmwH6oqNo.mp3::DV519281.mp3",
-    "title": "You're My Thrill",
-    "artist": "Unknown artist",
-    "url": "https://archive.org/download/JV-18271-1941-QmemNH9GanEPH9gaiNWPCX5Hmfjn6kr2ACKaYdmwH6oqNo.mp3/DV519281.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "JV-28320-1948-QmduXwVYV1ZBQqKtCBMx6DeV2j1gjXjEQ33NCW27aN3ipF.mp3::CL498739.mp3",
-    "title": "Cu-Ba",
-    "artist": "Unknown artist",
-    "url": "https://archive.org/download/JV-28320-1948-QmduXwVYV1ZBQqKtCBMx6DeV2j1gjXjEQ33NCW27aN3ipF.mp3/CL498739.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "JV-28380-1948-QmZ7Nc7XXz5hpNvYZYQ66ncYXoeSqWThFmjAuvkwLZvTrc.mp3::TS491097.mp3",
-    "title": "Reminiscing In Tempo",
-    "artist": "Unknown artist",
-    "url": "https://archive.org/download/JV-28380-1948-QmZ7Nc7XXz5hpNvYZYQ66ncYXoeSqWThFmjAuvkwLZvTrc.mp3/TS491097.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "JV-28397-1948-QmSapfxzYemRVkVgu5NmTETD6NyteBVJ8noTmVrJYHom81.mp3::TS491114.mp3",
-    "title": "Humoresque",
-    "artist": "Unknown artist",
-    "url": "https://archive.org/download/JV-28397-1948-QmSapfxzYemRVkVgu5NmTETD6NyteBVJ8noTmVrJYHom81.mp3/TS491114.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "JV-28405-1948-QmQ5YusfPeuHAPE5jNGLTaJPc3QRyxy6CvZ9UxF7YZw74h.mp3::DV520790.mp3",
-    "title": "Egyptian Fantasy",
-    "artist": "Unknown artist",
-    "url": "https://archive.org/download/JV-28405-1948-QmQ5YusfPeuHAPE5jNGLTaJPc3QRyxy6CvZ9UxF7YZw74h.mp3/DV520790.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "JV-2814-1927-QmTqucyJscBvTvt6VAFhoELubrkEigzm2RukDbAHwTzw1y.mp3::JV-2814-1927-QmTqucyJscBvTvt6VAFhoELubrkEigzm2RukDbAHwTzw1y.mp3",
-    "title": "Midnight Stomp",
-    "artist": "Unknown artist",
-    "url": "https://archive.org/download/JV-2814-1927-QmTqucyJscBvTvt6VAFhoELubrkEigzm2RukDbAHwTzw1y.mp3/JV-2814-1927-QmTqucyJscBvTvt6VAFhoELubrkEigzm2RukDbAHwTzw1y.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "JV-28173-1948-QmRkVEBJBCmyQAPDAnqPQ4sLHyK8scYZTUUthDSoemYT4a.mp3::CL500422.mp3",
-    "title": "This Is It",
-    "artist": "Unknown artist",
-    "url": "https://archive.org/download/JV-28173-1948-QmRkVEBJBCmyQAPDAnqPQ4sLHyK8scYZTUUthDSoemYT4a.mp3/CL500422.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "JV-27380-1947-QmaFzazQoJdF2reknnjgCpAfQT7ZNtULgf55NLuRThzMyZ.mp3::DECL4560.mp3",
-    "title": "Cherokee",
-    "artist": "Unknown artist",
-    "url": "https://archive.org/download/JV-27380-1947-QmaFzazQoJdF2reknnjgCpAfQT7ZNtULgf55NLuRThzMyZ.mp3/DECL4560.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "JV-27162-1947-QmQf7qL5avA66EE8CUfb71sDQKwN4pihX26EbidbwH2Bfh.mp3::TS487937.mp3",
-    "title": "Halfway To Dawn (Alt)",
-    "artist": "Unknown artist",
-    "url": "https://archive.org/download/JV-27162-1947-QmQf7qL5avA66EE8CUfb71sDQKwN4pihX26EbidbwH2Bfh.mp3/TS487937.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "JV-2830-1927-QmXTnYiHtcNhEDmhrC9GJB32QDuYz7JBdMrFG15oQUzUQs.mp3::JV-2830-1927-QmXTnYiHtcNhEDmhrC9GJB32QDuYz7JBdMrFG15oQUzUQs.mp3",
-    "title": "Symphonic Scronch",
-    "artist": "Unknown artist",
-    "url": "https://archive.org/download/JV-2830-1927-QmXTnYiHtcNhEDmhrC9GJB32QDuYz7JBdMrFG15oQUzUQs.mp3/JV-2830-1927-QmXTnYiHtcNhEDmhrC9GJB32QDuYz7JBdMrFG15oQUzUQs.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "JV-28303-1948-QmWgr9NYxf5FCon5PW7itF3wbCjXCMJ82ZzJrDkUQiTrdL.mp3::DH496050.mp3",
-    "title": "Dizzier And Dizzier (Katy)",
-    "artist": "Unknown artist",
-    "url": "https://archive.org/download/JV-28303-1948-QmWgr9NYxf5FCon5PW7itF3wbCjXCMJ82ZzJrDkUQiTrdL.mp3/DH496050.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "JV-28309-1948-QmcDFUyd65JTQU3u6cm7sWRwHWbGD7XYNhdu6y1sNpbGjA.mp3::1948_036.mp3",
-    "title": "Beg Your Pardon",
-    "artist": "Unknown artist",
-    "url": "https://archive.org/download/JV-28309-1948-QmcDFUyd65JTQU3u6cm7sWRwHWbGD7XYNhdu6y1sNpbGjA.mp3/1948_036.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "JV-28317-1948-Qmb5dXDFndErrWZVASUzT74UPvQ2QDNESgt3x3PHotdV13.mp3::CL498737.mp3",
-    "title": "Moodamorphasis",
-    "artist": "Unknown artist",
-    "url": "https://archive.org/download/JV-28317-1948-Qmb5dXDFndErrWZVASUzT74UPvQ2QDNESgt3x3PHotdV13.mp3/CL498737.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "JV-27273-1947-QmWPMDiUuJwzpVaifyH24K5t6pGCF7RRLpH5GuPZdwv73g.mp3::CL473905.mp3",
-    "title": "Far Cry",
-    "artist": "Unknown artist",
-    "url": "https://archive.org/download/JV-27273-1947-QmWPMDiUuJwzpVaifyH24K5t6pGCF7RRLpH5GuPZdwv73g.mp3/CL473905.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "JV-27283-1947-QmXVAyvJEZgFgbc3HhABJiqqk53fh4jCSraV18oaKKvuzo.mp3::DV512816.mp3",
-    "title": "Swing Man",
-    "artist": "Unknown artist",
-    "url": "https://archive.org/download/JV-27283-1947-QmXVAyvJEZgFgbc3HhABJiqqk53fh4jCSraV18oaKKvuzo.mp3/DV512816.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "JV-27288-1947-QmdbbnRVCqsw3LmZrzmAtu5aW33wFynMuZmQDZp2M5PZaA.mp3::DV513213.mp3",
-    "title": "Bad Man's Bounce",
-    "artist": "Unknown artist",
-    "url": "https://archive.org/download/JV-27288-1947-QmdbbnRVCqsw3LmZrzmAtu5aW33wFynMuZmQDZp2M5PZaA.mp3/DV513213.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "JV-28419-1948-QmQzh4JsuRsJieACUoGC7DxNyyrhD6BSzFddyw4DAWvkvE.mp3::MGM49S2.mp3",
-    "title": "Caravan",
-    "artist": "Unknown artist",
-    "url": "https://archive.org/download/JV-28419-1948-QmQzh4JsuRsJieACUoGC7DxNyyrhD6BSzFddyw4DAWvkvE.mp3/MGM49S2.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "JV-28434-1948-QmRbK5K2oHPjnuczUcHfhGwcAtX4ZprNwpxUTsNJxhvgQQ.mp3::DV519057.mp3",
-    "title": "Chuck-A-Boogie",
-    "artist": "Unknown artist",
-    "url": "https://archive.org/download/JV-28434-1948-QmRbK5K2oHPjnuczUcHfhGwcAtX4ZprNwpxUTsNJxhvgQQ.mp3/DV519057.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "JV-28511-1949-QmVAEPi4h8xN4Hp8vt4gVSbcjHn4Y3sgKPqP5DmdnCEZrG.mp3::CL499608.mp3",
-    "title": "Baby, Shame On You",
-    "artist": "Unknown artist",
-    "url": "https://archive.org/download/JV-28511-1949-QmVAEPi4h8xN4Hp8vt4gVSbcjHn4Y3sgKPqP5DmdnCEZrG.mp3/CL499608.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "JV-28513-1949-QmcKtbKLiZBczicGcTpfegc426GaxRYbnLbuD1c2XtNgDL.mp3::DV516542.mp3",
-    "title": "Blue Mode",
-    "artist": "Unknown artist",
-    "url": "https://archive.org/download/JV-28513-1949-QmcKtbKLiZBczicGcTpfegc426GaxRYbnLbuD1c2XtNgDL.mp3/DV516542.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "JV-28515-1949-QmWqM1nG1SM1prcaPoCnzeZ6bn4Y4kzbN3B7NJBzYhUcRT.mp3::DW523583.mp3",
-    "title": "Annie's Blues",
-    "artist": "Unknown artist",
-    "url": "https://archive.org/download/JV-28515-1949-QmWqM1nG1SM1prcaPoCnzeZ6bn4Y4kzbN3B7NJBzYhUcRT.mp3/DW523583.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "JV-28518-1949-QmeMsPE9RUGr9DJbCjU2thDaXZGuRyUqzufqGJTzavbLq2.mp3::CL498894.mp3",
-    "title": "Main Stem",
-    "artist": "Unknown artist",
-    "url": "https://archive.org/download/JV-28518-1949-QmeMsPE9RUGr9DJbCjU2thDaXZGuRyUqzufqGJTzavbLq2.mp3/CL498894.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "JV-28525-1949-QmbSDjYBvzLxUPfF6p9LQ37XjKK2yQatEs8tttwqMLvv5W.mp3::CL498919.mp3",
-    "title": "Five O'clock Mood",
-    "artist": "Unknown artist",
-    "url": "https://archive.org/download/JV-28525-1949-QmbSDjYBvzLxUPfF6p9LQ37XjKK2yQatEs8tttwqMLvv5W.mp3/CL498919.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "JV-28030-1948-QmX7PJQ15qWe8M2pbCyyijBGcnEeCSCp86MQThc3meD28h.mp3::CL498640.mp3",
-    "title": "Wine-O-Baby Boogie",
-    "artist": "Unknown artist",
-    "url": "https://archive.org/download/JV-28030-1948-QmX7PJQ15qWe8M2pbCyyijBGcnEeCSCp86MQThc3meD28h.mp3/CL498640.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "JV-18349-1941-QmPjZghaidXJZ7WrjN5thznatZXhsG2DVs3k563nELwsR8.mp3::Blu060353-1.mp3",
-    "title": "Babalu",
-    "artist": "Unknown artist",
-    "url": "https://archive.org/download/JV-18349-1941-QmPjZghaidXJZ7WrjN5thznatZXhsG2DVs3k563nELwsR8.mp3/Blu060353-1.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "JV-18322-1941-QmRTmvCErUTbwwRMgdeWW6UrwGxRCiRDkdnF67UA9Vyn9i.mp3::OKEC3518.mp3",
-    "title": "Run, Little Rabbit",
-    "artist": "Unknown artist",
-    "url": "https://archive.org/download/JV-18322-1941-QmRTmvCErUTbwwRMgdeWW6UrwGxRCiRDkdnF67UA9Vyn9i.mp3/OKEC3518.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "JV-18059-1940-QmRo7fY7gcKVimXHBctYMm4akAtGzugRD52UCwzo1CiX74.mp3::DV519603.mp3",
-    "title": "Three At A Table For Two",
-    "artist": "Unknown artist",
-    "url": "https://archive.org/download/JV-18059-1940-QmRo7fY7gcKVimXHBctYMm4akAtGzugRD52UCwzo1CiX74.mp3/DV519603.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "JV-1807-1925-QmfKJLx99SDTTqms2612APUj7j7GzkGTM161aARznvsHZ5.mp3::JV-1807-1925-QmfKJLx99SDTTqms2612APUj7j7GzkGTM161aARznvsHZ5.mp3",
-    "title": "Dream Pal",
-    "artist": "Unknown artist",
-    "url": "https://archive.org/download/JV-1807-1925-QmfKJLx99SDTTqms2612APUj7j7GzkGTM161aARznvsHZ5.mp3/JV-1807-1925-QmfKJLx99SDTTqms2612APUj7j7GzkGTM161aARznvsHZ5.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "JV-18569-1941-QmfSHQPAfFPBGZcwXC92YSf18vuiwXooGGa7i7PArXU7yf.mp3::TS487135.mp3",
-    "title": "Air Mail Special",
-    "artist": "Unknown artist",
-    "url": "https://archive.org/download/JV-18569-1941-QmfSHQPAfFPBGZcwXC92YSf18vuiwXooGGa7i7PArXU7yf.mp3/TS487135.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "JV-18570-1941-QmPKNKdqSnmh9bMNjzCwWCR4WzCf9umsYvG9rpTmGScMZr.mp3::V-D380B1.mp3",
-    "title": "Intermezzo (A Love Story)",
-    "artist": "Unknown artist",
-    "url": "https://archive.org/download/JV-18570-1941-QmPKNKdqSnmh9bMNjzCwWCR4WzCf9umsYvG9rpTmGScMZr.mp3/V-D380B1.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "JV-18580-1941-Qme9ujz7fyteCyvjUtPhYzKFuvEBrRMmxAEGNxXWRo2xPe.mp3::1941_075.mp3",
-    "title": "Just A Little Bit South Of North Carolina",
-    "artist": "Unknown artist",
-    "url": "https://archive.org/download/JV-18580-1941-Qme9ujz7fyteCyvjUtPhYzKFuvEBrRMmxAEGNxXWRo2xPe.mp3/1941_075.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "JV-18587-1941-QmVRcrzheCVorSEGCtP7FuMCj91a5sEBGhhVjK5g29YM4F.mp3::BLU062761.mp3",
-    "title": "Do You Have To Go ?",
-    "artist": "Unknown artist",
-    "url": "https://archive.org/download/JV-18587-1941-QmVRcrzheCVorSEGCtP7FuMCj91a5sEBGhhVjK5g29YM4F.mp3/BLU062761.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "JV-18600-1941-QmRuwMNk8qdpfKprS7MYFMjSBaT6wkYxYpNtvznszRyKCz.mp3::DEC68854.mp3",
-    "title": "Bull's Eye",
-    "artist": "Unknown artist",
-    "url": "https://archive.org/download/JV-18600-1941-QmRuwMNk8qdpfKprS7MYFMjSBaT6wkYxYpNtvznszRyKCz.mp3/DEC68854.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "JV-28689-1949-QmPhjtYWXAgvHtcuTWn3LqrPuaMmRCcgfQdFH19ch1fTDB.mp3::DV512389.mp3",
-    "title": "Maple Leaf Rag",
-    "artist": "Unknown artist",
-    "url": "https://archive.org/download/JV-28689-1949-QmPhjtYWXAgvHtcuTWn3LqrPuaMmRCcgfQdFH19ch1fTDB.mp3/DV512389.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "JV-28695-1949-QmcGRe7id45rdg8og7RTxE5LdSdCG2XYgKAWkhPHm7262w.mp3::MER2503-1.mp3",
-    "title": "Abdullah's Fiesta",
-    "artist": "Unknown artist",
-    "url": "https://archive.org/download/JV-28695-1949-QmcGRe7id45rdg8og7RTxE5LdSdCG2XYgKAWkhPHm7262w.mp3/MER2503-1.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "JV-28859-1949-QmetwJgpDCxuFA5Ebj9ayKhCHhuhMQALb9NkEV3ySwCBeg.mp3::CL497841.mp3",
-    "title": "For Bopper's Only",
-    "artist": "Unknown artist",
-    "url": "https://archive.org/download/JV-28859-1949-QmetwJgpDCxuFA5Ebj9ayKhCHhuhMQALb9NkEV3ySwCBeg.mp3/CL497841.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "JV-28863-1949-QmSHbRrYXH8P4kMMQMVYJXydCzpEDQTFnQd2CpuJ7sKTon.mp3::TS485304.mp3",
-    "title": "Battleground",
-    "artist": "Unknown artist",
-    "url": "https://archive.org/download/JV-28863-1949-QmSHbRrYXH8P4kMMQMVYJXydCzpEDQTFnQd2CpuJ7sKTon.mp3/TS485304.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "JV-28890-1949-QmNU6UxRccZCiCtjBKhXHjp8q6MnzHTp6pMf4zA1mY6YiQ.mp3::DV515817.mp3",
-    "title": "Pat",
-    "artist": "Unknown artist",
-    "url": "https://archive.org/download/JV-28890-1949-QmNU6UxRccZCiCtjBKhXHjp8q6MnzHTp6pMf4zA1mY6YiQ.mp3/DV515817.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "JV-28752-1949-QmZ3kqAiZJjDUJcBAPLuyXmJFeKBbbKpYxeSMh6SUmD5jN.mp3::DECDR-13294.mp3",
-    "title": "Lady Byrd",
-    "artist": "Unknown artist",
-    "url": "https://archive.org/download/JV-28752-1949-QmZ3kqAiZJjDUJcBAPLuyXmJFeKBbbKpYxeSMh6SUmD5jN.mp3/DECDR-13294.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "JV-28756-1949-QmdatbVck7E9NeRKxDC2QfTTBuyUHpvpqk6v42KXnBxXLV.mp3::CL497785.mp3",
-    "title": "'Gator Tail (pt 2)",
-    "artist": "Unknown artist",
-    "url": "https://archive.org/download/JV-28756-1949-QmdatbVck7E9NeRKxDC2QfTTBuyUHpvpqk6v42KXnBxXLV.mp3/CL497785.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "JV-28772-1949-QmXDHHki2JAAHXCx4tzKQYonL5ZkXeTA5yBPp3S2YAmG2H.mp3::DV519189.mp3",
-    "title": "Veloa",
-    "artist": "Unknown artist",
-    "url": "https://archive.org/download/JV-28772-1949-QmXDHHki2JAAHXCx4tzKQYonL5ZkXeTA5yBPp3S2YAmG2H.mp3/DV519189.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "JV-28786-1949-QmdDS7nTXCHpCVWYv53WiQeZpm7Lk13Ykhh21gwMGV7Xso.mp3::DV519249.mp3",
-    "title": "Portrait Of Edward Kennedy Ellington (pt1)",
-    "artist": "Unknown artist",
-    "url": "https://archive.org/download/JV-28786-1949-QmdDS7nTXCHpCVWYv53WiQeZpm7Lk13Ykhh21gwMGV7Xso.mp3/DV519249.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "JV-19039-1941-Qma5dJWM9WgGSn2dzg7M5avPDHncq13ap5bwNKFijbinU1.mp3::BB505714.mp3",
-    "title": "Two Hearts Met",
-    "artist": "Unknown artist",
-    "url": "https://archive.org/download/JV-19039-1941-Qma5dJWM9WgGSn2dzg7M5avPDHncq13ap5bwNKFijbinU1.mp3/BB505714.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "JV-19049-1941-QmVehkATQcQwBMmLBKeHrHcpcQaJxNGTiFZ5cEZok1fCZC.mp3::DV517446.mp3",
-    "title": "Walking By The River",
-    "artist": "Unknown artist",
-    "url": "https://archive.org/download/JV-19049-1941-QmVehkATQcQwBMmLBKeHrHcpcQaJxNGTiFZ5cEZok1fCZC.mp3/DV517446.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "JV-28571-1949-QmcaKTtMrUcEX2GNAGicYtmYxbY4mrzV4qTU6tbBpjPyx5.mp3::DV516670.mp3",
-    "title": "Babouche",
-    "artist": "Unknown artist",
-    "url": "https://archive.org/download/JV-28571-1949-QmcaKTtMrUcEX2GNAGicYtmYxbY4mrzV4qTU6tbBpjPyx5.mp3/DV516670.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "JV-28574-1949-QmWb7skSxurhLiWWf88DMxLUGNQosd7nCjaJZYomgy89XX.mp3::TS491506.mp3",
-    "title": "Baby Sis (Maxology)",
-    "artist": "Unknown artist",
-    "url": "https://archive.org/download/JV-28574-1949-QmWb7skSxurhLiWWf88DMxLUGNQosd7nCjaJZYomgy89XX.mp3/TS491506.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "JV-28581-1949-QmedmAxjwQw4zB6TyqKpmcha8TXjrnNvoWEQ34h9BTg2qu.mp3::DV519903.mp3",
-    "title": "Playing Hot With Buddy Bolden",
-    "artist": "Unknown artist",
-    "url": "https://archive.org/download/JV-28581-1949-QmedmAxjwQw4zB6TyqKpmcha8TXjrnNvoWEQ34h9BTg2qu.mp3/DV519903.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "JV-28966-1949-QmYX9g7UJHsEZdHRRiGS12oWbjWQCu1m5faRNkfphB4whW.mp3::DEC74917.mp3",
-    "title": "Nine O'Clock Gal",
-    "artist": "Unknown artist",
-    "url": "https://archive.org/download/JV-28966-1949-QmYX9g7UJHsEZdHRRiGS12oWbjWQCu1m5faRNkfphB4whW.mp3/DEC74917.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "JV-28968-1949-QmSdBFXMZct8tHKDjyv2uVR2dewybwzycfqabSYREpceEU.mp3::DEC74919.mp3",
-    "title": "When My Sugar Walks Down The Street",
-    "artist": "Unknown artist",
-    "url": "https://archive.org/download/JV-28968-1949-QmSdBFXMZct8tHKDjyv2uVR2dewybwzycfqabSYREpceEU.mp3/DEC74919.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "JV-2938-1927-QmYdHWdG6frSPuRxtDo3oCeXSj6phifa3jLL6JQAad6b2a.mp3::JV-2938-1927-QmYdHWdG6frSPuRxtDo3oCeXSj6phifa3jLL6JQAad6b2a.mp3",
-    "title": "St. Louis Blues",
-    "artist": "Unknown artist",
-    "url": "https://archive.org/download/JV-2938-1927-QmYdHWdG6frSPuRxtDo3oCeXSj6phifa3jLL6JQAad6b2a.mp3/JV-2938-1927-QmYdHWdG6frSPuRxtDo3oCeXSj6phifa3jLL6JQAad6b2a.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "JV-29120-1949-QmVTsrnu5ifgqvP5YhZ3fjnWvtSRvxnygmVq5TSWmGXUAw.mp3::VicD9VB1849.mp3",
-    "title": "Not Tonight",
-    "artist": "Unknown artist",
-    "url": "https://archive.org/download/JV-29120-1949-QmVTsrnu5ifgqvP5YhZ3fjnWvtSRvxnygmVq5TSWmGXUAw.mp3/VicD9VB1849.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "JV-29124-1949-QmUJfsAjSJwgsBs7zNtyD9D4Pjv1R2vjY1aGRAQ6txciY3.mp3::WH511232.mp3",
-    "title": "(I'll Be Glad When You're Dead) You Rascal You",
-    "artist": "Unknown artist",
-    "url": "https://archive.org/download/JV-29124-1949-QmUJfsAjSJwgsBs7zNtyD9D4Pjv1R2vjY1aGRAQ6txciY3.mp3/WH511232.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "JV-29133-1949-QmbQ2eqnUixpYbAnfGSzPALbaNq9CLGFwhMTJujjKKbFhA.mp3::ATL248.mp3",
-    "title": "Twilight",
-    "artist": "Unknown artist",
-    "url": "https://archive.org/download/JV-29133-1949-QmbQ2eqnUixpYbAnfGSzPALbaNq9CLGFwhMTJujjKKbFhA.mp3/ATL248.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "JV-29143-1949-QmZKY2sRM4NAMcEqEXs1HZK6XBNDKFui6QMdEjBFgJvdme.mp3::CL496971.mp3",
-    "title": "Exactly Like You",
-    "artist": "Unknown artist",
-    "url": "https://archive.org/download/JV-29143-1949-QmZKY2sRM4NAMcEqEXs1HZK6XBNDKFui6QMdEjBFgJvdme.mp3/CL496971.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "JV-29145-1949-QmZ44uX32f6S4BcXmHHaPqRU3AP7WYvR1YjHJQGuBgUc6b.mp3::DH496126.mp3",
-    "title": "Be-Bop Spoken Here",
-    "artist": "Unknown artist",
-    "url": "https://archive.org/download/JV-29145-1949-QmZ44uX32f6S4BcXmHHaPqRU3AP7WYvR1YjHJQGuBgUc6b.mp3/DH496126.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "JV-29151-1949-QmXh3moDRTaNdBaMvYgt3prUQFUjiDFRSsRPAhVY6Dq1Zc.mp3::DH496130.mp3",
-    "title": "Excursions In Modern Music - ''Battle Of The Bands'' - Introduction",
-    "artist": "Unknown artist",
-    "url": "https://archive.org/download/JV-29151-1949-QmXh3moDRTaNdBaMvYgt3prUQFUjiDFRSsRPAhVY6Dq1Zc.mp3/DH496130.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "JV-29155-1949-QmdEuNatksU3kTb7GexoQiW3eyN4DUW7cRhGm3SmgN5f9S.mp3::DH496136.mp3",
-    "title": "Stan Kenton Interview At Intermission",
-    "artist": "Unknown artist",
-    "url": "https://archive.org/download/JV-29155-1949-QmdEuNatksU3kTb7GexoQiW3eyN4DUW7cRhGm3SmgN5f9S.mp3/DH496136.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "JV-29157-1949-QmW6xQ9Y5ZXZ9GZrdrPwrdcDNYN4A7mPcwQJnXVoxt3vHT.mp3::DV506896.mp3",
-    "title": "The Gates Of Paradise (B) The Mayor Of Perpignan (C) Some Day My Heart Will Awake",
-    "artist": "Unknown artist",
-    "url": "https://archive.org/download/JV-29157-1949-QmW6xQ9Y5ZXZ9GZrdrPwrdcDNYN4A7mPcwQJnXVoxt3vHT.mp3/DV506896.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "JV-29210-1949-QmdQdshbXMq5yvPkb7kKiphmxTTzPwxkxT6z6wh1AZZtqw.mp3::TS485795.mp3",
-    "title": "Sid's Bounce",
-    "artist": "Unknown artist",
-    "url": "https://archive.org/download/JV-29210-1949-QmdQdshbXMq5yvPkb7kKiphmxTTzPwxkxT6z6wh1AZZtqw.mp3/TS485795.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "JV-29234-1949-Qmd5xwD8ZDJEwG9TZKWGBY6CxHVaTi3LFtcDZJuqK13TsW.mp3::ND511325.mp3",
-    "title": "Only A Look",
-    "artist": "Unknown artist",
-    "url": "https://archive.org/download/JV-29234-1949-Qmd5xwD8ZDJEwG9TZKWGBY6CxHVaTi3LFtcDZJuqK13TsW.mp3/ND511325.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "JV-29235-1949-QmZnozAMrwJRc9FoqrxSmjda3dPntgNzozKj9fewmqrg1k.mp3::ND511365.mp3",
-    "title": "Dig A Little Deeper in God's Love",
-    "artist": "Unknown artist",
-    "url": "https://archive.org/download/JV-29235-1949-QmZnozAMrwJRc9FoqrxSmjda3dPntgNzozKj9fewmqrg1k.mp3/ND511365.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "JV-29251-1949-QmaKbwMendeVH8PxYX7zXSEijjDrsR9nvyZzYCiiAQVGti.mp3::HARCO41730.mp3",
-    "title": "That Lucky Old Sun",
-    "artist": "Unknown artist",
-    "url": "https://archive.org/download/JV-29251-1949-QmaKbwMendeVH8PxYX7zXSEijjDrsR9nvyZzYCiiAQVGti.mp3/HARCO41730.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "JV-29642-1950-QmRctfCgACTEUpYS4cDHwsghRkKRAtmTangXEgfdNrovdV.mp3::BB507392.mp3",
-    "title": "Limehouse Blues",
-    "artist": "Unknown artist",
-    "url": "https://archive.org/download/JV-29642-1950-QmRctfCgACTEUpYS4cDHwsghRkKRAtmTangXEgfdNrovdV.mp3/BB507392.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "JV-29660-1950-QmYeJ1hhYjpisUF66vHNhocB3KZUz67FxRkaaHdHtiufpx.mp3::DV518993.mp3",
-    "title": "Harmony Rag",
-    "artist": "Unknown artist",
-    "url": "https://archive.org/download/JV-29660-1950-QmYeJ1hhYjpisUF66vHNhocB3KZUz67FxRkaaHdHtiufpx.mp3/DV518993.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "JV-29672-1950-QmYt889mTZmLnstZzKHfJ9bEsLzbNpMgW9eqauT5gBkHTE.mp3::TS481801.mp3",
-    "title": "They Can't Take That Away From Me",
-    "artist": "Unknown artist",
-    "url": "https://archive.org/download/JV-29672-1950-QmYt889mTZmLnstZzKHfJ9bEsLzbNpMgW9eqauT5gBkHTE.mp3/TS481801.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "JV-29676-1950-QmXoQ9E93GrjQGMhtXfDbHMVvtfkB5sMdsT7qF4appBzg1.mp3::DV516276.mp3",
-    "title": "Bayside Blues",
-    "artist": "Unknown artist",
-    "url": "https://archive.org/download/JV-29676-1950-QmXoQ9E93GrjQGMhtXfDbHMVvtfkB5sMdsT7qF4appBzg1.mp3/DV516276.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "JV-29033-1949-QmUR6hQzrsRvJuUeXuWz222p9Z5pxZDCDCNQdzZ4Z44kb8.mp3::CL499398.mp3",
-    "title": "As I Love You",
-    "artist": "Unknown artist",
-    "url": "https://archive.org/download/JV-29033-1949-QmUR6hQzrsRvJuUeXuWz222p9Z5pxZDCDCNQdzZ4Z44kb8.mp3/CL499398.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "JV-29044-1949-QmcVfB7T4zTPUiJVJzKUSE59ZknHcmGJ5wRQmBtC4qtxML.mp3::DV515261.mp3",
-    "title": "Every Night Is Saturday Night",
-    "artist": "Unknown artist",
-    "url": "https://archive.org/download/JV-29044-1949-QmcVfB7T4zTPUiJVJzKUSE59ZknHcmGJ5wRQmBtC4qtxML.mp3/DV515261.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "JV-29282-1949-Qmd8xPRM5T6x97jyAM92rYm8r4YaeF1QjKp4Cvs3qicsbJ.mp3::COLCO41762.mp3",
-    "title": "I Cried For You",
-    "artist": "Unknown artist",
-    "url": "https://archive.org/download/JV-29282-1949-Qmd8xPRM5T6x97jyAM92rYm8r4YaeF1QjKp4Cvs3qicsbJ.mp3/COLCO41762.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "JV-2929-1927-QmXQ87cL7dH7pUrg6SGrhjhyyVn2o5ig1zhSGBTRhWgSs8.mp3::JV-2929-1927-QmXQ87cL7dH7pUrg6SGrhjhyyVn2o5ig1zhSGBTRhWgSs8.mp3",
-    "title": "Yes Flo ! (The Gal Who Never Says No)",
-    "artist": "Unknown artist",
-    "url": "https://archive.org/download/JV-2929-1927-QmXQ87cL7dH7pUrg6SGrhjhyyVn2o5ig1zhSGBTRhWgSs8.mp3/JV-2929-1927-QmXQ87cL7dH7pUrg6SGrhjhyyVn2o5ig1zhSGBTRhWgSs8.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "JV-18851-1941-Qmdt3EVKuYB7v32CBRXnMDzqL8H5nUm5s1T7uquiTV2oFL.mp3::BLU065727-1.mp3",
-    "title": "Uncle Bud",
-    "artist": "Unknown artist",
-    "url": "https://archive.org/download/JV-18851-1941-Qmdt3EVKuYB7v32CBRXnMDzqL8H5nUm5s1T7uquiTV2oFL.mp3/BLU065727-1.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "JV-18857-1941-QmYR8Q8pYZjLUK9QarLwP8Kw1jiTHWcLHGAyXjp9ZmRzhM.mp3::1941_178.mp3",
-    "title": "Daddy",
-    "artist": "Unknown artist",
-    "url": "https://archive.org/download/JV-18857-1941-QmYR8Q8pYZjLUK9QarLwP8Kw1jiTHWcLHGAyXjp9ZmRzhM.mp3/1941_178.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "JV-1888-1925-QmY3ktZaHbHUArb4tWLf1G15eLvn8QtvkM3GRvoExZiJXk.mp3::JV-1888-1925-QmY3ktZaHbHUArb4tWLf1G15eLvn8QtvkM3GRvoExZiJXk.mp3",
-    "title": "Florida Bound Blues",
-    "artist": "Unknown artist",
-    "url": "https://archive.org/download/JV-1888-1925-QmY3ktZaHbHUArb4tWLf1G15eLvn8QtvkM3GRvoExZiJXk.mp3/JV-1888-1925-QmY3ktZaHbHUArb4tWLf1G15eLvn8QtvkM3GRvoExZiJXk.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "JV-29016-1949-QmbsDBataKMh47qc8v6pKQKzmm5m6X1xANCLUcSf3yP1QJ.mp3::DV516024.mp3",
-    "title": "Come On In",
-    "artist": "Unknown artist",
-    "url": "https://archive.org/download/JV-29016-1949-QmbsDBataKMh47qc8v6pKQKzmm5m6X1xANCLUcSf3yP1QJ.mp3/DV516024.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "JV-29067-1949-Qmf2vXwcjzmXRSDe4JWRroioE91rSHWuFwUTQyqi64EsWz.mp3::CL498904.mp3",
-    "title": "Blue Bundles",
-    "artist": "Unknown artist",
-    "url": "https://archive.org/download/JV-29067-1949-Qmf2vXwcjzmXRSDe4JWRroioE91rSHWuFwUTQyqi64EsWz.mp3/CL498904.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "JV-29083-1949-QmdMwTbdg5hr6j7UNCq5JXHGS62oDJeUz3ygrEwcA9YEJF.mp3::ManA-1691.mp3",
-    "title": "Arleen",
-    "artist": "Unknown artist",
-    "url": "https://archive.org/download/JV-29083-1949-QmdMwTbdg5hr6j7UNCq5JXHGS62oDJeUz3ygrEwcA9YEJF.mp3/ManA-1691.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "JV-29309-1949-QmboLwQVP1cmmHv2FcFLBJXX6ZLwywM7T2Wxo367UGXnFh.mp3::Cl505815.mp3",
-    "title": "Blue Skies",
-    "artist": "Unknown artist",
-    "url": "https://archive.org/download/JV-29309-1949-QmboLwQVP1cmmHv2FcFLBJXX6ZLwywM7T2Wxo367UGXnFh.mp3/Cl505815.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "JV-29331-1949-Qmf1HJssZAwFgaCyZysKL4LxQDfhtNViFix5umrj7ogPXP.mp3::CL497083.mp3",
-    "title": "Blues In Second",
-    "artist": "Unknown artist",
-    "url": "https://archive.org/download/JV-29331-1949-Qmf1HJssZAwFgaCyZysKL4LxQDfhtNViFix5umrj7ogPXP.mp3/CL497083.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "JV-29339-1949-QmYSYVgqctHjVcPHD5F39xbFZS5jEEsk1thpA217dDFAiC.mp3::CL500330.mp3",
-    "title": "Good Bait",
-    "artist": "Unknown artist",
-    "url": "https://archive.org/download/JV-29339-1949-QmYSYVgqctHjVcPHD5F39xbFZS5jEEsk1thpA217dDFAiC.mp3/CL500330.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "JV-29342-1949-QmVoBzfqo1kfH41AVg9GJXijAC3xNKZhGkEZVuRxYZUh6S.mp3::DV516137.mp3",
-    "title": "Tea Pot",
-    "artist": "Unknown artist",
-    "url": "https://archive.org/download/JV-29342-1949-QmVoBzfqo1kfH41AVg9GJXijAC3xNKZhGkEZVuRxYZUh6S.mp3/DV516137.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "JV-19488-1941-QmcHYfHrXv6xXDWt8gcc2CvUFEw2d6m97pFQNrEvhcY4hv.mp3::DV513221.mp3",
-    "title": "Let Me Off Uptown",
-    "artist": "Unknown artist",
-    "url": "https://archive.org/download/JV-19488-1941-QmcHYfHrXv6xXDWt8gcc2CvUFEw2d6m97pFQNrEvhcY4hv.mp3/DV513221.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "JV-19513-1941-Qme9KCgw3iyk5da5AQNj7mBDxdERZGYUqCmE4EF6bemMdL.mp3::1942_199.mp3",
-    "title": "I Guess I'll Be On My Way",
-    "artist": "Unknown artist",
-    "url": "https://archive.org/download/JV-19513-1941-Qme9KCgw3iyk5da5AQNj7mBDxdERZGYUqCmE4EF6bemMdL.mp3/1942_199.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "JV-19519-1941-QmXtTGoSKQvh1hwkUsF5sYg5NKiTnhkE6yUC8CeNKt6B9Z.mp3::CL497243.mp3",
-    "title": "Knock Me A Kiss",
-    "artist": "Unknown artist",
-    "url": "https://archive.org/download/JV-19519-1941-QmXtTGoSKQvh1hwkUsF5sYg5NKiTnhkE6yUC8CeNKt6B9Z.mp3/CL497243.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "JV-19525-1941-QmZ5se5gSAQh1XqdyfYN76hiDpKnSnfxpxCYaZSixHPLbF.mp3::DECC93788.mp3",
-    "title": "Leap Frog",
-    "artist": "Unknown artist",
-    "url": "https://archive.org/download/JV-19525-1941-QmZ5se5gSAQh1XqdyfYN76hiDpKnSnfxpxCYaZSixHPLbF.mp3/DECC93788.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "JV-29578-1949-Qmb3wD3DTb6bejA6aFJXa1nWDrBXAuvB7HotWXBPtaqTFS.mp3::CL499404.mp3",
-    "title": "That's What My Baby Says",
-    "artist": "Unknown artist",
-    "url": "https://archive.org/download/JV-29578-1949-Qmb3wD3DTb6bejA6aFJXa1nWDrBXAuvB7HotWXBPtaqTFS.mp3/CL499404.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "JV-29579-1949-Qmf8wyZVFotGtGWHGmn4q6UFZ6RsqjanyKkQFN4AHUHjpc.mp3::CL359851.mp3",
-    "title": "Keep Me Close To You",
-    "artist": "Unknown artist",
-    "url": "https://archive.org/download/JV-29579-1949-Qmf8wyZVFotGtGWHGmn4q6UFZ6RsqjanyKkQFN4AHUHjpc.mp3/CL359851.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "JV-29588-1949-QmbiL8XXCS7ZpiFCgwbAJ3iDkhBjBhyCuk2kxkoxfzBqaT.mp3::HA509361.mp3",
-    "title": "Singin' The Blues",
-    "artist": "Unknown artist",
-    "url": "https://archive.org/download/JV-29588-1949-QmbiL8XXCS7ZpiFCgwbAJ3iDkhBjBhyCuk2kxkoxfzBqaT.mp3/HA509361.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "JV-29593-1949-QmcDuxHWeoW6KkFei1KpLXTD7NvGnR9wHZ8FaSF9vS3YNP.mp3::DV519717.mp3",
-    "title": "Farewell Amanda",
-    "artist": "Unknown artist",
-    "url": "https://archive.org/download/JV-29593-1949-QmcDuxHWeoW6KkFei1KpLXTD7NvGnR9wHZ8FaSF9vS3YNP.mp3/DV519717.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "JV-19925-1942-QmcD9E4Bi8mrmVSAo9ag3cr9QXVh8RhQYe1Y6P3SGTFGYd.mp3::DEC70411.mp3",
-    "title": "Hazel's Boogie Woogie",
-    "artist": "Unknown artist",
-    "url": "https://archive.org/download/JV-19925-1942-QmcD9E4Bi8mrmVSAo9ag3cr9QXVh8RhQYe1Y6P3SGTFGYd.mp3/DEC70411.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "JV-19929-1942-QmNoQcckrKUWVZv92vrt5WmM7wUbMYuzLYXTwqM2GTSBCZ.mp3::DEC70415.mp3",
-    "title": "Three Little Words",
-    "artist": "Unknown artist",
-    "url": "https://archive.org/download/JV-19929-1942-QmNoQcckrKUWVZv92vrt5WmM7wUbMYuzLYXTwqM2GTSBCZ.mp3/DEC70415.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "JV-1993-1926-QmXWwkUrpLQqeaoysTeQXM7giiUhChPRhwYQmFcARDWHEJ.mp3::JV-1993-1926-QmXWwkUrpLQqeaoysTeQXM7giiUhChPRhwYQmFcARDWHEJ.mp3",
-    "title": "Static Strut",
-    "artist": "Unknown artist",
-    "url": "https://archive.org/download/JV-1993-1926-QmXWwkUrpLQqeaoysTeQXM7giiUhChPRhwYQmFcARDWHEJ.mp3/JV-1993-1926-QmXWwkUrpLQqeaoysTeQXM7giiUhChPRhwYQmFcARDWHEJ.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "JV-19931-1942-QmZA5PrfP481Nkm4HRAy9j6xX9T3Fgb2NSDeYoJ9K1siLA.mp3::VIC075090.mp3",
-    "title": "That's Sabotage",
-    "artist": "Unknown artist",
-    "url": "https://archive.org/download/JV-19931-1942-QmZA5PrfP481Nkm4HRAy9j6xX9T3Fgb2NSDeYoJ9K1siLA.mp3/VIC075090.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "JV-19942-1942-QmavGSEPuTDusErHYPRveBmqLe424dDrw2XKmWuSy3UkdM.mp3::DV511922.mp3",
-    "title": "Tanning Dr. Jekyll's Hyde",
-    "artist": "Unknown artist",
-    "url": "https://archive.org/download/JV-19942-1942-QmavGSEPuTDusErHYPRveBmqLe424dDrw2XKmWuSy3UkdM.mp3/DV511922.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "JV-19943-1942-Qmam29Rr9Fqv19gp19xJAUsuinNaKALzXfSvmoNYZffPCG.mp3::1942_100.mp3",
-    "title": "One Dozen Roses",
-    "artist": "Unknown artist",
-    "url": "https://archive.org/download/JV-19943-1942-Qmam29Rr9Fqv19gp19xJAUsuinNaKALzXfSvmoNYZffPCG.mp3/1942_100.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "JV-18635-1941-QmQM4ccnZTb9aTZ2AQGvXYquhgTPyrRu3oPjLskN4w8RFS.mp3::DEC68894.mp3",
-    "title": "Keep Cool, Fool",
-    "artist": "Unknown artist",
-    "url": "https://archive.org/download/JV-18635-1941-QmQM4ccnZTb9aTZ2AQGvXYquhgTPyrRu3oPjLskN4w8RFS.mp3/DEC68894.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "JV-19131-1941-QmRKybP2YvdCRijJRVpktgr6hYpub18xHie3rn99DLTDK1.mp3::JV-19131-1941-QmRKybP2YvdCRijJRVpktgr6hYpub18xHie3rn99DLTDK1.mp3",
-    "title": "Memories of You",
-    "artist": "Unknown artist",
-    "url": "https://archive.org/download/JV-19131-1941-QmRKybP2YvdCRijJRVpktgr6hYpub18xHie3rn99DLTDK1.mp3/JV-19131-1941-QmRKybP2YvdCRijJRVpktgr6hYpub18xHie3rn99DLTDK1.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "JV-19136-1941-QmbVUAZTfVx9tkFPVR73xqBdr2sNTs6MENKZSBhC49CrNL.mp3::OKE30941.mp3",
-    "title": "Conchita (Cares Nothing About Love)",
-    "artist": "Unknown artist",
-    "url": "https://archive.org/download/JV-19136-1941-QmbVUAZTfVx9tkFPVR73xqBdr2sNTs6MENKZSBhC49CrNL.mp3/OKE30941.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "JV-19531-1941-QmZpJa7kUVur9MU3eGDNYWqtdwF5M92vM2SDgVEPogS3TL.mp3::Blu068403-1.mp3",
-    "title": "You Don't Know What Love Is",
-    "artist": "Unknown artist",
-    "url": "https://archive.org/download/JV-19531-1941-QmZpJa7kUVur9MU3eGDNYWqtdwF5M92vM2SDgVEPogS3TL.mp3/Blu068403-1.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "JV-19538-1941-QmXohckACUg3ntvFx5vUNbye5vD789mghzPq36qdavnNZF.mp3::OKEC4043-1.mp3",
-    "title": "Sweethearts Or Strangers",
-    "artist": "Unknown artist",
-    "url": "https://archive.org/download/JV-19538-1941-QmXohckACUg3ntvFx5vUNbye5vD789mghzPq36qdavnNZF.mp3/OKEC4043-1.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "JV-1958-1925-QmNfp46zu4Rp1FiadsmuPBTXuPGtog4ouyb3fcD9vxpE6z.mp3::JV-1958-1925-QmNfp46zu4Rp1FiadsmuPBTXuPGtog4ouyb3fcD9vxpE6z.mp3",
-    "title": "Sweet Child (I'm Wild About You)",
-    "artist": "Unknown artist",
-    "url": "https://archive.org/download/JV-1958-1925-QmNfp46zu4Rp1FiadsmuPBTXuPGtog4ouyb3fcD9vxpE6z.mp3/JV-1958-1925-QmNfp46zu4Rp1FiadsmuPBTXuPGtog4ouyb3fcD9vxpE6z.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "JV-29875-1950-QmeXwMs4oZ2rgAnFoYNXi5W7NxWfajGSAzMeNEWkdLbnpH.mp3::DV512560.mp3",
-    "title": "Well, Oh Well!",
-    "artist": "Unknown artist",
-    "url": "https://archive.org/download/JV-29875-1950-QmeXwMs4oZ2rgAnFoYNXi5W7NxWfajGSAzMeNEWkdLbnpH.mp3/DV512560.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "JV-29896-1950-QmS84kEhdkzEB6K5iduVWpY7n2UQmquAZjLTzqHops88TX.mp3::DV516092.mp3",
-    "title": "Little Peach From East Orange",
-    "artist": "Unknown artist",
-    "url": "https://archive.org/download/JV-29896-1950-QmS84kEhdkzEB6K5iduVWpY7n2UQmquAZjLTzqHops88TX.mp3/DV516092.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "JV-20146-1942-QmSYRfzkBkw5FiLsy7UHoaW6sBybfx1p8QPfXDMwqtyrmi.mp3::COLHCO827.mp3",
-    "title": "He's My Guy",
-    "artist": "Unknown artist",
-    "url": "https://archive.org/download/JV-20146-1942-QmSYRfzkBkw5FiLsy7UHoaW6sBybfx1p8QPfXDMwqtyrmi.mp3/COLHCO827.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "JV-20157-1942-QmQg32RJLitTCpjyQSkzVGGaVciyVgLsZT5PZUhTTHRPYD.mp3::DV521745.mp3",
-    "title": "Moose March",
-    "artist": "Unknown artist",
-    "url": "https://archive.org/download/JV-20157-1942-QmQg32RJLitTCpjyQSkzVGGaVciyVgLsZT5PZUhTTHRPYD.mp3/DV521745.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "JV-29844-1950-Qmd1wnhnTVua6anBJwExpdp5ucPaECpfaAgpk682S6pRVq.mp3::CL500451.mp3",
-    "title": "Nothing For Nothing",
-    "artist": "Unknown artist",
-    "url": "https://archive.org/download/JV-29844-1950-Qmd1wnhnTVua6anBJwExpdp5ucPaECpfaAgpk682S6pRVq.mp3/CL500451.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "JV-29849-1950-QmNfm3hPbXEtXGFVdQxs2gCNjvz41iPnYC6XQXEeKEQm2p.mp3::CL160372.mp3",
-    "title": "Jeanette",
-    "artist": "Unknown artist",
-    "url": "https://archive.org/download/JV-29849-1950-QmNfm3hPbXEtXGFVdQxs2gCNjvz41iPnYC6XQXEeKEQm2p.mp3/CL160372.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "JV-29869-1950-QmdCCCTk6Z6vADM8JaVTsjwU4J4UnZyAYrtHa5tbjWAmc4.mp3::RCAEOVB3187.mp3",
-    "title": "If You See My Baby",
-    "artist": "Unknown artist",
-    "url": "https://archive.org/download/JV-29869-1950-QmdCCCTk6Z6vADM8JaVTsjwU4J4UnZyAYrtHa5tbjWAmc4.mp3/RCAEOVB3187.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "JV-3004-1927-QmSWwGu9nYS6i4fNfX2E6KfcQKgok9oH3faJVTzsfWjvF6.mp3::BB502305.mp3",
-    "title": "Lucy Long",
-    "artist": "Unknown artist",
-    "url": "https://archive.org/download/JV-3004-1927-QmSWwGu9nYS6i4fNfX2E6KfcQKgok9oH3faJVTzsfWjvF6.mp3/BB502305.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "JV-30046-1950-QmfKTxcnsV8wFZa2vMB5csk6WixmDKR1uwNSBfz7ZUgYTZ.mp3::DW523601.mp3",
-    "title": "Missouri Waltz",
-    "artist": "Unknown artist",
-    "url": "https://archive.org/download/JV-30046-1950-QmfKTxcnsV8wFZa2vMB5csk6WixmDKR1uwNSBfz7ZUgYTZ.mp3/DW523601.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "JV-30084-1950-Qmb8Rd63EVzwq78rKeyT8Gyj4vzgSUbjTa3WVUW46udLqP.mp3::DW524201.mp3",
-    "title": "Sometimes I Wonder",
-    "artist": "Unknown artist",
-    "url": "https://archive.org/download/JV-30084-1950-Qmb8Rd63EVzwq78rKeyT8Gyj4vzgSUbjTa3WVUW46udLqP.mp3/DW524201.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "JV-30916-1951-QmdxCFstZ6YWr3QJnSX4DJjnByF41sBoDjR3eckFyEv6tp.mp3::DV516285.mp3",
-    "title": "Blue Moon",
-    "artist": "Unknown artist",
-    "url": "https://archive.org/download/JV-30916-1951-QmdxCFstZ6YWr3QJnSX4DJjnByF41sBoDjR3eckFyEv6tp.mp3/DV516285.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "JV-30957-1951-QmZhGjt1XyLYobfRuQkoDDBqTKCXcdS86J82mGFeAVrhum.mp3::DW524329.mp3",
-    "title": "Scotty",
-    "artist": "Unknown artist",
-    "url": "https://archive.org/download/JV-30957-1951-QmZhGjt1XyLYobfRuQkoDDBqTKCXcdS86J82mGFeAVrhum.mp3/DW524329.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "JV-14121-1938-QmUvMhXp1Dj9pYGZJH2xStBwp9vJqgRaM4ei8zMXMRRyWW.mp3::DW523081.mp3",
-    "title": "My Buddy",
-    "artist": "Unknown artist",
-    "url": "https://archive.org/download/JV-14121-1938-QmUvMhXp1Dj9pYGZJH2xStBwp9vJqgRaM4ei8zMXMRRyWW.mp3/DW523081.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "JV-14137-1938-QmZJSce1U99ACBHv5ArvTHcPgV8Aikm7gEGLXC78CwDDHT.mp3::COMP23422.mp3",
-    "title": "Countless Blues",
-    "artist": "Unknown artist",
-    "url": "https://archive.org/download/JV-14137-1938-QmZJSce1U99ACBHv5ArvTHcPgV8Aikm7gEGLXC78CwDDHT.mp3/COMP23422.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "JV-14144-1938-QmadXHtdAmnuArvQ1TsVTaihFbW5xWuE8u38iVY9zHvMP4.mp3::VIC027243-2.mp3",
-    "title": "You Must Have Been A Beautiful Baby",
-    "artist": "Unknown artist",
-    "url": "https://archive.org/download/JV-14144-1938-QmadXHtdAmnuArvQ1TsVTaihFbW5xWuE8u38iVY9zHvMP4.mp3/VIC027243-2.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "JV-14156-1938-QmRWRXfV4NSHVVLvmSMoS7vnFseH6hiGuCDRxztpLvEm5B.mp3::BRUC2358-2.mp3",
-    "title": "After Looking At You",
-    "artist": "Unknown artist",
-    "url": "https://archive.org/download/JV-14156-1938-QmRWRXfV4NSHVVLvmSMoS7vnFseH6hiGuCDRxztpLvEm5B.mp3/BRUC2358-2.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "JV-14537-1939-QmR3WgThfWRP2RsXAVMAQKoVj6XXbG8fzNBYtBYU4Eecr6.mp3::DavDS-118.mp3",
-    "title": "I Wouldn't Have Known It",
-    "artist": "Unknown artist",
-    "url": "https://archive.org/download/JV-14537-1939-QmR3WgThfWRP2RsXAVMAQKoVj6XXbG8fzNBYtBYU4Eecr6.mp3/DavDS-118.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "JV-14551-1939-QmSHEQfDDr19gRr5LCY6okmkmYK4HuTFRDzV7FsFpLZ4ui.mp3::DEC64851.mp3",
-    "title": "My Heart Belongs To Daddy",
-    "artist": "Unknown artist",
-    "url": "https://archive.org/download/JV-14551-1939-QmSHEQfDDr19gRr5LCY6okmkmYK4HuTFRDzV7FsFpLZ4ui.mp3/DEC64851.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "JV-14553-1939-QmPXcZt81mXT6f8XSSkojJDFGcFLD7hMjwQhjGXF1VqEqx.mp3::1939_042.mp3",
-    "title": "Could Be",
-    "artist": "Unknown artist",
-    "url": "https://archive.org/download/JV-14553-1939-QmPXcZt81mXT6f8XSSkojJDFGcFLD7hMjwQhjGXF1VqEqx.mp3/1939_042.mp3",
-    "mime": "audio/mpeg",
+    "id": "haunted-disco-covers-covens::Haunted Disco - COVERS & COVENS - 01 ARE.wav",
+    "title": "COVERS & COVENS",
+    "artist": "Haunted Disco",
+    "url": "https://archive.org/download/haunted-disco-covers-covens/Haunted%20Disco%20-%20COVERS%20%26%20COVENS%20-%2001%20ARE.wav",
+    "mime": "audio/wav",
     "license": "Public Domain",
     "source": "Internet Archive"
   },
   {
-    "id": "JV-14351-1938-Qma27UdzMRzNX85QU7NxCLQE1ZKjBkJtbS6b1iJYG5UKzu.mp3::CL497460.mp3",
-    "title": "Off Time",
-    "artist": "Unknown artist",
-    "url": "https://archive.org/download/JV-14351-1938-Qma27UdzMRzNX85QU7NxCLQE1ZKjBkJtbS6b1iJYG5UKzu.mp3/CL497460.mp3",
+    "id": "ClifTaylorSuckingIceCubes-_01::Sucking_Ice_Cubes01.mp3",
+    "title": "Sucking Ice Cubes - #01",
+    "artist": "Clif Taylor",
+    "url": "https://archive.org/download/ClifTaylorSuckingIceCubes-_01/Sucking_Ice_Cubes01.mp3",
     "mime": "audio/mpeg",
-    "license": "Public Domain",
+    "license": "CC BY",
     "source": "Internet Archive"
   },
   {
-    "id": "JV-14369-1938-QmNorkiEVpYxCnCvfKAygRKzbVQofGYNcbTifCnGdDLQTG.mp3::VIC030169.mp3",
-    "title": "Flashes",
+    "id": "CklnRudeAwakeningCalmingDownAndConcentratingInCommunistCanada-May::60.CKLNRudeAwakeing_CalmDownAndConcentrateInCommieCanada_25May10sm.mp3",
+    "title": "CKLN Rude Awakening: Calming Down and Concentrating in Communist Canada - May 25, 2010",
     "artist": "Unknown artist",
-    "url": "https://archive.org/download/JV-14369-1938-QmNorkiEVpYxCnCvfKAygRKzbVQofGYNcbTifCnGdDLQTG.mp3/VIC030169.mp3",
+    "url": "https://archive.org/download/CklnRudeAwakeningCalmingDownAndConcentratingInCommunistCanada-May/60.CKLNRudeAwakeing_CalmDownAndConcentrateInCommieCanada_25May10sm.mp3",
     "mime": "audio/mpeg",
-    "license": "Public Domain",
+    "license": "CC BY",
     "source": "Internet Archive"
   },
   {
-    "id": "JV-13919-1938-QmVYN3z4ornfezmmVGaBYmoh6poQXG1UzuKnkpUbiLd7cL.mp3::VIC019442.mp3",
-    "title": "Sweetheart Of Sigma Chi",
-    "artist": "Unknown artist",
-    "url": "https://archive.org/download/JV-13919-1938-QmVYN3z4ornfezmmVGaBYmoh6poQXG1UzuKnkpUbiLd7cL.mp3/VIC019442.mp3",
+    "id": "ChemSet::ChemSet-CatandMouse.mp3",
+    "title": "ChemSet",
+    "artist": "Ken Goudsward",
+    "url": "https://archive.org/download/ChemSet/ChemSet-CatandMouse.mp3",
     "mime": "audio/mpeg",
-    "license": "Public Domain",
+    "license": "CC BY",
     "source": "Internet Archive"
   },
   {
-    "id": "JV-14682-1939-QmcxFt58XiWEu4QDUFUWzjudbuX6FHuhr2e6H38R1p6PmU.mp3::Oke24053-1.mp3",
-    "title": "The Lonesome Road",
-    "artist": "Unknown artist",
-    "url": "https://archive.org/download/JV-14682-1939-QmcxFt58XiWEu4QDUFUWzjudbuX6FHuhr2e6H38R1p6PmU.mp3/Oke24053-1.mp3",
+    "id": "wc.b.24::WC.B.24.mp3",
+    "title": "Que Hare Lejos de Ti, sung by Manuela Garcia",
+    "artist": "Lummis, Charles Fletcher, 1859-1928",
+    "url": "https://archive.org/download/wc.b.24/WC.B.24.mp3",
     "mime": "audio/mpeg",
     "license": "Public Domain",
     "source": "Internet Archive"
   },
   {
-    "id": "JV-14453-1938-QmZ7XKCG3cFNc4poyUTcasYEcFgTWaBJXur4hW3JGJ2Lae.mp3::BLU030734.mp3",
-    "title": "It Took A Million Years",
-    "artist": "Unknown artist",
-    "url": "https://archive.org/download/JV-14453-1938-QmZ7XKCG3cFNc4poyUTcasYEcFgTWaBJXur4hW3JGJ2Lae.mp3/BLU030734.mp3",
-    "mime": "audio/mpeg",
+    "id": "BRAZY::BRAZY .wav",
+    "title": "BRAZY",
+    "artist": "Gasboyy vibez",
+    "url": "https://archive.org/download/BRAZY/BRAZY%20.wav",
+    "mime": "audio/wav",
     "license": "Public Domain",
     "source": "Internet Archive"
   },
   {
-    "id": "JV-14470-1938-QmWNkLzZmEaF4RWz8rN6ioWifeJ1RG9xx2Z6tjhDUZfhaD.mp3::DEC64835.mp3",
-    "title": "Blue Evening",
-    "artist": "Unknown artist",
-    "url": "https://archive.org/download/JV-14470-1938-QmWNkLzZmEaF4RWz8rN6ioWifeJ1RG9xx2Z6tjhDUZfhaD.mp3/DEC64835.mp3",
+    "id": "ChrisSuAshaPassmenot::PassMeNot.mp3",
+    "title": "Pass me not",
+    "artist": "Chris Su Asha",
+    "url": "https://archive.org/download/ChrisSuAshaPassmenot/PassMeNot.mp3",
     "mime": "audio/mpeg",
-    "license": "Public Domain",
+    "license": "CC BY",
     "source": "Internet Archive"
   },
   {
-    "id": "JV-14475-1938-QmdbFQwcG3KJw5UvGQQ5pmPtAH3oiXxJMnTk3YcMMR7PfD.mp3::DV520415.mp3",
-    "title": "I Go For That",
-    "artist": "Unknown artist",
-    "url": "https://archive.org/download/JV-14475-1938-QmdbFQwcG3KJw5UvGQQ5pmPtAH3oiXxJMnTk3YcMMR7PfD.mp3/DV520415.mp3",
+    "id": "omnifr::omnifr.mp3",
+    "title": "omnifarm",
+    "artist": "New Real/Vericer",
+    "url": "https://archive.org/download/omnifr/omnifr.mp3",
     "mime": "audio/mpeg",
     "license": "Public Domain",
     "source": "Internet Archive"
   },
   {
-    "id": "JV-1449-1925-QmRFcAEfz2rG1Kq1F5oUU6eieXMXwCjGBWvACMoEwDT9Ka.mp3::JV-1449-1925-QmRFcAEfz2rG1Kq1F5oUU6eieXMXwCjGBWvACMoEwDT9Ka.mp3",
-    "title": "Play Me Slow",
-    "artist": "Unknown artist",
-    "url": "https://archive.org/download/JV-1449-1925-QmRFcAEfz2rG1Kq1F5oUU6eieXMXwCjGBWvACMoEwDT9Ka.mp3/JV-1449-1925-QmRFcAEfz2rG1Kq1F5oUU6eieXMXwCjGBWvACMoEwDT9Ka.mp3",
+    "id": "BubbleSong::BubbleSong.mp3",
+    "title": "bubble song",
+    "artist": "mike brown",
+    "url": "https://archive.org/download/BubbleSong/BubbleSong.mp3",
     "mime": "audio/mpeg",
-    "license": "Public Domain",
+    "license": "CC BY",
     "source": "Internet Archive"
   },
   {
-    "id": "JV-14530-1939-QmXb9cUg1wT6NpWnR5uEAU3nak4e4q1A69w4qhQ9eu5fLX.mp3::DavDS-110.mp3",
-    "title": "Ta-De-Ah",
-    "artist": "Unknown artist",
-    "url": "https://archive.org/download/JV-14530-1939-QmXb9cUg1wT6NpWnR5uEAU3nak4e4q1A69w4qhQ9eu5fLX.mp3/DavDS-110.mp3",
+    "id": "yarn004::Turning_Torso-Jacaranda.mp3",
+    "title": "Turning Torso - Jacaranda [YARN004]",
+    "artist": "Turning Torso",
+    "url": "https://archive.org/download/yarn004/Turning_Torso-Jacaranda.mp3",
     "mime": "audio/mpeg",
-    "license": "Public Domain",
+    "license": "CC BY-SA",
     "source": "Internet Archive"
   },
   {
-    "id": "JV-14533-1939-QmNYX7gh5WcTqXezzQ3smR8YoHzou1itPSJJB4u2ta4EtS.mp3::DavDS-113.mp3",
-    "title": "I Lost Control Of Myself",
-    "artist": "Unknown artist",
-    "url": "https://archive.org/download/JV-14533-1939-QmNYX7gh5WcTqXezzQ3smR8YoHzou1itPSJJB4u2ta4EtS.mp3/DavDS-113.mp3",
+    "id": "yarn005::Zimbra_Sound-Locked_Horner_Remix.mp3",
+    "title": "The Lost Remixes [YARN005]",
+    "artist": "Various",
+    "url": "https://archive.org/download/yarn005/Zimbra_Sound-Locked_Horner_Remix.mp3",
     "mime": "audio/mpeg",
-    "license": "Public Domain",
+    "license": "CC BY-SA",
     "source": "Internet Archive"
   },
   {
-    "id": "JV-14643-1939-QmVevBModDWnykhoSejcGWuSfvxei5o9RVB7R7fCUYkYiK.mp3::DEC64931.mp3",
-    "title": "Song Of The Wanderer",
-    "artist": "Unknown artist",
-    "url": "https://archive.org/download/JV-14643-1939-QmVevBModDWnykhoSejcGWuSfvxei5o9RVB7R7fCUYkYiK.mp3/DEC64931.mp3",
+    "id": "Brianitiswell::07ItisWell.mp3",
+    "title": "it is well",
+    "artist": "Brian",
+    "url": "https://archive.org/download/Brianitiswell/07ItisWell.mp3",
     "mime": "audio/mpeg",
-    "license": "Public Domain",
+    "license": "CC BY",
     "source": "Internet Archive"
   },
   {
-    "id": "JV-14656-1939-QmcdUKCqsLTTxYoixTkarcyScimw3LnrMT8eGGUmUzZAAK.mp3::Dec64957-B.mp3",
-    "title": "When The Sun Goes Down (In The Evening)",
-    "artist": "Unknown artist",
-    "url": "https://archive.org/download/JV-14656-1939-QmcdUKCqsLTTxYoixTkarcyScimw3LnrMT8eGGUmUzZAAK.mp3/Dec64957-B.mp3",
+    "id": "yamaha-genos-2-guitar-voice::Yamaha_Genos_2_-_Bass.mp3",
+    "title": "Yamaha Genos 2 Recording Instrumental Voice Demo",
+    "artist": "Yamaha Corporation",
+    "url": "https://archive.org/download/yamaha-genos-2-guitar-voice/Yamaha_Genos_2_-_Bass.mp3",
     "mime": "audio/mpeg",
     "license": "Public Domain",
     "source": "Internet Archive"
   },
   {
-    "id": "JV-14664-1939-QmbXTYfQweqXPjiY67EwSZtofcusjmBWWtQe8vXKaDvffD.mp3::TedP-24025-1.mp3",
-    "title": "China Boy",
-    "artist": "Unknown artist",
-    "url": "https://archive.org/download/JV-14664-1939-QmbXTYfQweqXPjiY67EwSZtofcusjmBWWtQe8vXKaDvffD.mp3/TedP-24025-1.mp3",
-    "mime": "audio/mpeg",
+    "id": "wunderhorse-july-live-at-isle-of-wight-festival-2024::Wunderhorse - July Live at Isle Of Wight Festival 2024.m4a",
+    "title": "Wunderhorse July Live At Isle Of Wight Festival 2024",
+    "artist": "Wunderhorse",
+    "url": "https://archive.org/download/wunderhorse-july-live-at-isle-of-wight-festival-2024/Wunderhorse%20-%20July%20Live%20at%20Isle%20Of%20Wight%20Festival%202024.m4a",
+    "mime": "audio/mp4",
     "license": "Public Domain",
     "source": "Internet Archive"
   },
   {
-    "id": "JV-15613-1939-QmV7pexhg18zcpXAna2VoAfr4f3LvU23Z6Z8rStRPA8tR8.mp3::DV520491.mp3",
-    "title": "Then I Wrote The Minuet In G",
-    "artist": "Unknown artist",
-    "url": "https://archive.org/download/JV-15613-1939-QmV7pexhg18zcpXAna2VoAfr4f3LvU23Z6Z8rStRPA8tR8.mp3/DV520491.mp3",
+    "id": "wc.b.27::WC.B.27.mp3",
+    "title": "La Violeta and Hombre Ingrato, sung by Manuela Garcia",
+    "artist": "Garcia, Manuela, singer, Uruchurtu, Rosendo, performer",
+    "url": "https://archive.org/download/wc.b.27/WC.B.27.mp3",
     "mime": "audio/mpeg",
     "license": "Public Domain",
     "source": "Internet Archive"
   },
   {
-    "id": "JV-15629-1939-QmNfzDHSH2z4xy4Xz2dePmis7nCwFXZXBZCEsKUH2ZcX7r.mp3::COLCO26014.mp3",
-    "title": "I Wanna Hat With Cherries",
-    "artist": "Unknown artist",
-    "url": "https://archive.org/download/JV-15629-1939-QmNfzDHSH2z4xy4Xz2dePmis7nCwFXZXBZCEsKUH2ZcX7r.mp3/COLCO26014.mp3",
+    "id": "CallForPeaceFreeImprovisationDanielTriunfoMasteringBOX::call for peace (Free improvisation)-Daniel Triunfo_MasteringBOX.mp3",
+    "title": "Call For Peace ( Free Improvisation) Daniel Triunfo Mastering BOX",
+    "artist": "Daniel Triunfo",
+    "url": "https://archive.org/download/CallForPeaceFreeImprovisationDanielTriunfoMasteringBOX/call%20for%20peace%20%28Free%20improvisation%29-Daniel%20Triunfo_MasteringBOX.mp3",
     "mime": "audio/mpeg",
     "license": "Public Domain",
     "source": "Internet Archive"
@@ -1935,55 +783,10 @@
     "source": "Internet Archive"
   },
   {
-    "id": "calauem_002481::calauem_002481_a_access.m4a",
-    "title": "Eubie Blake and Duke Ellilngton (reel 52)",
+    "id": "calauem_002756::calauem_002756_b_access.m4a",
+    "title": "Workshop Presentation For Phys, Art, Lit, Mor Club (cassette 194)",
     "artist": "Unknown",
-    "url": "https://archive.org/download/calauem_002481/calauem_002481_a_access.m4a",
-    "mime": "audio/mp4",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "casbspl_000031::casbspl_000031_b_access.m4a",
-    "title": "Folk Society Concert featuring Clabe Hangan",
-    "artist": "Hangan, Clabe",
-    "url": "https://archive.org/download/casbspl_000031/casbspl_000031_b_access.m4a",
-    "mime": "audio/mp4",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "caclah_000128::caclah_000128_access.mp3",
-    "title": "Padua Hills Theatre Tapes - Tape 35 - Zapateado Jarocho and Caballo Negro",
-    "artist": "Unknown artist",
-    "url": "https://archive.org/download/caclah_000128/caclah_000128_access.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "calauem_200803_tape_11021_a_dc::calauem_200803_tape_11021_b_dc.mp3",
-    "title": "An Introduction to American Negro Music",
-    "artist": "Fahey, John, 1939-2001",
-    "url": "https://archive.org/download/calauem_200803_tape_11021_a_dc/calauem_200803_tape_11021_b_dc.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "calauem_000104::calauem_000104_access.mp3",
-    "title": "Festival of Philippine Arts and Cultures 2003 - San Pedro, CA - Performance 17",
-    "artist": "Unknown",
-    "url": "https://archive.org/download/calauem_000104/calauem_000104_access.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "calauem_002736::calauem_002736_b_access.m4a",
-    "title": "In Concert: Raby Maidah and C.D. Toliver (cassette 174)",
-    "artist": "Unknown",
-    "url": "https://archive.org/download/calauem_002736/calauem_002736_b_access.m4a",
+    "url": "https://archive.org/download/calauem_002756/calauem_002756_b_access.m4a",
     "mime": "audio/mp4",
     "license": "Public Domain",
     "source": "Internet Archive"
@@ -1994,42 +797,6 @@
     "artist": "Jonathan E. Spilman, James L. Gilbert, Robert Trucksess",
     "url": "https://archive.org/download/flowgentlysweeta10298gut/10298-m%2F10298-m-001.mp3",
     "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "caimphs_000018::caimphs_000018_access.m4a",
-    "title": "I Love You, California",
-    "artist": "Unknown",
-    "url": "https://archive.org/download/caimphs_000018/caimphs_000018_access.m4a",
-    "mime": "audio/mp4",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "calauem_002624::calauem_002624_b_access.m4a",
-    "title": "General Session (cassette 109)",
-    "artist": "Unknown",
-    "url": "https://archive.org/download/calauem_002624/calauem_002624_b_access.m4a",
-    "mime": "audio/mp4",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "calauem_002756::calauem_002756_b_access.m4a",
-    "title": "Workshop Presentation For Phys, Art, Lit, Mor Club (cassette 194)",
-    "artist": "Unknown",
-    "url": "https://archive.org/download/calauem_002756/calauem_002756_b_access.m4a",
-    "mime": "audio/mp4",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "calauem_001417::calauem_001417_access.m4a",
-    "title": "Kulintang Conference Paper",
-    "artist": "Lipat-Chesler, Eleanor",
-    "url": "https://archive.org/download/calauem_001417/calauem_001417_access.m4a",
-    "mime": "audio/mp4",
     "license": "Public Domain",
     "source": "Internet Archive"
   },
@@ -2047,15 +814,6 @@
     "title": "Hiromi at Palace of Fine Arts Theatre (2008)",
     "artist": "SFJAZZ (Organization)",
     "url": "https://archive.org/download/casfjazz_000405/casfjazz_000405_f00002_access.m4a",
-    "mime": "audio/mp4",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "calauem_002431::calauem_002431_access.m4a",
-    "title": "Ben Hilton (reel 8)",
-    "artist": "Unknown",
-    "url": "https://archive.org/download/calauem_002431/calauem_002431_access.m4a",
     "mime": "audio/mp4",
     "license": "Public Domain",
     "source": "Internet Archive"
@@ -2079,69 +837,6 @@
     "source": "Internet Archive"
   },
   {
-    "id": "casfjazz_000086::casfjazz_000086_t01_b_access.m4a",
-    "title": "Boogie Woogie Piano Summit, 1991",
-    "artist": "San Francisco Jazz Festival",
-    "url": "https://archive.org/download/casfjazz_000086/casfjazz_000086_t01_b_access.m4a",
-    "mime": "audio/mp4",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "casfjazz_000031::casfjazz_000031_b_access.m4a",
-    "title": "Jazz In the City 1988, \"A Gospel Tribute to The Hawkins Family\" with Walter Hawkins, Love Center Choir",
-    "artist": "Jazz In the City",
-    "url": "https://archive.org/download/casfjazz_000031/casfjazz_000031_b_access.m4a",
-    "mime": "audio/mp4",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "calauem_003064::calauem_003064_access.m4a",
-    "title": "Saruna/Kayo Ensemble",
-    "artist": "Kalanduyan, Danongan S.",
-    "url": "https://archive.org/download/calauem_003064/calauem_003064_access.m4a",
-    "mime": "audio/mp4",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "calauem_003151::calauem_003151_p01_p01_access.m4a",
-    "title": "Ismail's Palendag & Kulintang",
-    "artist": "Kalanduyan, Danongan S.",
-    "url": "https://archive.org/download/calauem_003151/calauem_003151_p01_p01_access.m4a",
-    "mime": "audio/mp4",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "calauem_002726::calauem_002726_access.m4a",
-    "title": "Freebairn Smith (cassette 170)",
-    "artist": "Unknown",
-    "url": "https://archive.org/download/calauem_002726/calauem_002726_access.m4a",
-    "mime": "audio/mp4",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "bluesmynaughtysw10248gut::10248-m/10248-m-001.mp3",
-    "title": "Blues my Naughty Sweetie Gives to Me",
-    "artist": "Harry Raderman's Jazz Orchestra",
-    "url": "https://archive.org/download/bluesmynaughtysw10248gut/10248-m%2F10248-m-001.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "casfjazz_000261::casfjazz_000261_f00002_access.m4a",
-    "title": "SFJAZZ Collective Inaugural Season, On Tour 03-26-2004 (Sacramento)",
-    "artist": "Unknown artist",
-    "url": "https://archive.org/download/casfjazz_000261/casfjazz_000261_f00002_access.m4a",
-    "mime": "audio/mp4",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
     "id": "csmha_000596::csmha_000596_access.m4a",
     "title": "Ruth St. Denis Brahms and Lazy Nautch",
     "artist": "St. Denis, Ruth, 1880-1968",
@@ -2151,28 +846,10 @@
     "source": "Internet Archive"
   },
   {
-    "id": "calauem_002426::calauem_002426_access.m4a",
-    "title": "A History of the Afro-American Through his Songs (reel 3)",
-    "artist": "Unknown",
-    "url": "https://archive.org/download/calauem_002426/calauem_002426_access.m4a",
-    "mime": "audio/mp4",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "calauem_000492::calauem_000492_a_access.mp3",
-    "title": "Sephardic music: Isaac Sene Net Samarel Vitoria Hazan Hik",
-    "artist": "Sene, Emily",
-    "url": "https://archive.org/download/calauem_000492/calauem_000492_a_access.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "calauem_002438::calauem_002438_access.m4a",
-    "title": "Carole Only (reel 15)",
-    "artist": "Unknown",
-    "url": "https://archive.org/download/calauem_002438/calauem_002438_access.m4a",
+    "id": "casfjazz_000460::casfjazz_000460_f00003_access.m4a",
+    "title": "Omara Portuondo, 2010",
+    "artist": "SFJAZZ (Organization)",
+    "url": "https://archive.org/download/casfjazz_000460/casfjazz_000460_f00003_access.m4a",
     "mime": "audio/mp4",
     "license": "Public Domain",
     "source": "Internet Archive"
@@ -2187,42 +864,6 @@
     "source": "Internet Archive"
   },
   {
-    "id": "casfjazz_000339::casfjazz_000339_f00004_access.m4a",
-    "title": "Listening Party with Sam Stephenson, Green Room (2010)",
-    "artist": "Unknown artist",
-    "url": "https://archive.org/download/casfjazz_000339/casfjazz_000339_f00004_access.m4a",
-    "mime": "audio/mp4",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "calauem_002863::calauem_002863_access.m4a",
-    "title": "LAUSD: Marl young et al. (cassette 248)",
-    "artist": "Unknown",
-    "url": "https://archive.org/download/calauem_002863/calauem_002863_access.m4a",
-    "mime": "audio/mp4",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "calauem_003391::calauem_003391_access.m4a",
-    "title": "Oral history interview with Ed Pearl by Victor Cohen (Part 2 of 3)",
-    "artist": "Pearl, Ed",
-    "url": "https://archive.org/download/calauem_003391/calauem_003391_access.m4a",
-    "mime": "audio/mp4",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "casfjazz_000100::casfjazz_000100_t03_access.m4a",
-    "title": "Asian American Jazz Festival 1984 / October 6 with Rudy Tenio Sextet, Joseph \"Flip\" Nunez, Bobby Enriquez.",
-    "artist": "Asian American Jazz Festival",
-    "url": "https://archive.org/download/casfjazz_000100/casfjazz_000100_t03_access.m4a",
-    "mime": "audio/mp4",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
     "id": "cstbhi_000202::cstbhi_000202_access.m4a",
     "title": "Choral Music",
     "artist": "Santa Barbara Historical Museum",
@@ -2232,46 +873,10 @@
     "source": "Internet Archive"
   },
   {
-    "id": "casfjazz_000305::casfjazz_000305_f00004_access.m4a",
-    "title": "Rudresh Mahanthappa's Indo-Pak Coalition (2010)",
-    "artist": "Unknown artist",
-    "url": "https://archive.org/download/casfjazz_000305/casfjazz_000305_f00004_access.m4a",
-    "mime": "audio/mp4",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "calauem_002478::calauem_002478_access.m4a",
-    "title": "Jazz Funeral (reel 49)",
-    "artist": "Unknown",
-    "url": "https://archive.org/download/calauem_002478/calauem_002478_access.m4a",
-    "mime": "audio/mp4",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "calauem_003003::calauem_003003_access.m4a",
-    "title": "Untitled 14 (cassette 372)",
-    "artist": "Unknown",
-    "url": "https://archive.org/download/calauem_003003/calauem_003003_access.m4a",
-    "mime": "audio/mp4",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "calauem_002542::calauem_002542_b_access.m4a",
-    "title": "Johnny 4: 75 St School (cassette 31D )",
-    "artist": "Unknown",
-    "url": "https://archive.org/download/calauem_002542/calauem_002542_b_access.m4a",
-    "mime": "audio/mp4",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "caimphs_000011::caimphs_000011_access.m4a",
-    "title": "Found Me an Island (Ode to Imperial Valley) - Cliff Hurley",
-    "artist": "Hurley, Cliff; Bell, Mic",
-    "url": "https://archive.org/download/caimphs_000011/caimphs_000011_access.m4a",
+    "id": "casfjazz_000486::casfjazz_000486_f00002_access.m4a",
+    "title": "Luciana Souza, 2011",
+    "artist": "SFJAZZ (Organization)",
+    "url": "https://archive.org/download/casfjazz_000486/casfjazz_000486_f00002_access.m4a",
     "mime": "audio/mp4",
     "license": "Public Domain",
     "source": "Internet Archive"
@@ -2286,46 +891,10 @@
     "source": "Internet Archive"
   },
   {
-    "id": "calauem_000564::calauem_000564_access.mp3",
-    "title": "Sephardic music: Fidel Ade Ruf",
-    "artist": "Sene, Emily",
-    "url": "https://archive.org/download/calauem_000564/calauem_000564_access.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "calauem_003114::calauem_003114_p01_p01_access.m4a",
-    "title": "for Danny, Thanks! July 2, 2007 Chromodul Consent for Ornette",
-    "artist": "Kalanduyan, Danongan S.",
-    "url": "https://archive.org/download/calauem_003114/calauem_003114_p01_p01_access.m4a",
-    "mime": "audio/mp4",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "calauem_003046::calauem_003046_b_access.m4a",
-    "title": "Kulintang Ensemble, Cotabato City",
-    "artist": "Kalanduyan, Danongan S.",
-    "url": "https://archive.org/download/calauem_003046/calauem_003046_b_access.m4a",
-    "mime": "audio/mp4",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "calauem_000547::calauem_000547_b_access.mp3",
-    "title": "Sephardic music: Sam Maya",
-    "artist": "Sene, Emily",
-    "url": "https://archive.org/download/calauem_000547/calauem_000547_b_access.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "calauem_000619::calauem_000619_t02_access.mp3",
-    "title": "1965 UCLA Folk Festival: Concert: Children's Concert",
-    "artist": "University of California, Los Angeles",
-    "url": "https://archive.org/download/calauem_000619/calauem_000619_t02_access.mp3",
+    "id": "loc-jukebox-72967-ta-oula-sou::jukebox-72967_ta-oula-sou.mp3",
+    "title": "Ta oula sou",
+    "artist": "papagika, marika",
+    "url": "https://archive.org/download/loc-jukebox-72967-ta-oula-sou/jukebox-72967_ta-oula-sou.mp3",
     "mime": "audio/mpeg",
     "license": "Public Domain",
     "source": "Internet Archive"
@@ -2340,29 +909,11 @@
     "source": "Internet Archive"
   },
   {
-    "id": "casbspl_000008::casbspl_000008_b_access.m4a",
-    "title": "Clabe Hangan Storytelling Performance",
-    "artist": "Hangan, Clabe",
-    "url": "https://archive.org/download/casbspl_000008/casbspl_000008_b_access.m4a",
-    "mime": "audio/mp4",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "calauem_002744::calauem_002744_a_access.m4a",
-    "title": "Fund Raising Seminar 1 (cassette 182)",
-    "artist": "Unknown",
-    "url": "https://archive.org/download/calauem_002744/calauem_002744_a_access.m4a",
-    "mime": "audio/mp4",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "calauem_003381::calauem_003381_access.m4a",
-    "title": "Oral history interview with Ed Pearl by Victor Cohen (Part 2 of 2)",
-    "artist": "Pearl, Ed",
-    "url": "https://archive.org/download/calauem_003381/calauem_003381_access.m4a",
-    "mime": "audio/mp4",
+    "id": "poetandpeasantov10299gut::10299-m/10299-m-001.mp3",
+    "title": "Poet and Peasant Overture",
+    "artist": "Franz von Suppé, Eddie Peabody",
+    "url": "https://archive.org/download/poetandpeasantov10299gut/10299-m%2F10299-m-001.mp3",
+    "mime": "audio/mpeg",
     "license": "Public Domain",
     "source": "Internet Archive"
   },
@@ -2385,38 +936,11 @@
     "source": "Internet Archive"
   },
   {
-    "id": "casfjazz_000104::casfjazz_000104_t02_access.m4a",
-    "title": "Jazz In the City, Stride Piano Summit (1990) with Harry \"Sweets\" Edison, Jay McShann",
-    "artist": "Jazz in the City (Organization)",
-    "url": "https://archive.org/download/casfjazz_000104/casfjazz_000104_t02_access.m4a",
-    "mime": "audio/mp4",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "cfls_000338::cfls_000338_b_access.m4a",
-    "title": "Sight & Sound: Leo Kreter",
-    "artist": "California State University, Fullerton, Paulina June and George Pollak Library",
-    "url": "https://archive.org/download/cfls_000338/cfls_000338_b_access.m4a",
-    "mime": "audio/mp4",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "casfjazz_000404::casfjazz_000404_f00002_access.m4a",
-    "title": "SFJAZZ Pre-concert Talk with Hiromi at Palace of Fine Arts Theatre (2008)",
-    "artist": "SFJAZZ (Organization)",
-    "url": "https://archive.org/download/casfjazz_000404/casfjazz_000404_f00002_access.m4a",
-    "mime": "audio/mp4",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "caimphs_000010::caimphs_000010_access.m4a",
-    "title": "Song About Holton Interurban Railroad",
-    "artist": "Thornburg, Deborah",
-    "url": "https://archive.org/download/caimphs_000010/caimphs_000010_access.m4a",
-    "mime": "audio/mp4",
+    "id": "hungarianrhapsod10173gut::10173-m/10173-m-001.mp3",
+    "title": "Hungarian Rhapsody No. 2, Part 1",
+    "artist": "Franz Liszt, Edison Concert Band",
+    "url": "https://archive.org/download/hungarianrhapsod10173gut/10173-m%2F10173-m-001.mp3",
+    "mime": "audio/mpeg",
     "license": "Public Domain",
     "source": "Internet Archive"
   },
@@ -2538,15 +1062,6 @@
     "source": "Internet Archive"
   },
   {
-    "id": "calauem_002588::calauem_002588_access.m4a",
-    "title": "Darryl Taylor, Tenor (cassette 72)",
-    "artist": "Unknown",
-    "url": "https://archive.org/download/calauem_002588/calauem_002588_access.m4a",
-    "mime": "audio/mp4",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
     "id": "csmha_000599::csmha_000599_access.m4a",
     "title": "Ruth St. Denis on Isadora Duncan, East and West, the future of dance, and Ted Shawn",
     "artist": "St. Denis, Ruth, 1880-1968",
@@ -2556,109 +1071,73 @@
     "source": "Internet Archive"
   },
   {
-    "id": "calauem_002484::calauem_002484_access.m4a",
-    "title": "Cienaga School Concert 1 (reel 55A)",
-    "artist": "Unknown",
-    "url": "https://archive.org/download/calauem_002484/calauem_002484_access.m4a",
-    "mime": "audio/mp4",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "calauem_000184::calauem_000184_b_access.mp3",
-    "title": "Dale Lamotte member of the St. Brigid Catholic Church Choir",
-    "artist": "DjeDje, Jacqueline Cogdell",
-    "url": "https://archive.org/download/calauem_000184/calauem_000184_b_access.mp3",
+    "id": "WC.D.35::WC.D.35.mp3",
+    "title": "La Cancion de las Cualidades, sung by Adalaida Kamp",
+    "artist": "Lummis, Charles Fletcher, 1859-1928",
+    "url": "https://archive.org/download/WC.D.35/WC.D.35.mp3",
     "mime": "audio/mpeg",
     "license": "Public Domain",
     "source": "Internet Archive"
   },
   {
-    "id": "calauem_003105::calauem_003105_p01_p01_access.m4a",
-    "title": "Kulintang: CD Master 1",
-    "artist": "Kalanduyan, Danongan S.",
-    "url": "https://archive.org/download/calauem_003105/calauem_003105_p01_p01_access.m4a",
-    "mime": "audio/mp4",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "casfjazz_000332::casfjazz_000332_f00002_access.m4a",
-    "title": "Jason Moran, T.S. Monk & Others (Pre-Concert Talk and Concert), 2007",
-    "artist": "Unknown artist",
-    "url": "https://archive.org/download/casfjazz_000332/casfjazz_000332_f00002_access.m4a",
-    "mime": "audio/mp4",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "casfjazz_000237::casfjazz_000237_f00002_access.m4a",
-    "title": "Joshua Redman, Bill Frisell, Brian Blade, Larry Grenadier at SFJAZZ (2002)",
-    "artist": "Unknown artist",
-    "url": "https://archive.org/download/casfjazz_000237/casfjazz_000237_f00002_access.m4a",
-    "mime": "audio/mp4",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "casfjazz_000314::casfjazz_000314_f00002_access.m4a",
-    "title": "Paula West with the Eric Reed Trio & special guest Oscar Brown, Jr (2005)",
-    "artist": "Unknown artist",
-    "url": "https://archive.org/download/casfjazz_000314/casfjazz_000314_f00002_access.m4a",
-    "mime": "audio/mp4",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "calauem_002807::calauem_002807_access.m4a",
-    "title": "Eddie Beal 2 (cassette 221B)",
-    "artist": "Unknown",
-    "url": "https://archive.org/download/calauem_002807/calauem_002807_access.m4a",
-    "mime": "audio/mp4",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "calauem_002436::calauem_002436_p02_access.m4a",
-    "title": "Meadows, Blake & Browning (reel 13)",
-    "artist": "Unknown",
-    "url": "https://archive.org/download/calauem_002436/calauem_002436_p02_access.m4a",
-    "mime": "audio/mp4",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "calauem_200201_omaf0000258::calauem_200201_omaf0000258.mp3",
-    "title": "Oral Histories of UCLA Ethnomusicology: Helen Rees",
-    "artist": "Rees, Helen, 1964-",
-    "url": "https://archive.org/download/calauem_200201_omaf0000258/calauem_200201_omaf0000258.mp3",
+    "id": "WC.E.18::WC.E.18.mp3",
+    "title": "Sombrero Blanco, sung by Adalaida Kamp",
+    "artist": "Lummis, Charles Fletcher, 1859-1928",
+    "url": "https://archive.org/download/WC.E.18/WC.E.18.mp3",
     "mime": "audio/mpeg",
     "license": "Public Domain",
     "source": "Internet Archive"
   },
   {
-    "id": "calauem_002876::calauem_002876_access.m4a",
-    "title": "LAUSD: Deedie McGeehee (cassette 255A)",
-    "artist": "Unknown",
-    "url": "https://archive.org/download/calauem_002876/calauem_002876_access.m4a",
-    "mime": "audio/mp4",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "calauem_000517::calauem_000517_b_access.mp3",
-    "title": "Sephardic music: Ermano de Jeni",
-    "artist": "Sene, Emily",
-    "url": "https://archive.org/download/calauem_000517/calauem_000517_b_access.mp3",
+    "id": "WC.E.31::WC.E.31.mp3",
+    "title": "El Destino, sung by Adalaida Kamp",
+    "artist": "Lummis, Charles Fletcher, 1859-1928",
+    "url": "https://archive.org/download/WC.E.31/WC.E.31.mp3",
     "mime": "audio/mpeg",
     "license": "Public Domain",
     "source": "Internet Archive"
   },
   {
-    "id": "dinahpolka10283gut::10283-m/10283-m-001.mp3",
-    "title": "Dinah Polka",
-    "artist": "Charles P. Lowe",
-    "url": "https://archive.org/download/dinahpolka10283gut/10283-m%2F10283-m-001.mp3",
+    "id": "WC.E.38::WC.E.38.mp3",
+    "title": "Las Mananitas, sung by Adalaida Kamp",
+    "artist": "Lummis, Charles Fletcher, 1859-1928",
+    "url": "https://archive.org/download/WC.E.38/WC.E.38.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "WC.F.23::WC.F.23.mp3",
+    "title": "Sombrero Blanco, performed by Porfirio Rivera",
+    "artist": "Lummis, Charles Fletcher, 1859-1928",
+    "url": "https://archive.org/download/WC.F.23/WC.F.23.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "WC.F.29::WC.F.29.mp3",
+    "title": "Lejos de Ella, sung by Mercedes Garcia and Mrs. Melsing",
+    "artist": "Lummis, Charles Fletcher, 1859-1928, Melsing, Mrs., singer",
+    "url": "https://archive.org/download/WC.F.29/WC.F.29.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "WC.F.9::WC.F.9.mp3",
+    "title": "Jarabe Tapatillo, sung by Tulita Wilcox Miner",
+    "artist": "Lummis, Charles Fletcher, 1859-1928",
+    "url": "https://archive.org/download/WC.F.9/WC.F.9.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "WC.J.6::W.C.J.6.mp3",
+    "title": "John Brown Had a Little Indian, sung by Charles Lummis and Keith Lummis",
+    "artist": "Lummis, Charles, collector, Lummis, Keith, singer",
+    "url": "https://archive.org/download/WC.J.6/W.C.J.6.mp3",
     "mime": "audio/mpeg",
     "license": "Public Domain",
     "source": "Internet Archive"
@@ -2682,6 +1161,51 @@
     "source": "Internet Archive"
   },
   {
+    "id": "WC.B.18::WC.B.18.mp3",
+    "title": "Deten tu Manto Noche, sung by Mrs. Fonesca",
+    "artist": "Lummis, Charles Fletcher, 1859-1928",
+    "url": "https://archive.org/download/WC.B.18/WC.B.18.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "WC.B.39::WC.B.39.mp3",
+    "title": "La Magica Mujer, sung by Manuela Garcia",
+    "artist": "Lummis, Charles Fletcher, 1859-1928",
+    "url": "https://archive.org/download/WC.B.39/WC.B.39.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "WC.B.40::WC.B.40.mp3",
+    "title": "Mujer, Mujer, mi Corazon de Fuego, sung by Manuela Garcia",
+    "artist": "Lummis, Charles Fletcher, 1859-1928, Uruchurtu, Rosendo, performer",
+    "url": "https://archive.org/download/WC.B.40/WC.B.40.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "WC.B.42::WC.B.42.mp3",
+    "title": "La Pobre Flor, sung by Manuela Garcia",
+    "artist": "Lummis, Charles Fletcher, 1859-1928",
+    "url": "https://archive.org/download/WC.B.42/WC.B.42.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "WC.C.17::WC.C.17.mp3",
+    "title": "Dia Feliz, sung by Manuela Garcia",
+    "artist": "Lummis, Charles Fletcher, 1859-1928, Uruchurtu, Rosendo, performer",
+    "url": "https://archive.org/download/WC.C.17/WC.C.17.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
     "id": "WC.I.10::WC.I.10.mp3",
     "title": "Unknown song, recorded by Charles Lummis",
     "artist": "Lummis, Charles, collector",
@@ -2696,6 +1220,1482 @@
     "artist": "Lummis, Charles Fletcher, 1859-1928, Garcia, Manuela, singer",
     "url": "https://archive.org/download/WC.I.27/WC.I.27.mp3",
     "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "dinahpolka10283gut::10283-m/10283-m-001.mp3",
+    "title": "Dinah Polka",
+    "artist": "Charles P. Lowe",
+    "url": "https://archive.org/download/dinahpolka10283gut/10283-m%2F10283-m-001.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "downinageorgiaja10199gut::10199-m/10199-m-001.mp3",
+    "title": "Down in a Georgia Jail",
+    "artist": "North Carolina Ramblers",
+    "url": "https://archive.org/download/downinageorgiaja10199gut/10199-m%2F10199-m-001.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "WC.C.34::WC.C.34.mp3",
+    "title": "Cuando me Enamoro, sung by Manuela Garcia",
+    "artist": "Lummis, Charles Fletcher, 1859-1928, Uruchurtu, Rosendo, performer",
+    "url": "https://archive.org/download/WC.C.34/WC.C.34.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "WC.C.36::WC.C.36.mp3",
+    "title": "Que Importa el Mundo, sung by Manuela Garcia",
+    "artist": "Lummis, Charles Fletcher, 1859-1928, Uruchurtu, Rosendo, performer",
+    "url": "https://archive.org/download/WC.C.36/WC.C.36.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "WC.C.37::WC.C.37.mp3",
+    "title": "Somos Auxiliares, sung by Manuela Garcia",
+    "artist": "Lummis, Charles Fletcher, 1859-1928, Uruchurtu, Rosendo, performer",
+    "url": "https://archive.org/download/WC.C.37/WC.C.37.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "WC.D.31::WC.D.31.mp3",
+    "title": "La Bracata en Puerto, sung by Adalaida Kamp",
+    "artist": "Lummis, Charles Fletcher, 1859-1928",
+    "url": "https://archive.org/download/WC.D.31/WC.D.31.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "WC.E.13::WC.E.13.mp3",
+    "title": "Serenata Don Carlos, sung by Adalaida Kamp",
+    "artist": "Lummis, Charles Fletcher, 1859-1928",
+    "url": "https://archive.org/download/WC.E.13/WC.E.13.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "WC.E.30::WC.E.30.mp3",
+    "title": "Los Sentimientos, sung by Adalaida Kamp",
+    "artist": "Lummis, Charles Fletcher, 1859-1928",
+    "url": "https://archive.org/download/WC.E.30/WC.E.30.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "WC.E.8::WC.E.8.mp3",
+    "title": "La Mariposa, sung by Adalaida Kamp",
+    "artist": "Lummis, Charles Fletcher, 1859-1928",
+    "url": "https://archive.org/download/WC.E.8/WC.E.8.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "WC.E.9::WC.E.9.mp3",
+    "title": "Animo y Esperanza, sung by Adalaida Kamp",
+    "artist": "Lummis, Charles Fletcher, 1859-1928",
+    "url": "https://archive.org/download/WC.E.9/WC.E.9.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "WC.F.8::WC.F.8.mp3",
+    "title": "Me he de Comer un Durasno, sung by Tulita Wilcox Miner",
+    "artist": "Lummis, Charles Fletcher, 1859-1928",
+    "url": "https://archive.org/download/WC.F.8/WC.F.8.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "WC.A.35::WC.A.35.mp3",
+    "title": "Pertenera, sung by Francisco Amate",
+    "artist": "Lummis, Charles Fletcher, 1859-1928",
+    "url": "https://archive.org/download/WC.A.35/WC.A.35.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "loc-jukebox-70656-aloha-sunset-land::jukebox-70656_aloha-sunset-land.mp3",
+    "title": "Aloha sunset land",
+    "artist": "kawelo, ioane ; victor salon orchestra",
+    "url": "https://archive.org/download/loc-jukebox-70656-aloha-sunset-land/jukebox-70656_aloha-sunset-land.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "loc-jukebox-71293-let-me-call-you-sweetheart-i-m-in-love-with-you::jukebox-71293_let-me-call-you-sweetheart-i-m-in-love-with-you.mp3",
+    "title": "Let me call you sweetheart (I'm in love with you)",
+    "artist": "shilkret, nathaniel ; friedman, leo ; whitson, beth slater ; james, lewis ; international novelty orchestra",
+    "url": "https://archive.org/download/loc-jukebox-71293-let-me-call-you-sweetheart-i-m-in-love-with-you/jukebox-71293_let-me-call-you-sweetheart-i-m-in-love-with-you.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "loc-jukebox-71534-clovita::jukebox-71534_clovita.mp3",
+    "title": "Clovita",
+    "artist": "international novelty orchestra ; shilkret, nathaniel ; hinton, f. frayser",
+    "url": "https://archive.org/download/loc-jukebox-71534-clovita/jukebox-71534_clovita.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "loc-jukebox-71663-oh-you-can-t-fool-an-old-hoss-fly::jukebox-71663_oh-you-can-t-fool-an-old-hoss-fly.mp3",
+    "title": "Oh, you can't fool an old hoss fly",
+    "artist": "bourdon, rosario ; murray, billy ; smalle, ed ; franklyn, blanche ; von tilzer, harry ; vincent, nat",
+    "url": "https://archive.org/download/loc-jukebox-71663-oh-you-can-t-fool-an-old-hoss-fly/jukebox-71663_oh-you-can-t-fool-an-old-hoss-fly.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "loc-jukebox-71138-traumerei::jukebox-71138_traumerei.mp3",
+    "title": "Traumerei",
+    "artist": "schumann, robert ; andrews, mark",
+    "url": "https://archive.org/download/loc-jukebox-71138-traumerei/jukebox-71138_traumerei.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "WC.G.14::WC.G.14.mp3",
+    "title": "Hay Chiquita, sung by Rosendo Uruchurtu",
+    "artist": "Lummis, Charles Fletcher, 1859-1928",
+    "url": "https://archive.org/download/WC.G.14/WC.G.14.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "WC.H.16::WC.H.16.mp3",
+    "title": "Abecedario, performed by Luisa Villa",
+    "artist": "Lummis, Charles Fletcher, 1859-1928",
+    "url": "https://archive.org/download/WC.H.16/WC.H.16.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "WC.H.21::WC.H.21.mp3",
+    "title": "Tristes Recuerdos, performed by Luisa Villa and Rosa Villa",
+    "artist": "Lummis, Charles Fletcher, 1859-1928, Villa, Rosa, performer",
+    "url": "https://archive.org/download/WC.H.21/WC.H.21.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "WC.H.22::WC.H.22.mp3",
+    "title": "Ya Brilla en el Oriente, performed by Luisa Villa and Rosa Villa",
+    "artist": "Lummis, Charles Fletcher, 1859-1928, Villa, Rosa, performer",
+    "url": "https://archive.org/download/WC.H.22/WC.H.22.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "WC.I.1::WC.I.1.mp3",
+    "title": "Una Tarde, sung by Hessenholm",
+    "artist": "Hessenholm, singer",
+    "url": "https://archive.org/download/WC.I.1/WC.I.1.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "WC.I.18::WC.I.18.mp3",
+    "title": "La Noche Esta Serena, sung by Turbese Lummis",
+    "artist": "Lummis, Charles Fletcher, 1859-1928",
+    "url": "https://archive.org/download/WC.I.18/WC.I.18.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "WC.J.15::W.C.J.15.mp3",
+    "title": "Jerry Go Oil That Car, sung by Charles Lummis",
+    "artist": "Lummis, Charles, collector",
+    "url": "https://archive.org/download/WC.J.15/W.C.J.15.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "WC.J.17::W.C.J.17.mp3",
+    "title": "Angel de Amor, sung by Charles Lummis",
+    "artist": "Lummis, Charles Fletcher, 1859-1928",
+    "url": "https://archive.org/download/WC.J.17/W.C.J.17.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "wc.b.35_202003::WC.B.35.mp3",
+    "title": "El Cazador, sung by Manuela Garcia",
+    "artist": "Lummis, Charles Fletcher, 1859-1928",
+    "url": "https://archive.org/download/wc.b.35_202003/WC.B.35.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "loc-jukebox-73322-hashkivenu::jukebox-73322_hashkivenu.mp3",
+    "title": "Hashkivenu",
+    "artist": "shield, leroy ; roitman, david",
+    "url": "https://archive.org/download/loc-jukebox-73322-hashkivenu/jukebox-73322_hashkivenu.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "loc-jukebox-73675-la-chiquita::jukebox-73675_la-chiquita.mp3",
+    "title": "La chiquita",
+    "artist": "orquesta internacional ; rioz, alfonso ; shilkret, nathaniel ; international novelty orchestra",
+    "url": "https://archive.org/download/loc-jukebox-73675-la-chiquita/jukebox-73675_la-chiquita.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "calauem_007087::calauem_007087_f00002_access.m4a",
+    "title": "Taiko #3: Reels 5, 6, and 7",
+    "artist": "Unknown",
+    "url": "https://archive.org/download/calauem_007087/calauem_007087_f00002_access.m4a",
+    "mime": "audio/mp4",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "loc-jukebox-9609-muchacho::jukebox-9609_muchacho.mp3",
+    "title": "Muchacho",
+    "artist": "donato, edgardo ; caro, julio de ; orquesta típica de caro",
+    "url": "https://archive.org/download/loc-jukebox-9609-muchacho/jukebox-9609_muchacho.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "loc-jukebox-69664-after-the-storm::jukebox-69664_after-the-storm.mp3",
+    "title": "After the storm",
+    "artist": "cairns, clifford ; king, edward t. ; troubadours, the ; nelson, jack",
+    "url": "https://archive.org/download/loc-jukebox-69664-after-the-storm/jukebox-69664_after-the-storm.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "loc-jukebox-69141-i-wonder-who-s-dancing-with-you-to-night::jukebox-69141_i-wonder-who-s-dancing-with-you-to-night.mp3",
+    "title": "I wonder who's dancing with you to-night",
+    "artist": "raymond, joe ; henderson, ray ; joe raymond orchestra",
+    "url": "https://archive.org/download/loc-jukebox-69141-i-wonder-who-s-dancing-with-you-to-night/jukebox-69141_i-wonder-who-s-dancing-with-you-to-night.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "loc-jukebox-9538-volver-s::jukebox-9538_volver-s.mp3",
+    "title": "Volverás",
+    "artist": "collazo, ramón ; caro, julio de ; orquesta típica de caro",
+    "url": "https://archive.org/download/loc-jukebox-9538-volver-s/jukebox-9538_volver-s.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "loc-jukebox-72148-march-of-the-dwarfs::jukebox-72148_march-of-the-dwarfs.mp3",
+    "title": "March of the dwarfs",
+    "artist": "godfrey, dan ; goldman, edwin franko ; goldman band ; grieg, edvard",
+    "url": "https://archive.org/download/loc-jukebox-72148-march-of-the-dwarfs/jukebox-72148_march-of-the-dwarfs.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "loc-jukebox-73398-nina::jukebox-73398_nina.mp3",
+    "title": "Nina",
+    "artist": "shield, leroy ; rumshinsky, joseph ; medoff, david",
+    "url": "https://archive.org/download/loc-jukebox-73398-nina/jukebox-73398_nina.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "loc-jukebox-72040-lullaby::jukebox-72040_lullaby.mp3",
+    "title": "Lullaby",
+    "artist": "clark, helen ; bourdon, rosario ; lapitino, francis j. ; hanscom, e. w. ; schmidt, alexander",
+    "url": "https://archive.org/download/loc-jukebox-72040-lullaby/jukebox-72040_lullaby.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "loc-jukebox-69063-lady-moon::jukebox-69063_lady-moon.mp3",
+    "title": "Lady Moon",
+    "artist": "rossetti, christina georgina",
+    "url": "https://archive.org/download/loc-jukebox-69063-lady-moon/jukebox-69063_lady-moon.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "loc-jukebox-9648-sarand::jukebox-9648_sarand.mp3",
+    "title": "Sarandí",
+    "artist": "baüer, juan ; orquesta típica victor",
+    "url": "https://archive.org/download/loc-jukebox-9648-sarand/jukebox-9648_sarand.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "calauem_007062::calauem_007062_f00002_access.m4a",
+    "title": "Taiko!",
+    "artist": "Unknown artist",
+    "url": "https://archive.org/download/calauem_007062/calauem_007062_f00002_access.m4a",
+    "mime": "audio/mp4",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "casbspl_000055::casbspl_000055_b_access.m4a",
+    "title": "Clabe Hangan Concert (\"Nobody Knows You When You're Down and Out\")",
+    "artist": "Hangan, Clabe",
+    "url": "https://archive.org/download/casbspl_000055/casbspl_000055_b_access.m4a",
+    "mime": "audio/mp4",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "casfjazz_000258::casfjazz_000258_f00002_access.m4a",
+    "title": "SFJAZZ Collective Inaugural Season Premiere, 3/19/2004",
+    "artist": "Unknown artist",
+    "url": "https://archive.org/download/casfjazz_000258/casfjazz_000258_f00002_access.m4a",
+    "mime": "audio/mp4",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "casfjazz_000269::casfjazz_000269_f00002_access.m4a",
+    "title": "KCSM Listener Night with with Toots Thielemans, Airto, Oscar Castro-Neves, Kenny Werner (2004)",
+    "artist": "Unknown artist",
+    "url": "https://archive.org/download/casfjazz_000269/casfjazz_000269_f00002_access.m4a",
+    "mime": "audio/mp4",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "casfjazz_000289::casfjazz_000289_f00002_access.m4a",
+    "title": "Pre-Concert Talk with John Santos (2009)",
+    "artist": "Unknown artist",
+    "url": "https://archive.org/download/casfjazz_000289/casfjazz_000289_f00002_access.m4a",
+    "mime": "audio/mp4",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "casfjazz_000297::casfjazz_000297_f00002_access.m4a",
+    "title": "Hammon B-3 Organ Summit with Larry Goldings Trio and Pat Martino (2009)",
+    "artist": "Unknown artist",
+    "url": "https://archive.org/download/casfjazz_000297/casfjazz_000297_f00002_access.m4a",
+    "mime": "audio/mp4",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "calauem_000495::calauem_000495_b_p02_access.mp3",
+    "title": "Sephardic music",
+    "artist": "Sene, Emily",
+    "url": "https://archive.org/download/calauem_000495/calauem_000495_b_p02_access.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "loc-jukebox-72368-sioux-flute-serenade::jukebox-72368_sioux-flute-serenade.mp3",
+    "title": "Sioux flute serenade",
+    "artist": "skilton, charles sanford ; victor concert orchestra",
+    "url": "https://archive.org/download/loc-jukebox-72368-sioux-flute-serenade/jukebox-72368_sioux-flute-serenade.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "casaccs_000350::casaccs_000350_f00001_access.m4a",
+    "title": "Blas Coyazo interview II",
+    "artist": "Vasquez, Antonio",
+    "url": "https://archive.org/download/casaccs_000350/casaccs_000350_f00001_access.m4a",
+    "mime": "audio/mp4",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "calauem_007074::calauem_007074_f00002_access.m4a",
+    "title": "Taiko Center of Los Angeles - Concert @ Schurr High School (3)",
+    "artist": "Unknown artist",
+    "url": "https://archive.org/download/calauem_007074/calauem_007074_f00002_access.m4a",
+    "mime": "audio/mp4",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "caclah_000108::caclah_000108_access.mp3",
+    "title": "Padua Hills Theatre Tapes - Tape 17 - Kukulkan",
+    "artist": "Unknown artist",
+    "url": "https://archive.org/download/caclah_000108/caclah_000108_access.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "calauem_002485::calauem_002485_access.m4a",
+    "title": "Cienaga School Concert 2 (reel 55B)",
+    "artist": "Unknown",
+    "url": "https://archive.org/download/calauem_002485/calauem_002485_access.m4a",
+    "mime": "audio/mp4",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "calauem_002891::calauem_002891_a_access.m4a",
+    "title": "Music For Black Music Workshop, Dorsey High (cassette 266)",
+    "artist": "Unknown",
+    "url": "https://archive.org/download/calauem_002891/calauem_002891_a_access.m4a",
+    "mime": "audio/mp4",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "calauem_000622::calauem_000622_t01_access.mp3",
+    "title": "1965 UCLA Folk Festival: Religious Folk Music",
+    "artist": "University of California, Los Angeles",
+    "url": "https://archive.org/download/calauem_000622/calauem_000622_t01_access.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "calauem_003023::calauem_003023_b_access.m4a",
+    "title": "G. Lewis 2 (cassette 385B)",
+    "artist": "Unknown",
+    "url": "https://archive.org/download/calauem_003023/calauem_003023_b_access.m4a",
+    "mime": "audio/mp4",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "calauem_003026::calauem_003026_a_access.m4a",
+    "title": "MENC, Black Music Elem.: Venoris Cates (cassette 387)",
+    "artist": "Unknown",
+    "url": "https://archive.org/download/calauem_003026/calauem_003026_a_access.m4a",
+    "mime": "audio/mp4",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "calauem_003050::calauem_003050_b_access.m4a",
+    "title": "Kulintang",
+    "artist": "Kalanduyan, Danongan S.",
+    "url": "https://archive.org/download/calauem_003050/calauem_003050_b_access.m4a",
+    "mime": "audio/mp4",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "calauem_000183::calauem_000183_b_access.mp3",
+    "title": "Mr. Alfred Johnson member of St. Brigid Catholic Church",
+    "artist": "DjeDje, Jacqueline Cogdell",
+    "url": "https://archive.org/download/calauem_000183/calauem_000183_b_access.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "wc.b.34::WC.B.34.mp3",
+    "title": "Por Doquiera que Extiendo la Vista, sung by Manuela Garcia",
+    "artist": "Lummis, Charles Fletcher, 1859-1928",
+    "url": "https://archive.org/download/wc.b.34/WC.B.34.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "smseskoslovckych10259gut::10259-m/10259-m-001.mp3",
+    "title": "Smês esko - slováckych písní - cis 1",
+    "artist": "Milan Lusk",
+    "url": "https://archive.org/download/smseskoslovckych10259gut/10259-m%2F10259-m-001.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "thestlouisblues10249gut::10249-m/10249-m-001.mp3",
+    "title": "The St. Louis Blues",
+    "artist": "W. C. (William Christopher) Handy, Ferera and Paaluhi",
+    "url": "https://archive.org/download/thestlouisblues10249gut/10249-m%2F10249-m-001.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "cueth_000349::cueth_000349_a_access.HD.mp3",
+    "title": "KPFA: 'Insurrection and Counter-Insurrection', 'Flashback: The Sounds of the Silent Cinema', 'The French Foreign Legion', 1966",
+    "artist": "Yuen, Hoh-Kun",
+    "url": "https://archive.org/download/cueth_000349/cueth_000349_a_access.HD.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "wc.d.6::WC.D.6.mp3",
+    "title": "Un Coyote en un Corral, sung by Manuela Garcia; Rosendo Uruchurtu and Memorias Dolorosas, sung by Manuela Garcia",
+    "artist": "Garcia, Manuela, singer, Uruchurtu, Rosendo, performer",
+    "url": "https://archive.org/download/wc.d.6/WC.D.6.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "wc.b.23::WC.B.23.mp3",
+    "title": "La Concha, sung by Manuela Garcia",
+    "artist": "Lummis, Charles Fletcher, 1859-1928",
+    "url": "https://archive.org/download/wc.b.23/WC.B.23.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "loc-jukebox-71639-big-bad-bill-is-sweet-william-now::jukebox-71639_big-bad-bill-is-sweet-william-now.mp3",
+    "title": "Big Bad Bill (Is Sweet William now)",
+    "artist": "yellen, jack ; murray, billy ; ager, milton ; shilkret, nathaniel",
+    "url": "https://archive.org/download/loc-jukebox-71639-big-bad-bill-is-sweet-william-now/jukebox-71639_big-bad-bill-is-sweet-william-now.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "loc-jukebox-69931-go-down-moses::jukebox-69931_go-down-moses.mp3",
+    "title": "Go down Moses",
+    "artist": "burleigh, h. t. ; prince, charles adams ; anderson, marian ; lapitino, francis j.",
+    "url": "https://archive.org/download/loc-jukebox-69931-go-down-moses/jukebox-69931_go-down-moses.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "loc-jukebox-69898-cheer-up-the-old-folks-at-home::jukebox-69898_cheer-up-the-old-folks-at-home.mp3",
+    "title": "Cheer up the old folks at home",
+    "artist": "mitchell, sidney d. ; campbell, albert ; meyer, john h. ; croxton, frank ; pollack, lew ; bourdon, rosario ; burr, henry ; peerless quartet",
+    "url": "https://archive.org/download/loc-jukebox-69898-cheer-up-the-old-folks-at-home/jukebox-69898_cheer-up-the-old-folks-at-home.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "loc-jukebox-74093-keef-abeet-ellail::jukebox-74093_keef-abeet-ellail.mp3",
+    "title": "Keef abeet-ellail",
+    "artist": "simon, nahem",
+    "url": "https://archive.org/download/loc-jukebox-74093-keef-abeet-ellail/jukebox-74093_keef-abeet-ellail.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "loc-jukebox-338328-la-biondina-in-gondoletta::jukebox-338328_la-biondina-in-gondoletta.mp3",
+    "title": "La biondina in gondoletta",
+    "artist": "quartetto napoli",
+    "url": "https://archive.org/download/loc-jukebox-338328-la-biondina-in-gondoletta/jukebox-338328_la-biondina-in-gondoletta.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "loc-jukebox-9669-flor-de-amambay::jukebox-9669_flor-de-amambay.mp3",
+    "title": "Flor de Amambay",
+    "artist": "orquesta típica victor ; pelaia, alfredo a.",
+    "url": "https://archive.org/download/loc-jukebox-9669-flor-de-amambay/jukebox-9669_flor-de-amambay.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "loc-jukebox-72037-daddy::jukebox-72037_daddy.mp3",
+    "title": "Daddy",
+    "artist": "clark, helen ; bourdon, rosario ; lapitino, francis j. ; lemon, mary mark ; behrend, a. h.",
+    "url": "https://archive.org/download/loc-jukebox-72037-daddy/jukebox-72037_daddy.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "loc-jukebox-72308-obrazy-o-ivota-slovensk-ho-pictures-of-slovak-country-life::jukebox-72308_obrazy-o-ivota-slovensk-ho-pictures-of-slovak-co.mp3",
+    "title": "Obrazy žo života Slovenského (Pictures of Slovak country life)",
+    "artist": "windt, charlotte",
+    "url": "https://archive.org/download/loc-jukebox-72308-obrazy-o-ivota-slovensk-ho-pictures-of-slovak-country-life/jukebox-72308_obrazy-o-ivota-slovensk-ho-pictures-of-slovak-co.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "loc-jukebox-69680-from-one-till-two-i-always-dream-of-you::jukebox-69680_from-one-till-two-i-always-dream-of-you.mp3",
+    "title": "From one till two (I always dream of you)",
+    "artist": "bard, larry ; shaw, elliott ; original pennsylvania serenaders ; hoover, joe ; kaufman, whitey ; king, edward t.",
+    "url": "https://archive.org/download/loc-jukebox-69680-from-one-till-two-i-always-dream-of-you/jukebox-69680_from-one-till-two-i-always-dream-of-you.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "loc-jukebox-72847-honest-and-truly::jukebox-72847_honest-and-truly.mp3",
+    "title": "Honest and truly",
+    "artist": "banta, frank e. ; burr, henry ; rose, fred ; wiedoeft, rudy",
+    "url": "https://archive.org/download/loc-jukebox-72847-honest-and-truly/jukebox-72847_honest-and-truly.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "wc.d.21::WC.D.21.mp3",
+    "title": "Yo te Juro Mi Bien. sung by Manuela Garcia",
+    "artist": "Lummis, Charles Fletcher, 1859-1928, Garcia, Nacho, performer",
+    "url": "https://archive.org/download/wc.d.21/WC.D.21.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "wc.d.22::WC.D.22.mp3",
+    "title": "El Desvalido, sung by Manuela Garcia",
+    "artist": "Lummis, Charles Fletcher, 1859-1928, Uruchurtu, Rosendo, performer",
+    "url": "https://archive.org/download/wc.d.22/WC.D.22.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "uncleremushisson21605gut::mp3/21605-01.mp3",
+    "title": "Uncle Remus, his songs and his sayings",
+    "artist": "Joel Chandler Harris",
+    "url": "https://archive.org/download/uncleremushisson21605gut/mp3%2F21605-01.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "loc-jukebox-70812-love-song::jukebox-70812_love-song.mp3",
+    "title": "Love song",
+    "artist": "macdowell, edward ; bourdon, rosario ; victor concert orchestra",
+    "url": "https://archive.org/download/loc-jukebox-70812-love-song/jukebox-70812_love-song.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "casfjazz_000282::casfjazz_000282_f00002_access.m4a",
+    "title": "Bill Frisell's Disfarmer Project: Pre-Concert Talk and Concert (2009)",
+    "artist": "Unknown artist",
+    "url": "https://archive.org/download/casfjazz_000282/casfjazz_000282_f00002_access.m4a",
+    "mime": "audio/mp4",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "casfjazz_000296::casfjazz_000296_f00004_access.m4a",
+    "title": "Backyard Alchemy: Percussion & Propulsion with Jesus Diaz, Scott Amendola, Jaz Sawyer (2009)",
+    "artist": "Unknown artist",
+    "url": "https://archive.org/download/casfjazz_000296/casfjazz_000296_f00004_access.m4a",
+    "mime": "audio/mp4",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "casbspl_000056::casbspl_000056_access.m4a",
+    "title": "Clabe Hangan Music Rehearsal (\"Get Together\")",
+    "artist": "Hangan, Clabe",
+    "url": "https://archive.org/download/casbspl_000056/casbspl_000056_access.m4a",
+    "mime": "audio/mp4",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "calauem_002456::calauem_002456_b_access.m4a",
+    "title": "1 Tuna (reel 30A)",
+    "artist": "Unknown",
+    "url": "https://archive.org/download/calauem_002456/calauem_002456_b_access.m4a",
+    "mime": "audio/mp4",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "calauem_002588::calauem_002588_access.m4a",
+    "title": "Darryl Taylor, Tenor (cassette 72)",
+    "artist": "Unknown",
+    "url": "https://archive.org/download/calauem_002588/calauem_002588_access.m4a",
+    "mime": "audio/mp4",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "calauem_002834::calauem_002834_b_access.m4a",
+    "title": "Sid Fox (cassette 229)",
+    "artist": "Unknown",
+    "url": "https://archive.org/download/calauem_002834/calauem_002834_b_access.m4a",
+    "mime": "audio/mp4",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "caclah_000112::caclah_000112_access.mp3",
+    "title": "Padua Hills Theatre Tapes - Tape 21 - Various performance recordings",
+    "artist": "Unknown artist",
+    "url": "https://archive.org/download/caclah_000112/caclah_000112_access.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "calauem_003006::calauem_003006_access.m4a",
+    "title": "Los Angeles Modern String Orchestra (cassette 374)",
+    "artist": "Unknown",
+    "url": "https://archive.org/download/calauem_003006/calauem_003006_access.m4a",
+    "mime": "audio/mp4",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "slavonicdanceno10180gut::10180-m/10180-m-001.mp3",
+    "title": "Slavonic Dance, No. 1",
+    "artist": "Antonín Dvorák, Carl Flesch, Kurt Ruhrseitz, Fritz Kreisler",
+    "url": "https://archive.org/download/slavonicdanceno10180gut/10180-m%2F10180-m-001.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "starsandstripesf10170gut::10170-m/10170-m-001.mp3",
+    "title": "Stars and Stripes Forever",
+    "artist": "Sousa Band, John Philip Sousa",
+    "url": "https://archive.org/download/starsandstripesf10170gut/10170-m%2F10170-m-001.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "casfjazz_000430::casfjazz_000430_f00002_access.m4a",
+    "title": "Mavis Staples, 2008",
+    "artist": "SFJAZZ (Organization)",
+    "url": "https://archive.org/download/casfjazz_000430/casfjazz_000430_f00002_access.m4a",
+    "mime": "audio/mp4",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "casfjazz_000416::casfjazz_000416_f00004_access.m4a",
+    "title": "Sacred Space: Lynn Harrell at Grace Cathedral, 2008-05-22",
+    "artist": "SFJAZZ (Organization)",
+    "url": "https://archive.org/download/casfjazz_000416/casfjazz_000416_f00004_access.m4a",
+    "mime": "audio/mp4",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "WC.H.5::WC.H.5.mp3",
+    "title": "Mujer Purisima, performed by Luisa Villa and Rosa Villa",
+    "artist": "Lummis, Charles Fletcher, 1859-1928, Villa, Rosa, performer",
+    "url": "https://archive.org/download/WC.H.5/WC.H.5.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "cstbhi_000052::cstbhi_000052_b_access.m4a",
+    "title": "Good Companions with Frank Collura",
+    "artist": "Unknown artist",
+    "url": "https://archive.org/download/cstbhi_000052/cstbhi_000052_b_access.m4a",
+    "mime": "audio/mp4",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "loc-jukebox-71459-the-ten-commandments-of-love::jukebox-71459_the-ten-commandments-of-love.mp3",
+    "title": "The ten commandments of love",
+    "artist": "fisher, fred ; prince, charles adams ; lucas, jimmie ; james, lewis",
+    "url": "https://archive.org/download/loc-jukebox-71459-the-ten-commandments-of-love/jukebox-71459_the-ten-commandments-of-love.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "loc-jukebox-69206-at-eventime::jukebox-69206_at-eventime.mp3",
+    "title": "At eventime",
+    "artist": "twohig, daniel s.",
+    "url": "https://archive.org/download/loc-jukebox-69206-at-eventime/jukebox-69206_at-eventime.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "loc-jukebox-70799-memory-lane::jukebox-70799_memory-lane.mp3",
+    "title": "Memory Lane",
+    "artist": "spier, larry ; murphy, lambert ; reibold, bruno ; conrad, con ; de sylva, b. g. ; bourdon, rosario",
+    "url": "https://archive.org/download/loc-jukebox-70799-memory-lane/jukebox-70799_memory-lane.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "nightsofgladness10415gut::10415-m/10415-m-001.mp3",
+    "title": "Nights of Gladness: Waltz",
+    "artist": "National Promenade Band, Charles William Ancliffe",
+    "url": "https://archive.org/download/nightsofgladness10415gut/10415-m%2F10415-m-001.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "loc-jukebox-69522-for-you-alone::jukebox-69522_for-you-alone.mp3",
+    "title": "For you alone",
+    "artist": "schmidt, alexander ; crooks, richard ; prince, charles adams ; o'reilly, p. j. ; geehl, henry ernest",
+    "url": "https://archive.org/download/loc-jukebox-69522-for-you-alone/jukebox-69522_for-you-alone.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "SiraniAvedisTape2::Access_Copy_Sireni_Avedis_Tape_2.mp3",
+    "title": "Sirani Avedis Tape 2",
+    "artist": "Wilson, Chana",
+    "url": "https://archive.org/download/SiraniAvedisTape2/Access_Copy_Sireni_Avedis_Tape_2.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "WC.H.11::WC.H.11.mp3",
+    "title": "Adios, Adios, Amores, performed by Charles Lummis, Luisa Villa, and Rosa Villa",
+    "artist": "Lummis, Charles Fletcher, 1859-1928, Villa, Luisa, performer, Villa, Rosa, performer",
+    "url": "https://archive.org/download/WC.H.11/WC.H.11.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "WC.I.23::WC.I.23.mp3",
+    "title": "Charro, performed by Charles Lummis, Bertha Lummis, Betty Lummis, Patricia Lummis and Quimu Lummis",
+    "artist": "Lummis, Charles Fletcher, 1859-1928, Lummis, Bertha, singer, Lummis, Betty, singer, Lummis, Patricia, singer, Lummis, Quimu, singer",
+    "url": "https://archive.org/download/WC.I.23/WC.I.23.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "WC.I.8::WC.I.8TK1.mp3",
+    "title": "Hamaca, recorded by Charles Lummis",
+    "artist": "Lummis, Charles Fletcher, 1859-1928",
+    "url": "https://archive.org/download/WC.I.8/WC.I.8TK1.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "WC.C.33::WC.C.33.mp3",
+    "title": "La Zamacueca, sung by Manuela Garcia",
+    "artist": "Lummis, Charles Fletcher, 1859-1928",
+    "url": "https://archive.org/download/WC.C.33/WC.C.33.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "WC.D.32::WC.D.32.mp3",
+    "title": "Ausenta y Lejos de Ti, sung by Adalaida Kamp",
+    "artist": "Lummis, Charles Fletcher, 1859-1928",
+    "url": "https://archive.org/download/WC.D.32/WC.D.32.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "WC.A.4::WC.A.4.mp3",
+    "title": "La Semana, sung by Pastora Abadie",
+    "artist": "Lummis, Charles Fletcher, 1859-1928",
+    "url": "https://archive.org/download/WC.A.4/WC.A.4.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "WC.E.35::WC.E.35.mp3",
+    "title": "La Sonrisa de Adalaida, sung by Adalaida Kamp",
+    "artist": "Lummis, Charles Fletcher, 1859-1928",
+    "url": "https://archive.org/download/WC.E.35/WC.E.35.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "WC.F.10::WC.F.10.mp3",
+    "title": "El Quiele, sung by Tulita Wilcox Miner",
+    "artist": "Lummis, Charles Fletcher, 1859-1928",
+    "url": "https://archive.org/download/WC.F.10/WC.F.10.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "WC.F.24::WC.F.24.mp3",
+    "title": "La Zorrita, sung by Porfirio Rivera",
+    "artist": "Lummis, Charles Fletcher, 1859-1928",
+    "url": "https://archive.org/download/WC.F.24/WC.F.24.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "wc.d.14::WC.D.14.mp3",
+    "title": "Quiero Llorar, sung by Manuela Garcia",
+    "artist": "Lummis, Charles Fletcher, 1859-1928",
+    "url": "https://archive.org/download/wc.d.14/WC.D.14.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "calauem_007075::calauem_007075_f00002_access.m4a",
+    "title": "UCR Taiko Ensemble 2006",
+    "artist": "Unknown artist",
+    "url": "https://archive.org/download/calauem_007075/calauem_007075_f00002_access.m4a",
+    "mime": "audio/mp4",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "loc-jukebox-69118-linger-awhile::jukebox-69118_linger-awhile.mp3",
+    "title": "Linger awhile",
+    "artist": "manhattan merrymakers, the ; rose, vincent ; owens, harry ; james, lewis ; freer, marcia",
+    "url": "https://archive.org/download/loc-jukebox-69118-linger-awhile/jukebox-69118_linger-awhile.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "loc-jukebox-69793-bring-back-that-old-fashioned-waltz::jukebox-69793_bring-back-that-old-fashioned-waltz.mp3",
+    "title": "Bring back that old-fashioned waltz",
+    "artist": "chapman, jack ; jack chapman orchestra ; malotte, albert hay ; drake hotel orchestra",
+    "url": "https://archive.org/download/loc-jukebox-69793-bring-back-that-old-fashioned-waltz/jukebox-69793_bring-back-that-old-fashioned-waltz.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "loc-jukebox-72554-cross-word-mamma-you-puzzle-me-but-papa-s-gonna-figure-you-o::jukebox-72554_cross-word-mamma-you-puzzle-me-but-papa-s-gonna.mp3",
+    "title": "Cross-word mamma, you puzzle me (But papa's gonna figure you out)",
+    "artist": "crumit, frank ; robison, carson ; clare, sidney ; monaco, james v. ; raskin, william",
+    "url": "https://archive.org/download/loc-jukebox-72554-cross-word-mamma-you-puzzle-me-but-papa-s-gonna-figure-you-o/jukebox-72554_cross-word-mamma-you-puzzle-me-but-papa-s-gonna.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "loc-jukebox-69596-home-in-pasadena::jukebox-69596_home-in-pasadena.mp3",
+    "title": "Home in Pasadena",
+    "artist": "leslie, edgar ; murray, billy ; clarke, grant ; schmidt, alexander ; smalle, ed ; warren, harry ; bourdon, rosario",
+    "url": "https://archive.org/download/loc-jukebox-69596-home-in-pasadena/jukebox-69596_home-in-pasadena.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "loc-jukebox-69427-maybe::jukebox-69427_maybe.mp3",
+    "title": "Maybe",
+    "artist": "paul whiteman orchestra ; whiteman, paul ; ahlert, fred ; snyder, ted",
+    "url": "https://archive.org/download/loc-jukebox-69427-maybe/jukebox-69427_maybe.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "loc-jukebox-72761-at-the-end-of-the-road::jukebox-72761_at-the-end-of-the-road.mp3",
+    "title": "At the end of the road",
+    "artist": "pennsylvanians ; macdonald, ballard ; hanley, james f. ; waring, tom ; waring, fred",
+    "url": "https://archive.org/download/loc-jukebox-72761-at-the-end-of-the-road/jukebox-72761_at-the-end-of-the-road.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "loc-jukebox-69530-when-love-comes-stealing::jukebox-69530_when-love-comes-stealing.mp3",
+    "title": "When love comes stealing",
+    "artist": "lennartz, alfred ; rapée, erno ; bourdon, rosario ; schmidt, alexander ; hirsch, walter ; james, lewis ; pollack, lew",
+    "url": "https://archive.org/download/loc-jukebox-69530-when-love-comes-stealing/jukebox-69530_when-love-comes-stealing.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "loc-jukebox-69395-where-the-lazy-daisies-grow::jukebox-69395_where-the-lazy-daisies-grow.mp3",
+    "title": "Where the lazy daisies grow",
+    "artist": "crumit, frank ; friend, cliff ; ohman, phil",
+    "url": "https://archive.org/download/loc-jukebox-69395-where-the-lazy-daisies-grow/jukebox-69395_where-the-lazy-daisies-grow.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "csie_004872::csie_004872_access.m4a",
+    "title": "Oral history interview with Bob Mitchell - part 4 of 10",
+    "artist": "Unknown artist",
+    "url": "https://archive.org/download/csie_004872/csie_004872_access.m4a",
+    "mime": "audio/mp4",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "loc-jukebox-9647-olvido::jukebox-9647_olvido.mp3",
+    "title": "Olvido",
+    "artist": "agostino, angel d ; orquesta típica victor",
+    "url": "https://archive.org/download/loc-jukebox-9647-olvido/jukebox-9647_olvido.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "loc-jukebox-73626-cyrillic-characters-in-primary-title::jukebox-73626_cyrillic-characters-in-primary-title.mp3",
+    "title": "Cyrillic characters in primary title",
+    "artist": "shilkret, nathaniel ; international novelty orchestra",
+    "url": "https://archive.org/download/loc-jukebox-73626-cyrillic-characters-in-primary-title/jukebox-73626_cyrillic-characters-in-primary-title.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "loc-jukebox-9537-la-quita-pena::jukebox-9537_la-quita-pena.mp3",
+    "title": "La quita pena",
+    "artist": "marambio catán, juan carlos ; correa, miguel ; spina, vicente ; pelaia, alfredo a.",
+    "url": "https://archive.org/download/loc-jukebox-9537-la-quita-pena/jukebox-9537_la-quita-pena.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "loc-jukebox-69920-school-day-sweethearts::jukebox-69920_school-day-sweethearts.mp3",
+    "title": "School day sweethearts",
+    "artist": "schmidt, alexander ; james, lewis ; freer, marcia ; bourdon, rosario ; edwards, glen",
+    "url": "https://archive.org/download/loc-jukebox-69920-school-day-sweethearts/jukebox-69920_school-day-sweethearts.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "loc-jukebox-69740-georgia-lullaby::jukebox-69740_georgia-lullaby.mp3",
+    "title": "Georgia lullaby",
+    "artist": "troubadours, the ; shilkret, nathaniel ; cordray, charles ; frey, hugo ; freer, marcia",
+    "url": "https://archive.org/download/loc-jukebox-69740-georgia-lullaby/jukebox-69740_georgia-lullaby.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "loc-jukebox-69337-the-one-i-love::jukebox-69337_the-one-i-love.mp3",
+    "title": "The one I love",
+    "artist": "shannon quartet ; jones, isham ; bourdon, rosario ; kahn, gus",
+    "url": "https://archive.org/download/loc-jukebox-69337-the-one-i-love/jukebox-69337_the-one-i-love.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "loc-jukebox-72742-auf-der-lahmgruab-n-da-steht-an-altes-haus::jukebox-72742_auf-der-lahmgruab-n-da-steht-an-altes-haus.mp3",
+    "title": "Auf der Lahmgruab'n da steht an altes Haus",
+    "artist": "engel, adolf ; steinberg-frank, alfred ; prince, charles adams ; strecker, heinrich josef ; shield, leroy",
+    "url": "https://archive.org/download/loc-jukebox-72742-auf-der-lahmgruab-n-da-steht-an-altes-haus/jukebox-72742_auf-der-lahmgruab-n-da-steht-an-altes-haus.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "loc-jukebox-338333-canto-montanaro::jukebox-338333_canto-montanaro.mp3",
+    "title": "Canto montanaro",
+    "artist": "quartetto napoli",
+    "url": "https://archive.org/download/loc-jukebox-338333-canto-montanaro/jukebox-338333_canto-montanaro.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "loc-jukebox-70597-ronde-d-amour::jukebox-70597_ronde-d-amour.mp3",
+    "title": "Ronde d'amour",
+    "artist": "goldman, edwin franko ; goldman band ; van westerhout, nicola",
+    "url": "https://archive.org/download/loc-jukebox-70597-ronde-d-amour/jukebox-70597_ronde-d-amour.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "loc-jukebox-68369-prelude-pathetique::jukebox-68369_prelude-pathetique.mp3",
+    "title": "Prelude pathetique",
+    "artist": "cherkassky, shura",
+    "url": "https://archive.org/download/loc-jukebox-68369-prelude-pathetique/jukebox-68369_prelude-pathetique.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "casbspl_000008::casbspl_000008_b_access.m4a",
+    "title": "Clabe Hangan Storytelling Performance",
+    "artist": "Hangan, Clabe",
+    "url": "https://archive.org/download/casbspl_000008/casbspl_000008_b_access.m4a",
+    "mime": "audio/mp4",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "casbspl_000018::casbspl_000018_b_access.m4a",
+    "title": "Clabe Hangan Music Rehearsal (\"The Circle Game\")",
+    "artist": "Hangan, Clabe",
+    "url": "https://archive.org/download/casbspl_000018/casbspl_000018_b_access.m4a",
+    "mime": "audio/mp4",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "casbspl_000023::casbspl_000023_a_access.m4a",
+    "title": "Clabe Hangan Music Rehearsal (\"My Cherie Amour\")",
+    "artist": "Hangan, Clabe",
+    "url": "https://archive.org/download/casbspl_000023/casbspl_000023_a_access.m4a",
+    "mime": "audio/mp4",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "loc-jukebox-70596-nibelungen-march::jukebox-70596_nibelungen-march.mp3",
+    "title": "Nibelungen march",
+    "artist": "goldman, edwin franko ; goldman band ; wagner, richard",
+    "url": "https://archive.org/download/loc-jukebox-70596-nibelungen-march/jukebox-70596_nibelungen-march.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "WC.B.41::WC.B.41.mp3",
+    "title": "Cuando yo Contempla, sung by Manuela Garcia",
+    "artist": "Lummis, Charles Fletcher, 1859-1928, Uruchurtu, Rosendo, performer",
+    "url": "https://archive.org/download/WC.B.41/WC.B.41.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "WC.C.11::WC.C.11.mp3",
+    "title": "Barquillera, sung by Manuela Garcia",
+    "artist": "Lummis, Charles Fletcher, 1859-1928",
+    "url": "https://archive.org/download/WC.C.11/WC.C.11.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "WC.C.22::WC.C.22.mp3",
+    "title": "Me Gustan los Pollos, sung by Manuela Garcia",
+    "artist": "Lummis, Charles Fletcher, 1859-1928, Uruchurtu, Rosendo, performer",
+    "url": "https://archive.org/download/WC.C.22/WC.C.22.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "WC.E.29::WC.E.29.mp3",
+    "title": "La Jota de Los Indios de California, sung by Adalaida Kamp",
+    "artist": "Lummis, Charles Fletcher, 1859-1928",
+    "url": "https://archive.org/download/WC.E.29/WC.E.29.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "WC.G.29::WC.G.29.mp3",
+    "title": "La Cruz de Culiacan, sung by Peter Verdguer",
+    "artist": "Lummis, Charles Fletcher, 1859-1928",
+    "url": "https://archive.org/download/WC.G.29/WC.G.29.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "WC.G.3::WC.G.3.mp3",
+    "title": "Terible Tarde, sung by Rosendo Uruchurtu",
+    "artist": "Lummis, Charles Fletcher, 1859-1928",
+    "url": "https://archive.org/download/WC.G.3/WC.G.3.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "WC.G.31::WC.G.31.mp3",
+    "title": "La Perjura, sung by Miss Rodriguez",
+    "artist": "Lummis, Charles Fletcher, 1859-1928",
+    "url": "https://archive.org/download/WC.G.31/WC.G.31.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "WC.H.15::WC.H.15.mp3",
+    "title": "Guarda Esta Flor, performed by Luisa Villa and Rosa Villa",
+    "artist": "Lummis, Charles Fletcher, 1859-1928, Villa, Rosa, performer",
+    "url": "https://archive.org/download/WC.H.15/WC.H.15.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "WC.H.30::WC.H.30.mp3",
+    "title": "San Benito, recorded by Charles Lummis",
+    "artist": "Lummis, Charles Fletcher, 1859-1928",
+    "url": "https://archive.org/download/WC.H.30/WC.H.30.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "WC.H.9::WC.H.9.mp3",
+    "title": "La Serenata, performed by Luisa Villa and Rosa Villa",
+    "artist": "Lummis, Charles Fletcher, 1859-1928, Villa, Rosa, performer",
+    "url": "https://archive.org/download/WC.H.9/WC.H.9.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "WC.A.10::WC.A.10.mp3",
+    "title": "Habanera Andaluza, sung by Francisco Amate",
+    "artist": "Lummis, Charles Fletcher, 1859-1928",
+    "url": "https://archive.org/download/WC.A.10/WC.A.10.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "WC.A.13::WC.A.13.mp3",
+    "title": "El Hortelano Orgulloso, sung by Francisco Amate",
+    "artist": "Lummis, Charles Fletcher, 1859-1928",
+    "url": "https://archive.org/download/WC.A.13/WC.A.13.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "WC.A.23::WC.A.23.mp3",
+    "title": "El Sereno, sung by Francisco Amate",
+    "artist": "Lummis, Charles Fletcher, 1859-1928",
+    "url": "https://archive.org/download/WC.A.23/WC.A.23.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "WC.A.9::WC.A.9.mp3",
+    "title": "La Gran Via, sung by Francisco Amate",
+    "artist": "Lummis, Charles Fletcher, 1859-1928",
+    "url": "https://archive.org/download/WC.A.9/WC.A.9.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "WC.C.5::WC.C.5.mp3",
+    "title": "Adios, Adios, Adios, sung by Manuela Garcia and Rosendo Uruchurtu",
+    "artist": "Garcia, Manuela, singer, Uruchurtu, Rosendo, performer",
+    "url": "https://archive.org/download/WC.C.5/WC.C.5.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "WC.D.33::WC.D.33.mp3",
+    "title": "Las Buenas Noches, sung by Adalaida Kamp",
+    "artist": "Lummis, Charles Fletcher, 1859-1928",
+    "url": "https://archive.org/download/WC.D.33/WC.D.33.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "WC.E.12::WC.E.12.mp3",
+    "title": "Lagrimas de Voltaire, sung by Adalaida Kamp",
+    "artist": "Lummis, Charles Fletcher, 1859-1928",
+    "url": "https://archive.org/download/WC.E.12/WC.E.12.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "loc-jukebox-73636-l-stie-opadlo::jukebox-73636_l-stie-opadlo.mp3",
+    "title": "Lístie opadlo",
+    "artist": "sió, aladár ; gellert, andrej ; kun, józsef",
+    "url": "https://archive.org/download/loc-jukebox-73636-l-stie-opadlo/jukebox-73636_l-stie-opadlo.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "loc-jukebox-73640-slovensk-ard-slo-xiii::jukebox-73640_slovensk-ard-slo-xiii.mp3",
+    "title": "Slovenský čardáš, číslo XIII",
+    "artist": "sió aladár és zenekara ; sió, aladár",
+    "url": "https://archive.org/download/loc-jukebox-73640-slovensk-ard-slo-xiii/jukebox-73640_slovensk-ard-slo-xiii.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "loc-jukebox-73677-tango-del-ba-ta-clan::jukebox-73677_tango-del-ba-ta-clan.mp3",
+    "title": "Tango del Ba-ta-clan",
+    "artist": "shield, leroy ; demaret, rené ; international novelty orchestra ; orquesta internacional",
+    "url": "https://archive.org/download/loc-jukebox-73677-tango-del-ba-ta-clan/jukebox-73677_tango-del-ba-ta-clan.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "loc-jukebox-9559-pura-ma-a::jukebox-9559_pura-ma-a.mp3",
+    "title": "Pura maña",
+    "artist": "orquesta típica de caro ; caro, julio de ; maffia, ángel",
+    "url": "https://archive.org/download/loc-jukebox-9559-pura-ma-a/jukebox-9559_pura-ma-a.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "loc-jukebox-70449-deep-in-my-heart::jukebox-70449_deep-in-my-heart.mp3",
+    "title": "Deep in my heart",
+    "artist": "baur, franklyn ; prince, charles adams ; schenk, moe ; terriss, dorothy",
+    "url": "https://archive.org/download/loc-jukebox-70449-deep-in-my-heart/jukebox-70449_deep-in-my-heart.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "calauem_000565::calauem_000565_access.mp3",
+    "title": "Sephardic music: Mahman en el Park",
+    "artist": "Sene, Emily",
+    "url": "https://archive.org/download/calauem_000565/calauem_000565_access.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "calauem_000599::calauem_000599_b_access.mp3",
+    "title": "1964 UCLA Folk Festival: Workshop: Children's Material",
+    "artist": "University of California, Los Angeles",
+    "url": "https://archive.org/download/calauem_000599/calauem_000599_b_access.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "calauem_000603::calauem_000603_b_access.mp3",
+    "title": "1964 UCLA Folk Festival: Lecture Demonstration: African American Life in Song from the West Indies",
+    "artist": "University of California, Los Angeles",
+    "url": "https://archive.org/download/calauem_000603/calauem_000603_b_access.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "calauem_002481::calauem_002481_a_access.m4a",
+    "title": "Eubie Blake and Duke Ellilngton (reel 52)",
+    "artist": "Unknown",
+    "url": "https://archive.org/download/calauem_002481/calauem_002481_a_access.m4a",
+    "mime": "audio/mp4",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "calauem_002496::calauem_002496_b_access.m4a",
+    "title": "Indiana University Seminar, Virginia State: Aggrey of Africa 2 (cassette 9B)",
+    "artist": "Unknown",
+    "url": "https://archive.org/download/calauem_002496/calauem_002496_b_access.m4a",
+    "mime": "audio/mp4",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "calauem_003025::calauem_003025_a_access.m4a",
+    "title": "Funeral: Vocal Music 2 (cassette 386B)",
+    "artist": "Unknown",
+    "url": "https://archive.org/download/calauem_003025/calauem_003025_a_access.m4a",
+    "mime": "audio/mp4",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "calauem_002696::calauem_002696_access.m4a",
+    "title": "G Shirley (cassette 160)",
+    "artist": "Unknown",
+    "url": "https://archive.org/download/calauem_002696/calauem_002696_access.m4a",
+    "mime": "audio/mp4",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "calauem_003197::calauem_003197_access.m4a",
+    "title": "W. Carter (cassette 291)",
+    "artist": "Unknown",
+    "url": "https://archive.org/download/calauem_003197/calauem_003197_access.m4a",
+    "mime": "audio/mp4",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "calauem_003142::calauem_003142_p01_access.m4a",
+    "title": "Maill - K 1/3",
+    "artist": "Kalanduyan, Danongan S.",
+    "url": "https://archive.org/download/calauem_003142/calauem_003142_p01_access.m4a",
+    "mime": "audio/mp4",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "calauem_003154::calauem_003154_p01_p01_access.m4a",
+    "title": "Gandingan Contest - Cotabato City",
+    "artist": "Kalanduyan, Danongan S.",
+    "url": "https://archive.org/download/calauem_003154/calauem_003154_p01_p01_access.m4a",
+    "mime": "audio/mp4",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "calauem_003178::calauem_003178_p01_p01_access.m4a",
+    "title": "Kutiyapi Ismail",
+    "artist": "Unknown",
+    "url": "https://archive.org/download/calauem_003178/calauem_003178_p01_p01_access.m4a",
+    "mime": "audio/mp4",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "calauem_002649::calauem_002649_a_access.m4a",
+    "title": "Advisory Board 3: First Meeting (cassette 120)",
+    "artist": "Unknown",
+    "url": "https://archive.org/download/calauem_002649/calauem_002649_a_access.m4a",
+    "mime": "audio/mp4",
     "license": "Public Domain",
     "source": "Internet Archive"
   }
