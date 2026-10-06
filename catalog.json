@@ -1,27 +1,9 @@
 [
   {
-    "id": "mud-bath-music-by-angel-girl-brianna::Mud-Bath-song-by-Angel-Girl-Brianna.flac",
-    "title": "Mud Bath (Music)",
-    "artist": "Angel Girl Brianna",
-    "url": "https://archive.org/download/mud-bath-music-by-angel-girl-brianna/Mud-Bath-song-by-Angel-Girl-Brianna.flac",
-    "mime": "audio/flac",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "the-dreams-of-the-beetle-that-eats-cactus.::03-NC-Beetle-3-y2023m6d19h21m27s4.mp3",
-    "title": "The Dreams of the Beetle that eats Cactus.",
-    "artist": "Miquel Parera",
-    "url": "https://archive.org/download/the-dreams-of-the-beetle-that-eats-cactus./03-NC-Beetle-3-y2023m6d19h21m27s4.mp3",
-    "mime": "audio/mpeg",
-    "license": "CC BY-SA",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "sek-und-dissonanzen-dj-cannabis-coffeeshops-deustchland-16.10.2023::SekUndDissonanzen (DJ Cannabis Coffeeshops Deustchland) (16.10.2023).mp3",
-    "title": "Sek Und Dissonanzen ( DJ Cannabis Coffeeshops Deustchland) ( 16.10.2023)",
-    "artist": "SekUndDissonanzen",
-    "url": "https://archive.org/download/sek-und-dissonanzen-dj-cannabis-coffeeshops-deustchland-16.10.2023/SekUndDissonanzen%20%28DJ%20Cannabis%20Coffeeshops%20Deustchland%29%20%2816.10.2023%29.mp3",
+    "id": "nothing_20260304::Nothing (Prod By Christopher Rose).mp3",
+    "title": "NOTHING",
+    "artist": "Christopher Liam Rose",
+    "url": "https://archive.org/download/nothing_20260304/Nothing%20%28Prod%20By%20Christopher%20Rose%29.mp3",
     "mime": "audio/mpeg",
     "license": "Public Domain",
     "source": "Internet Archive"
@@ -72,15 +54,6 @@
     "source": "Internet Archive"
   },
   {
-    "id": "th-10rat2-1atk2-5rel60::th-10rat2-1atk2-5rel60.mp3",
-    "title": "th-10rat2-1atk2-5rel60",
-    "artist": "Unknown artist",
-    "url": "https://archive.org/download/th-10rat2-1atk2-5rel60/th-10rat2-1atk2-5rel60.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
     "id": "paradox_prediction_20251104_1950::paradox_prediction_20251104_1950.mp3",
     "title": "paradox_prediction_20251104_1950",
     "artist": "hifi",
@@ -90,10 +63,28 @@
     "source": "Internet Archive"
   },
   {
+    "id": "th-10rat2-1atk2-5rel60::th-10rat2-1atk2-5rel60.mp3",
+    "title": "th-10rat2-1atk2-5rel60",
+    "artist": "Unknown artist",
+    "url": "https://archive.org/download/th-10rat2-1atk2-5rel60/th-10rat2-1atk2-5rel60.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
     "id": "plankalkul-dj-cannabis-coffeeshops-deutschland::Plankalkül (DJ Cannabis Coffeeshops Deutschland).mp3",
     "title": "Plankalkül ( DJ Cannabis Coffeeshops Deutschland)",
     "artist": "Plankalkül",
     "url": "https://archive.org/download/plankalkul-dj-cannabis-coffeeshops-deutschland/Plankalk%C3%BCl%20%28DJ%20Cannabis%20Coffeeshops%20Deutschland%29.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "station-zero-transmission::Silent Orbit.mp3",
+    "title": "Station Zero Transmission",
+    "artist": "lavelacontraluz",
+    "url": "https://archive.org/download/station-zero-transmission/Silent%20Orbit.mp3",
     "mime": "audio/mpeg",
     "license": "Public Domain",
     "source": "Internet Archive"
@@ -126,11 +117,11 @@
     "source": "Internet Archive"
   },
   {
-    "id": "terbeschikkingstelling-fiutsherizm-bar::Terbeschikkingstelling - ¡...FIUTSHeRiZM...! - 06 pom, pom, pom.flac",
-    "title": "¡​.​.​.​FIUTSHeRiZM​.​.​.​! [B​.​A​.​R​.​]",
-    "artist": "Terbeschikkingstelling",
-    "url": "https://archive.org/download/terbeschikkingstelling-fiutsherizm-bar/Terbeschikkingstelling%20-%20%C2%A1...FIUTSHeRiZM...%21%20-%2006%20pom%2C%20pom%2C%20pom.flac",
-    "mime": "audio/flac",
+    "id": "soziokulturelles-existenzminimum-dj-bundesregierung-21.11.2025::Soziokulturelles Existenzminimum (DJ Bundesregierung) (21.11.2025).mp3",
+    "title": "Soziokulturelles Existenzminimum ( DJ Bundesregierung) ( 21.11.2025)",
+    "artist": "Soziokulturelles Existenzminimum",
+    "url": "https://archive.org/download/soziokulturelles-existenzminimum-dj-bundesregierung-21.11.2025/Soziokulturelles%20Existenzminimum%20%28DJ%20Bundesregierung%29%20%2821.11.2025%29.mp3",
+    "mime": "audio/mpeg",
     "license": "Public Domain",
     "source": "Internet Archive"
   },
@@ -149,6 +140,51 @@
     "artist": "Billy Murray",
     "url": "https://archive.org/download/whichswitchisthe10157gut/10157-m%2F10157-m-001.mp3",
     "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "narodowemelodyep10260gut::10260-m/10260-m-001.mp3",
+    "title": "Narodowe Melodye\n Polka",
+    "artist": "Aleksander Iwanowski",
+    "url": "https://archive.org/download/narodowemelodyep10260gut/10260-m%2F10260-m-001.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "poetandpeasantov10299gut::10299-m/10299-m-001.mp3",
+    "title": "Poet and Peasant Overture",
+    "artist": "Franz von Suppé, Eddie Peabody",
+    "url": "https://archive.org/download/poetandpeasantov10299gut/10299-m%2F10299-m-001.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "wc.b.35_202003::WC.B.35.mp3",
+    "title": "El Cazador, sung by Manuela Garcia",
+    "artist": "Lummis, Charles Fletcher, 1859-1928",
+    "url": "https://archive.org/download/wc.b.35_202003/WC.B.35.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "cstbhi_000202::cstbhi_000202_access.m4a",
+    "title": "Choral Music",
+    "artist": "Santa Barbara Historical Museum",
+    "url": "https://archive.org/download/cstbhi_000202/cstbhi_000202_access.m4a",
+    "mime": "audio/mp4",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "csmha_000596::csmha_000596_access.m4a",
+    "title": "Ruth St. Denis Brahms and Lazy Nautch",
+    "artist": "St. Denis, Ruth, 1880-1968",
+    "url": "https://archive.org/download/csmha_000596/csmha_000596_access.m4a",
+    "mime": "audio/mp4",
     "license": "Public Domain",
     "source": "Internet Archive"
   },
@@ -202,6 +238,159 @@
     "title": "Listening Party with Sam Stephenson, Green Room (2010)",
     "artist": "Unknown artist",
     "url": "https://archive.org/download/casfjazz_000339/casfjazz_000339_f00004_access.m4a",
+    "mime": "audio/mp4",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "capriceviennois10424gut::10424-m/10424-m-001.mp3",
+    "title": "Caprice Viennois",
+    "artist": "Fritz Kreisler, George Hamilton Green",
+    "url": "https://archive.org/download/capriceviennois10424gut/10424-m%2F10424-m-001.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "casfjazz_000340::casfjazz_000340_f00003_access.m4a",
+    "title": "Blind Boys of Alabama: Go Tell It on the Mountain (2012)",
+    "artist": "Unknown artist",
+    "url": "https://archive.org/download/casfjazz_000340/casfjazz_000340_f00003_access.m4a",
+    "mime": "audio/mp4",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "casfjazz_000263::casfjazz_000263_f00002_access.m4a",
+    "title": "SFJAZZ Collective Inaugural Season, On Tour 3-28-2004 (San Diego)",
+    "artist": "Unknown artist",
+    "url": "https://archive.org/download/casfjazz_000263/casfjazz_000263_f00002_access.m4a",
+    "mime": "audio/mp4",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "casfjazz_000281::casfjazz_000281_f00002_access.m4a",
+    "title": "SFJAZZ Collective, 2009",
+    "artist": "Unknown artist",
+    "url": "https://archive.org/download/casfjazz_000281/casfjazz_000281_f00002_access.m4a",
+    "mime": "audio/mp4",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "casfjazz_000290::casfjazz_000290_f00002_access.m4a",
+    "title": "Pianism: Henry Butler (2009)",
+    "artist": "Unknown artist",
+    "url": "https://archive.org/download/casfjazz_000290/casfjazz_000290_f00002_access.m4a",
+    "mime": "audio/mp4",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "caclah_000120::caclah_000120_access.mp3",
+    "title": "Padua Hills Theatre Tapes - Tape 29 - Various performance recordings",
+    "artist": "Unknown artist",
+    "url": "https://archive.org/download/caclah_000120/caclah_000120_access.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "calauem_002565::calauem_002565_b_access.m4a",
+    "title": "Eckstine Jazz (cassette 50)",
+    "artist": "Unknown",
+    "url": "https://archive.org/download/calauem_002565/calauem_002565_b_access.m4a",
+    "mime": "audio/mp4",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "calauem_003117::calauem_003117_p01_p01_access.m4a",
+    "title": "Rapture - Musrat Fateh",
+    "artist": "Kalanduyan, Danongan S.",
+    "url": "https://archive.org/download/calauem_003117/calauem_003117_p01_p01_access.m4a",
+    "mime": "audio/mp4",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "calauem_000438::calauem_000438_p01_access.mp3",
+    "title": "Sephardic music: Isaac Sene, oud",
+    "artist": "Sene, Emily",
+    "url": "https://archive.org/download/calauem_000438/calauem_000438_p01_access.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "calauem_000445::calauem_000445_access.mp3",
+    "title": "Sephardic music: Turco Eryer Caralic, Isaac Sene, oud",
+    "artist": "Sene, Emily",
+    "url": "https://archive.org/download/calauem_000445/calauem_000445_access.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "calauem_001419::calauem_001419_access.m4a",
+    "title": "Kanditagaonan",
+    "artist": "Lipat-Chesler, Eleanor",
+    "url": "https://archive.org/download/calauem_001419/calauem_001419_access.m4a",
+    "mime": "audio/mp4",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "calauem_002424::calauem_002424_b_access.m4a",
+    "title": "Black Educators- Baldwin Hills School (reel 1)",
+    "artist": "Unknown",
+    "url": "https://archive.org/download/calauem_002424/calauem_002424_b_access.m4a",
+    "mime": "audio/mp4",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "calauem_000566::calauem_000566_t02_access.mp3",
+    "title": "1963 UCLA Folk Festival:  Concert: Saturday Night Concert",
+    "artist": "University of California, Los Angeles",
+    "url": "https://archive.org/download/calauem_000566/calauem_000566_t02_access.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "calauem_002482::calauem_002482_access.m4a",
+    "title": "Tuxedo Band, French Band, and Mardi Gras Indian (reel 53)",
+    "artist": "Unknown",
+    "url": "https://archive.org/download/calauem_002482/calauem_002482_access.m4a",
+    "mime": "audio/mp4",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "calauem_002857::calauem_002857_b_access.m4a",
+    "title": "LAUSD: Bessie Dones 2 (cassette 246B)",
+    "artist": "Unknown",
+    "url": "https://archive.org/download/calauem_002857/calauem_002857_b_access.m4a",
+    "mime": "audio/mp4",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "calauem_002875::calauem_002875_a_access.m4a",
+    "title": "LAUSD: Al McNeil 5 (cassette 254E)",
+    "artist": "Unknown",
+    "url": "https://archive.org/download/calauem_002875/calauem_002875_a_access.m4a",
+    "mime": "audio/mp4",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "calauem_002952::calauem_002952_b_access.m4a",
+    "title": "Deedie McGeeHee 2 (cassette 332)",
+    "artist": "Unknown",
+    "url": "https://archive.org/download/calauem_002952/calauem_002952_b_access.m4a",
     "mime": "audio/mp4",
     "license": "Public Domain",
     "source": "Internet Archive"
@@ -306,1027 +495,28 @@
     "source": "Internet Archive"
   },
   {
-    "id": "calauem_000579::calauem_000579_t02_access.mp3",
-    "title": "1963 UCLA Folk Festival: Workshop: Banjo Old Style",
-    "artist": "University of California, Los Angeles",
-    "url": "https://archive.org/download/calauem_000579/calauem_000579_t02_access.mp3",
+    "id": "loc-jukebox-34175-fluffy-ruffles::jukebox-34175_fluffy-ruffles.mp3",
+    "title": "Fluffy ruffles",
+    "artist": "all star trio ; arden, victor ; green, george hamilton ; wadsworth, wheeler",
+    "url": "https://archive.org/download/loc-jukebox-34175-fluffy-ruffles/jukebox-34175_fluffy-ruffles.mp3",
     "mime": "audio/mpeg",
     "license": "Public Domain",
     "source": "Internet Archive"
   },
   {
-    "id": "calauem_002483::calauem_002483_access.m4a",
-    "title": "Bette Recital (reel 54)",
-    "artist": "Unknown",
-    "url": "https://archive.org/download/calauem_002483/calauem_002483_access.m4a",
-    "mime": "audio/mp4",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "calauem_002486::calauem_002486_access.m4a",
-    "title": "Popper Competition Verdi (reel 56)",
-    "artist": "Unknown",
-    "url": "https://archive.org/download/calauem_002486/calauem_002486_access.m4a",
-    "mime": "audio/mp4",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "calauem_002598::calauem_002598_access.m4a",
-    "title": "Wali K. (cassette 82)",
-    "artist": "Unknown",
-    "url": "https://archive.org/download/calauem_002598/calauem_002598_access.m4a",
-    "mime": "audio/mp4",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "calauem_002705::calauem_002705_access.m4a",
-    "title": "Gwen Wyatt (cassette 166D)",
-    "artist": "Unknown",
-    "url": "https://archive.org/download/calauem_002705/calauem_002705_access.m4a",
-    "mime": "audio/mp4",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "calauem_000172::calauem_000172_t1_access.mp3",
-    "title": "Service at St. Bernadette Catholic Church; Service at St. John Catholic Church",
-    "artist": "DjeDje, Jacqueline Cogdell",
-    "url": "https://archive.org/download/calauem_000172/calauem_000172_t1_access.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "calauem_000482::calauem_000482_a_access.mp3",
-    "title": "Sephardic songs: La victoria de Israel: Seish Diaz I Noches Fuertes; La Gloria de Israel: Una Nacion Chikita",
-    "artist": "Sene, Isaac",
-    "url": "https://archive.org/download/calauem_000482/calauem_000482_a_access.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "calauem_000716::calauem_000716_access.mp3",
-    "title": "Matag Subang Sa Bulak (Overtura ni Maria Clara) Instrumental",
-    "artist": "Ube Arte",
-    "url": "https://archive.org/download/calauem_000716/calauem_000716_access.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "calauem_002767::calauem_002767_b_access.m4a",
-    "title": "G. Smock/B. Collette (cassette 205)",
-    "artist": "Unknown",
-    "url": "https://archive.org/download/calauem_002767/calauem_002767_b_access.m4a",
-    "mime": "audio/mp4",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "calauem_003155::calauem_003155_p01_p01_access.m4a",
-    "title": "P - Kut - Kul - DiKil",
-    "artist": "Kalanduyan, Danongan S.",
-    "url": "https://archive.org/download/calauem_003155/calauem_003155_p01_p01_access.m4a",
-    "mime": "audio/mp4",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "calauem_002976::calauem_002976_access.m4a",
-    "title": "Loren Battieste: Memory (cassette 347)",
-    "artist": "Unknown",
-    "url": "https://archive.org/download/calauem_002976/calauem_002976_access.m4a",
-    "mime": "audio/mp4",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "calauem_003008::calauem_003008_b_access.m4a",
-    "title": "Schwadron Seminar 2: Vlasek 2 (cassette 375B)",
-    "artist": "Unknown",
-    "url": "https://archive.org/download/calauem_003008/calauem_003008_b_access.m4a",
-    "mime": "audio/mp4",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "calauem_000453::calauem_000453_access.mp3",
-    "title": "Sephardic music: Mahman, Isaac, Sarah",
-    "artist": "Sene, Emily",
-    "url": "https://archive.org/download/calauem_000453/calauem_000453_access.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "calauem_003135::calauem_003135_access.m4a",
-    "title": "Solo Kulintang Contest Feb 2010",
-    "artist": "Kalanduyan, Danongan S.",
-    "url": "https://archive.org/download/calauem_003135/calauem_003135_access.m4a",
-    "mime": "audio/mp4",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "casfjazz_000299::casfjazz_000299_f00002_access.m4a",
-    "title": "SFJAZZ Collective (2009)",
-    "artist": "Unknown artist",
-    "url": "https://archive.org/download/casfjazz_000299/casfjazz_000299_f00002_access.m4a",
-    "mime": "audio/mp4",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "caclah_000123::caclah_000123_access.mp3",
-    "title": "Padua Hills Theatre Tapes - Tape 32 - Huapango de Pablo Moncayo",
-    "artist": "Unknown artist",
-    "url": "https://archive.org/download/caclah_000123/caclah_000123_access.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "caclah_000137::caclah_000137_t02_b_access.mp3",
-    "title": "Alfonso Carillo interview",
-    "artist": "Elliott, Ginger",
-    "url": "https://archive.org/download/caclah_000137/caclah_000137_t02_b_access.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "loc-jukebox-42901-devotion::jukebox-42901_devotion.mp3",
-    "title": "Devotion",
-    "artist": "victor herbert's orchestra ; herbert, victor ; sanford, harold",
-    "url": "https://archive.org/download/loc-jukebox-42901-devotion/jukebox-42901_devotion.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "loc-jukebox-42978-the-mill-by-the-sea::jukebox-42978_the-mill-by-the-sea.mp3",
-    "title": "The mill by the sea",
-    "artist": "furber, douglas ; bourdon, rosario ; lapitino, francis j. ; baker, elsie ; adams, a. e.",
-    "url": "https://archive.org/download/loc-jukebox-42978-the-mill-by-the-sea/jukebox-42978_the-mill-by-the-sea.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "loc-jukebox-66459-volga::jukebox-66459_volga.mp3",
-    "title": "Volga",
-    "artist": "nagy, lajos ; gypsy orchestra ; benczy, károly ; bakaleinikov, nikolai romanovich",
-    "url": "https://archive.org/download/loc-jukebox-66459-volga/jukebox-66459_volga.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "loc-jukebox-664887-isle-of-paradise::jukebox-664887_isle-of-paradise.mp3",
-    "title": "Isle of Paradise",
-    "artist": "king, robert ; earl, mary ; ferera and franchini ; fiorito, ted ; franchini, anthony j. ; green, george hamilton ; ferera, frank",
-    "url": "https://archive.org/download/loc-jukebox-664887-isle-of-paradise/jukebox-664887_isle-of-paradise.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "loc-jukebox-43181-s-mulle::jukebox-43181_s-mulle.mp3",
-    "title": "'S Mulle",
-    "artist": "kromer, carl ; kromer-sextett",
-    "url": "https://archive.org/download/loc-jukebox-43181-s-mulle/jukebox-43181_s-mulle.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "loc-jukebox-68452-the-only-girl::jukebox-68452_the-only-girl.mp3",
-    "title": "The only girl",
-    "artist": "chapman, jack ; johnson, arnold ; russell, ben ; coleman, emil ; jack chapman orchestra ; drake hotel orchestra",
-    "url": "https://archive.org/download/loc-jukebox-68452-the-only-girl/jukebox-68452_the-only-girl.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "loc-jukebox-9559-pura-ma-a::jukebox-9559_pura-ma-a.mp3",
-    "title": "Pura maña",
-    "artist": "orquesta típica de caro ; caro, julio de ; maffia, ángel",
-    "url": "https://archive.org/download/loc-jukebox-9559-pura-ma-a/jukebox-9559_pura-ma-a.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "loc-jukebox-68367-ev-ry-night-i-cry-myself-to-sleep-over-you::jukebox-68367_ev-ry-night-i-cry-myself-to-sleep-over-you.mp3",
-    "title": "Ev'ry night I cry myself to sleep over you",
-    "artist": "bibo, irving m. ; wood, leo ; levy, ted ; wiedoeft, rudy ; johnson, howard e. ; bourdon, rosario ; burr, henry",
-    "url": "https://archive.org/download/loc-jukebox-68367-ev-ry-night-i-cry-myself-to-sleep-over-you/jukebox-68367_ev-ry-night-i-cry-myself-to-sleep-over-you.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "loc-jukebox-68032-love-sends-a-little-gift-of-roses::jukebox-68032_love-sends-a-little-gift-of-roses.mp3",
-    "title": "Love sends a little gift of roses",
-    "artist": "linton, charles ; bourdon, rosario ; openshaw, john ; cooke, leslie ; mccormack, john",
-    "url": "https://archive.org/download/loc-jukebox-68032-love-sends-a-little-gift-of-roses/jukebox-68032_love-sends-a-little-gift-of-roses.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "loc-jukebox-68043-sometime-i-ll-hear-your-sweet-voice-calling::jukebox-68043_sometime-i-ll-hear-your-sweet-voice-calling.mp3",
-    "title": "Sometime (I'll hear your sweet voice calling)",
-    "artist": "bourdon, rosario ; schmidt, alexander ; lockwood, hazel m. ; lockwood, lee w. ; lennartz, alfred ; mccormack, john",
-    "url": "https://archive.org/download/loc-jukebox-68043-sometime-i-ll-hear-your-sweet-voice-calling/jukebox-68043_sometime-i-ll-hear-your-sweet-voice-calling.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "loc-jukebox-68189-an-orange-grove-in-california::jukebox-68189_an-orange-grove-in-california.mp3",
-    "title": "An orange grove in California",
-    "artist": "bourdon, rosario ; schmidt, alexander ; berlin, irving ; steel, john",
-    "url": "https://archive.org/download/loc-jukebox-68189-an-orange-grove-in-california/jukebox-68189_an-orange-grove-in-california.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "loc-jukebox-667959-stumbling::jukebox-667959_stumbling.mp3",
-    "title": "Stumbling",
-    "artist": "confrey, zez ; ray miller orchestra ; miller, ray",
-    "url": "https://archive.org/download/loc-jukebox-667959-stumbling/jukebox-667959_stumbling.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "loc-jukebox-66803-el-venadito::jukebox-66803_el-venadito.mp3",
-    "title": "El venadito",
-    "artist": "dolin, max ; shilkret, nathaniel ; ponce reyes, tomás ; international novelty orchestra ; orquesta internacional",
-    "url": "https://archive.org/download/loc-jukebox-66803-el-venadito/jukebox-66803_el-venadito.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "loc-jukebox-61318-barbara-allen::jukebox-61318_barbara-allen.mp3",
-    "title": "Barbara Allen",
-    "artist": "hatton, john liptrott ; bourdon, rosario ; dadmun, royal ; faning, eaton",
-    "url": "https://archive.org/download/loc-jukebox-61318-barbara-allen/jukebox-61318_barbara-allen.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "loc-jukebox-41985-menuett::jukebox-41985_menuett.mp3",
-    "title": "Menuett",
-    "artist": "paderewski, ignace jan ; beethoven, ludwig van ; pasternack, josef ; witzmann, john ; popper, david ; adams, william ; victor orchestra ; pasternack, sam ; scarpa, eddie ; bach, johann sebastian ; cerminara, n.",
-    "url": "https://archive.org/download/loc-jukebox-41985-menuett/jukebox-41985_menuett.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "loc-jukebox-667520-to-a-wild-rose::jukebox-667520_to-a-wild-rose.mp3",
-    "title": "To a wild rose",
-    "artist": "crozier, georges ; eddie elkins' orchestra ; elkins, eddie ; macdowell, edward",
-    "url": "https://archive.org/download/loc-jukebox-667520-to-a-wild-rose/jukebox-667520_to-a-wild-rose.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "loc-jukebox-68314-vastate-tourke-taloga::jukebox-68314_vastate-tourke-taloga.mp3",
-    "title": "Vastate tourke taloga",
-    "artist": "stasinopoulos, sotirios",
-    "url": "https://archive.org/download/loc-jukebox-68314-vastate-tourke-taloga/jukebox-68314_vastate-tourke-taloga.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "loc-jukebox-670905-family-trouble-blues::jukebox-670905_family-trouble-blues.mp3",
-    "title": "Family trouble blues",
-    "artist": "johnson, clarence ; cobb, olman j. ; miles, lizzie",
-    "url": "https://archive.org/download/loc-jukebox-670905-family-trouble-blues/jukebox-670905_family-trouble-blues.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "loc-jukebox-70449-deep-in-my-heart::jukebox-70449_deep-in-my-heart.mp3",
-    "title": "Deep in my heart",
-    "artist": "baur, franklyn ; prince, charles adams ; schenk, moe ; terriss, dorothy",
-    "url": "https://archive.org/download/loc-jukebox-70449-deep-in-my-heart/jukebox-70449_deep-in-my-heart.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "loc-jukebox-71450-the-flatterer::jukebox-71450_the-flatterer.mp3",
-    "title": "The flatterer",
-    "artist": "chaminade, cécile ; barth, hans",
-    "url": "https://archive.org/download/loc-jukebox-71450-the-flatterer/jukebox-71450_the-flatterer.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "loc-jukebox-71481-when-i-m-with-you::jukebox-71481_when-i-m-with-you.mp3",
-    "title": "When I'm with you",
-    "artist": "schmidt, alexander ; reibold, bruno ; robison, carson ; meisle, kathryn ; bourdon, rosario",
-    "url": "https://archive.org/download/loc-jukebox-71481-when-i-m-with-you/jukebox-71481_when-i-m-with-you.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "loc-jukebox-7290-cenizas::jukebox-7290_cenizas.mp3",
-    "title": "Cenizas",
-    "artist": "orquesta típica fresedo ; rizzuti, josé maría ; fresedo, osvaldo",
-    "url": "https://archive.org/download/loc-jukebox-7290-cenizas/jukebox-7290_cenizas.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "loc-jukebox-72946-slovensk-tanec::jukebox-72946_slovensk-tanec.mp3",
-    "title": "Slovensk� tanec",
-    "artist": "sió aladár és zenekara ; kálmán, józef ; sió, aladár ; brust, jacob",
-    "url": "https://archive.org/download/loc-jukebox-72946-slovensk-tanec/jukebox-72946_slovensk-tanec.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "loc-jukebox-7469-mujercita::jukebox-7469_mujercita.mp3",
-    "title": "Mujercita",
-    "artist": "orquesta típica fresedo ; martínez serrano, luis ; gonzález, c. ; fresedo, osvaldo",
-    "url": "https://archive.org/download/loc-jukebox-7469-mujercita/jukebox-7469_mujercita.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "loc-jukebox-71995-red-wing::jukebox-71995_red-wing.mp3",
-    "title": "Red Wing",
-    "artist": "james, lewis ; baur, franklyn ; mills, kerry ; glenn, wilfred ; shannon quartet ; chattaway, thurland ; prince, charles adams ; shaw, elliott",
-    "url": "https://archive.org/download/loc-jukebox-71995-red-wing/jukebox-71995_red-wing.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "loc-jukebox-73006-zaichik::jukebox-73006_zaichik.mp3",
-    "title": "Zaichik",
-    "artist": "green, joe ; medoff, david",
-    "url": "https://archive.org/download/loc-jukebox-73006-zaichik/jukebox-73006_zaichik.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "loc-jukebox-70939-emilia-kering::jukebox-70939_emilia-kering.mp3",
-    "title": "Emilia (Kering�)",
-    "artist": "sió aladár és zenekara ; sió, aladár",
-    "url": "https://archive.org/download/loc-jukebox-70939-emilia-kering/jukebox-70939_emilia-kering.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "loc-jukebox-670335-who-s-sorry-now::jukebox-670335_who-s-sorry-now.mp3",
-    "title": "Who's sorry now?",
-    "artist": "yerkes, harry a. ; snyder, ted ; happy six",
-    "url": "https://archive.org/download/loc-jukebox-670335-who-s-sorry-now/jukebox-670335_who-s-sorry-now.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "loc-jukebox-40265-i-zn-te-svat-bo-i-lud::jukebox-40265_i-zn-te-svat-bo-i-lud.mp3",
-    "title": "Či znáte svatý boži lud?",
-    "artist": "shilkret, nathaniel ; hok, anton ; royova, katarina",
-    "url": "https://archive.org/download/loc-jukebox-40265-i-zn-te-svat-bo-i-lud/jukebox-40265_i-zn-te-svat-bo-i-lud.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "loc-jukebox-41818-drosoula-kleftico::jukebox-41818_drosoula-kleftico.mp3",
-    "title": "Drosoula kleftico",
-    "artist": "stasinopoulos, sotirios",
-    "url": "https://archive.org/download/loc-jukebox-41818-drosoula-kleftico/jukebox-41818_drosoula-kleftico.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "loc-jukebox-669017-i-m-through-shedding-tears-over-you::jukebox-669017_i-m-through-shedding-tears-over-you.mp3",
-    "title": "I'm through (Shedding tears over you)",
-    "artist": "norman, karyl ; crumit, frank ; weber, edwin j.",
-    "url": "https://archive.org/download/loc-jukebox-669017-i-m-through-shedding-tears-over-you/jukebox-669017_i-m-through-shedding-tears-over-you.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "loc-jukebox-669671-syncopate::jukebox-669671_syncopate.mp3",
-    "title": "Syncopate",
-    "artist": "columbians dance orchestra de luxe ; johnstone, tom ; luce, warren ; columbians ; schwarzwald, milton e.",
-    "url": "https://archive.org/download/loc-jukebox-669671-syncopate/jukebox-669671_syncopate.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "loc-jukebox-67605-march-ta::jukebox-67605_march-ta.mp3",
-    "title": "Marchéta",
-    "artist": "modugno, vincenzo di ; green, joe ; schertzinger, victor ; green, george hamilton ; king, edward t. ; green-arden orchestra",
-    "url": "https://archive.org/download/loc-jukebox-67605-march-ta/jukebox-67605_march-ta.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "loc-jukebox-70129-szabasowa-polka::jukebox-70129_szabasowa-polka.mp3",
-    "title": "Szabasowa polka",
-    "artist": "wanat, jan",
-    "url": "https://archive.org/download/loc-jukebox-70129-szabasowa-polka/jukebox-70129_szabasowa-polka.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "loc-jukebox-709657-you-gave-me-your-heart::jukebox-709657_you-gave-me-your-heart.mp3",
-    "title": "You gave me your heart",
-    "artist": "dale, edwin ; mackenzie, tandy ; smith, harry b. ; snyder, ted ; wheeler, francis",
-    "url": "https://archive.org/download/loc-jukebox-709657-you-gave-me-your-heart/jukebox-709657_you-gave-me-your-heart.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "loc-jukebox-71032-a-gesang-fun-m-berditchever-rebbe::jukebox-71032_a-gesang-fun-m-berditchever-rebbe.mp3",
-    "title": "A gesang fun'm Berditchever rebbe",
-    "artist": "shilkret, nathaniel ; binder, abraham wolf ; hershman, mordechai",
-    "url": "https://archive.org/download/loc-jukebox-71032-a-gesang-fun-m-berditchever-rebbe/jukebox-71032_a-gesang-fun-m-berditchever-rebbe.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "loc-jukebox-71041-loel-boruch::jukebox-71041_loel-boruch.mp3",
-    "title": "Loel boruch",
-    "artist": "kritchmar, elias",
-    "url": "https://archive.org/download/loc-jukebox-71041-loel-boruch/jukebox-71041_loel-boruch.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "loc-jukebox-69608-what-a-friend-we-have-in-mother::jukebox-69608_what-a-friend-we-have-in-mother.mp3",
-    "title": "What a friend we have in Mother",
-    "artist": "reibold, bruno ; roat, chas. e. ; campbell, albert ; meyer, john h. ; croxton, frank ; burr, henry ; peerless quartet",
-    "url": "https://archive.org/download/loc-jukebox-69608-what-a-friend-we-have-in-mother/jukebox-69608_what-a-friend-we-have-in-mother.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "loc-jukebox-70596-nibelungen-march::jukebox-70596_nibelungen-march.mp3",
-    "title": "Nibelungen march",
-    "artist": "goldman, edwin franko ; goldman band ; wagner, richard",
-    "url": "https://archive.org/download/loc-jukebox-70596-nibelungen-march/jukebox-70596_nibelungen-march.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "loc-jukebox-649112-village-belles::jukebox-649112_village-belles.mp3",
-    "title": "Village belles",
-    "artist": "holst, eduard ; prince's band",
-    "url": "https://archive.org/download/loc-jukebox-649112-village-belles/jukebox-649112_village-belles.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "loc-jukebox-38449-una-gita-in-automobile::jukebox-38449_una-gita-in-automobile.mp3",
-    "title": "Una gita in automobile",
-    "artist": "four sicilians, the ; palumbo, r.",
-    "url": "https://archive.org/download/loc-jukebox-38449-una-gita-in-automobile/jukebox-38449_una-gita-in-automobile.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "loc-jukebox-37524-d-heimet::jukebox-37524_d-heimet.mp3",
-    "title": "D'heimet",
-    "artist": "bourdon, rosario ; zimmermann, fritz",
-    "url": "https://archive.org/download/loc-jukebox-37524-d-heimet/jukebox-37524_d-heimet.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "loc-jukebox-38146-the-home-road::jukebox-38146_the-home-road.mp3",
-    "title": "The home road",
-    "artist": "schumann-heink, ernestine ; carpenter, john alden ; pasternack, josef",
-    "url": "https://archive.org/download/loc-jukebox-38146-the-home-road/jukebox-38146_the-home-road.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "loc-jukebox-35415-tildun::jukebox-35415_tildun.mp3",
-    "title": "Tildun",
-    "artist": "koskelo, juho ; greenberger, j. h. ; shilkret, nathaniel ; stein, william e. ; suomalainen tanssi orkesteri",
-    "url": "https://archive.org/download/loc-jukebox-35415-tildun/jukebox-35415_tildun.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "loc-jukebox-35779-rock-a-bye-baby::jukebox-35779_rock-a-bye-baby.mp3",
-    "title": "Rock-a-bye, baby",
-    "artist": "rattay, howard ; victor orchestra ; bourdon, rosario ; brahms, johannes ; barnby, joseph",
-    "url": "https://archive.org/download/loc-jukebox-35779-rock-a-bye-baby/jukebox-35779_rock-a-bye-baby.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "loc-jukebox-37258-le-violette::jukebox-37258_le-violette.mp3",
-    "title": "Le violette",
-    "artist": "cibelli's neapolitan orchestra ; silvestri, giuseppe ; cibelli, alfredo ; orchestrina napoletana [i.e., cibelli's neapolitan orchestra]",
-    "url": "https://archive.org/download/loc-jukebox-37258-le-violette/jukebox-37258_le-violette.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "loc-jukebox-40881-my-old-kentucky-home::jukebox-40881_my-old-kentucky-home.mp3",
-    "title": "My old Kentucky home",
-    "artist": "hanford, ford ; pasternack, josef ; foster, stephen collins",
-    "url": "https://archive.org/download/loc-jukebox-40881-my-old-kentucky-home/jukebox-40881_my-old-kentucky-home.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "loc-jukebox-64016-n-r-juldagsmorgon-glimmar::jukebox-64016_n-r-juldagsmorgon-glimmar.mp3",
-    "title": "När Juldagsmorgon glimmar",
-    "artist": "lycell, joseph ; shilkret, nathaniel",
-    "url": "https://archive.org/download/loc-jukebox-64016-n-r-juldagsmorgon-glimmar/jukebox-64016_n-r-juldagsmorgon-glimmar.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "loc-jukebox-65343-le-vera-barese::jukebox-65343_le-vera-barese.mp3",
-    "title": "Le vera Barese",
-    "artist": "shilkret, nathaniel ; smeraldo, ida ; amato, alfredo",
-    "url": "https://archive.org/download/loc-jukebox-65343-le-vera-barese/jukebox-65343_le-vera-barese.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "loc-jukebox-50885-they-call-it-dancing::jukebox-50885_they-call-it-dancing.mp3",
-    "title": "They call it dancing",
-    "artist": "paul whiteman orchestra ; grofé, ferde ; berlin, irving ; lange, henry ; whiteman, paul",
-    "url": "https://archive.org/download/loc-jukebox-50885-they-call-it-dancing/jukebox-50885_they-call-it-dancing.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "loc-jukebox-59857-a-mames-trehren::jukebox-59857_a-mames-trehren.mp3",
-    "title": "A mames trehren",
-    "artist": "robyn, william ; coster, naum ; shilkret, nathaniel ; meyerowitz, david",
-    "url": "https://archive.org/download/loc-jukebox-59857-a-mames-trehren/jukebox-59857_a-mames-trehren.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "loc-jukebox-62225-last-rose-of-summer::jukebox-62225_last-rose-of-summer.mp3",
-    "title": "Last rose of summer",
-    "artist": "moore, thomas",
-    "url": "https://archive.org/download/loc-jukebox-62225-last-rose-of-summer/jukebox-62225_last-rose-of-summer.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "loc-jukebox-65251-ein-kemechal::jukebox-65251_ein-kemechal.mp3",
-    "title": "Ein kemechal",
-    "artist": "shilkret, nathaniel ; hershman, mordechai",
-    "url": "https://archive.org/download/loc-jukebox-65251-ein-kemechal/jukebox-65251_ein-kemechal.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "loc-jukebox-42605-popular-songs-of-yesterday-medley-waltz-no-2::jukebox-42605_popular-songs-of-yesterday-medley-waltz-no-2.mp3",
-    "title": "Popular songs of yesterday : Medley waltz no. 2",
-    "artist": "shilkret, nathaniel ; bergè, william e. ; glogau, jack ; hackel-bergè orchestra ; hackel, alexander",
-    "url": "https://archive.org/download/loc-jukebox-42605-popular-songs-of-yesterday-medley-waltz-no-2/jukebox-42605_popular-songs-of-yesterday-medley-waltz-no-2.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "loc-jukebox-61681-no-use-crying-if-your-sweetheart-goes-away::jukebox-61681_no-use-crying-if-your-sweetheart-goes-away.mp3",
-    "title": "No use crying (If your sweetheart goes away)",
-    "artist": "violinsky, ed ; arden, victor ; all star trio ; brown, tom ; green, joe ; oliver, earl ; helleberg, gus ; green, george hamilton ; hirsch, hugo ; all star trio orchestra ; wadsworth, wheeler",
-    "url": "https://archive.org/download/loc-jukebox-61681-no-use-crying-if-your-sweetheart-goes-away/jukebox-61681_no-use-crying-if-your-sweetheart-goes-away.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "loc-jukebox-668651-wonderful-you::jukebox-668651_wonderful-you.mp3",
-    "title": "Wonderful you",
-    "artist": "edwards, gus ; ray miller orchestra ; miller, ray",
-    "url": "https://archive.org/download/loc-jukebox-668651-wonderful-you/jukebox-668651_wonderful-you.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "loc-jukebox-44197-gott-fin-yisroel::jukebox-44197_gott-fin-yisroel.mp3",
-    "title": "Gott fin Yisroel",
-    "artist": "paskal, simon ; shilkret, nathaniel",
-    "url": "https://archive.org/download/loc-jukebox-44197-gott-fin-yisroel/jukebox-44197_gott-fin-yisroel.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "loc-jukebox-50846-spring-morning-serenade::jukebox-50846_spring-morning-serenade.mp3",
-    "title": "Spring morning serenade",
-    "artist": "lacombe, paul ; pasternack, josef ; victor symphony orchestra",
-    "url": "https://archive.org/download/loc-jukebox-50846-spring-morning-serenade/jukebox-50846_spring-morning-serenade.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "loc-jukebox-59884-apple-blossoms::jukebox-59884_apple-blossoms.mp3",
-    "title": "Apple blossoms",
-    "artist": "lennartz, alfred ; rattay, howard ; baker, elsie ; rosenfeld, monroe h. ; roberts, kathleen a. ; bourdon, rosario",
-    "url": "https://archive.org/download/loc-jukebox-59884-apple-blossoms/jukebox-59884_apple-blossoms.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "loc-jukebox-188690-i-wish-you-were-here-again::jukebox-188690_i-wish-you-were-here-again.mp3",
-    "title": "I wish you were here again",
-    "artist": "lauder, harry ; pasternack, josef",
-    "url": "https://archive.org/download/loc-jukebox-188690-i-wish-you-were-here-again/jukebox-188690_i-wish-you-were-here-again.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "loc-jukebox-188733-one-two-three-four::jukebox-188733_one-two-three-four.mp3",
-    "title": "One-two-three-four",
-    "artist": "franchini, anthony j. ; ferera, frank ; hopkins, charles a. k. ; alan, jack",
-    "url": "https://archive.org/download/loc-jukebox-188733-one-two-three-four/jukebox-188733_one-two-three-four.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "loc-jukebox-188890-polosinka::jukebox-188890_polosinka.mp3",
-    "title": "Polosinka",
-    "artist": "popova, nathalie p.",
-    "url": "https://archive.org/download/loc-jukebox-188890-polosinka/jukebox-188890_polosinka.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "loc-jukebox-188903-tonga::jukebox-188903_tonga.mp3",
-    "title": "Tonga",
-    "artist": "bourdon, rosario ; victor band ; pérez, facundo",
-    "url": "https://archive.org/download/loc-jukebox-188903-tonga/jukebox-188903_tonga.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "loc-jukebox-188937-pale-moon::jukebox-188937_pale-moon.mp3",
-    "title": "Pale moon",
-    "artist": "bourdon, rosario ; marsh, lucy isabelle ; barone, clement ; pasternack, josef ; glick, jesse g. m. ; logan, frederic knight",
-    "url": "https://archive.org/download/loc-jukebox-188937-pale-moon/jukebox-188937_pale-moon.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "loc-jukebox-338321-mexicali-rose::jukebox-338321_mexicali-rose.mp3",
-    "title": "Mexicali Rose",
-    "artist": "tenney, jack b. ; international novelty orchestra",
-    "url": "https://archive.org/download/loc-jukebox-338321-mexicali-rose/jukebox-338321_mexicali-rose.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "loc-jukebox-42591-kring-granen-na-trawniku-aplink-kal-d-eglaite::jukebox-42591_kring-granen-na-trawniku-aplink-kal-d-eglaite.mp3",
-    "title": "Kring granen, Na trawniku, Aplink, kalēdų eglaite",
-    "artist": "berg, eric ; johnson, oscar ; mendoza, david",
-    "url": "https://archive.org/download/loc-jukebox-42591-kring-granen-na-trawniku-aplink-kal-d-eglaite/jukebox-42591_kring-granen-na-trawniku-aplink-kal-d-eglaite.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "loc-jukebox-42398-mir-sachsen-mir-sein-helle::jukebox-42398_mir-sachsen-mir-sein-helle.mp3",
-    "title": "Mir Sachsen mir sein helle",
-    "artist": "hungar, r. ; shilkret, nathaniel ; burger, seppel",
-    "url": "https://archive.org/download/loc-jukebox-42398-mir-sachsen-mir-sein-helle/jukebox-42398_mir-sachsen-mir-sein-helle.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "loc-jukebox-65121-the-mill-in-the-forest::jukebox-65121_the-mill-in-the-forest.mp3",
-    "title": "The mill in the forest",
-    "artist": "pryor, arthur ; eilenberg, richard ; arthur pryor's band",
-    "url": "https://archive.org/download/loc-jukebox-65121-the-mill-in-the-forest/jukebox-65121_the-mill-in-the-forest.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "loc-jukebox-64963-me-gelase-mia-haravge::jukebox-64963_me-gelase-mia-haravge.mp3",
-    "title": "Me gelase mia haravge",
-    "artist": "ralas, nick ; stasinopoulos, sotirios ; rassias, louis",
-    "url": "https://archive.org/download/loc-jukebox-64963-me-gelase-mia-haravge/jukebox-64963_me-gelase-mia-haravge.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "loc-jukebox-42317-a-dream-of-your-smile::jukebox-42317_a-dream-of-your-smile.mp3",
-    "title": "A dream of your smile",
-    "artist": "rattay, howard ; bourdon, rosario ; pasternack, josef ; conrad, con ; gorodetzer, meyer ; murphy, lambert",
-    "url": "https://archive.org/download/loc-jukebox-42317-a-dream-of-your-smile/jukebox-42317_a-dream-of-your-smile.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "loc-jukebox-330679-stolen-kisses::jukebox-330679_stolen-kisses.mp3",
-    "title": "Stolen kisses",
-    "artist": "snyder, ted ; e. coleman orchestra ; coleman, emil",
-    "url": "https://archive.org/download/loc-jukebox-330679-stolen-kisses/jukebox-330679_stolen-kisses.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "loc-jukebox-38910-broadway-rose::jukebox-38910_broadway-rose.mp3",
-    "title": "Broadway Rose",
-    "artist": "croxton, frank ; meyer, john h. ; burr, henry ; bourdon, rosario ; peerless quartet ; west, eugene ; campbell, albert ; fried, martin ; spencer, otis",
-    "url": "https://archive.org/download/loc-jukebox-38910-broadway-rose/jukebox-38910_broadway-rose.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "loc-jukebox-39776-el-cami-n::jukebox-39776_el-cami-n.mp3",
-    "title": "El camión",
-    "artist": "victor band ; nava, lucino ; garcía de arellano, ricardo",
-    "url": "https://archive.org/download/loc-jukebox-39776-el-cami-n/jukebox-39776_el-cami-n.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "loc-jukebox-41405-jealous-of-you::jukebox-41405_jealous-of-you.mp3",
-    "title": "Jealous of you",
-    "artist": "johnson, ed ; robyn, william ; bourdon, rosario ; ingham, nelson ; freedman, max c.",
-    "url": "https://archive.org/download/loc-jukebox-41405-jealous-of-you/jukebox-41405_jealous-of-you.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "loc-jukebox-61929-o-giuramento::jukebox-61929_o-giuramento.mp3",
-    "title": "'O giuramento",
-    "artist": "del vecchio, giulio ; shilkret, nathaniel ; cuonzo, f. ; di maio, vincenzo",
-    "url": "https://archive.org/download/loc-jukebox-61929-o-giuramento/jukebox-61929_o-giuramento.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "loc-jukebox-63430-o-cantatore-a-ffigliole::jukebox-63430_o-cantatore-a-ffigliole.mp3",
-    "title": "'O cantatore 'a ffigliole",
-    "artist": "de luca, r. ; de laurentiis, giuseppe ; shilkret, nathaniel ; amodio, frank",
-    "url": "https://archive.org/download/loc-jukebox-63430-o-cantatore-a-ffigliole/jukebox-63430_o-cantatore-a-ffigliole.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "loc-jukebox-63436-jeg-lagde-mig-saa-sildig::jukebox-63436_jeg-lagde-mig-saa-sildig.mp3",
-    "title": "Jeg lagde mig saa sildig",
-    "artist": "bye, erik ole ; shilkret, nathaniel",
-    "url": "https://archive.org/download/loc-jukebox-63436-jeg-lagde-mig-saa-sildig/jukebox-63436_jeg-lagde-mig-saa-sildig.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "loc-jukebox-35399-my-isle-of-golden-dreams::jukebox-35399_my-isle-of-golden-dreams.mp3",
-    "title": "My isle of golden dreams",
-    "artist": "blue and white marimba band ; blaufuss, walter ; marimba azul y blanco",
-    "url": "https://archive.org/download/loc-jukebox-35399-my-isle-of-golden-dreams/jukebox-35399_my-isle-of-golden-dreams.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "loc-jukebox-61028-pick-me-up-and-lay-me-down-in-dear-old-dixieland::jukebox-61028_pick-me-up-and-lay-me-down-in-dear-old-dixieland.mp3",
-    "title": "Pick me up and lay me down in dear old Dixieland",
-    "artist": "croxton, frank ; meyer, john h. ; burr, henry ; ruby, harry ; peerless quartet ; pasternack, josef ; kalmar, bert ; campbell, albert",
-    "url": "https://archive.org/download/loc-jukebox-61028-pick-me-up-and-lay-me-down-in-dear-old-dixieland/jukebox-61028_pick-me-up-and-lay-me-down-in-dear-old-dixieland.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "loc-jukebox-65447-tu-mergeliu-dainavimas::jukebox-65447_tu-mergeliu-dainavimas.mp3",
-    "title": "Tu mergeliu dainavimas",
-    "artist": "levy, ted ; butėnas, jonas ; kačanauskas, aleksandras",
-    "url": "https://archive.org/download/loc-jukebox-65447-tu-mergeliu-dainavimas/jukebox-65447_tu-mergeliu-dainavimas.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "loc-jukebox-64245-o-rondinella::jukebox-64245_o-rondinella.mp3",
-    "title": "O rondinella",
-    "artist": "pangeni, giovanni ; sterzini, giuseppe ; coscia, vergilie ; mandelli, sante ; shilkret, nathaniel ; righi, vezio ; merandi, luigi ; sestetto italiano victor",
-    "url": "https://archive.org/download/loc-jukebox-64245-o-rondinella/jukebox-64245_o-rondinella.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "loc-jukebox-62140-canzona-marinaresca::jukebox-62140_canzona-marinaresca.mp3",
-    "title": "Canzona marinaresca",
-    "artist": "bourdon, rosario ; scala, eduardo ; fucito, raffaele ; bossi, raffaele",
-    "url": "https://archive.org/download/loc-jukebox-62140-canzona-marinaresca/jukebox-62140_canzona-marinaresca.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "loc-jukebox-62406-magic-flute-overture::jukebox-62406_magic-flute-overture.mp3",
-    "title": "Magic flute : Overture",
-    "artist": "pasternack, josef ; victor symphony orchestra ; mozart, wolfgang amadeus",
-    "url": "https://archive.org/download/loc-jukebox-62406-magic-flute-overture/jukebox-62406_magic-flute-overture.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "loc-jukebox-189070-la-borrachita::jukebox-189070_la-borrachita.mp3",
-    "title": "La borrachita",
-    "artist": "fernández esperón, ignacio ; shilkret, nathaniel ; international novelty orchestra ; orquesta internacional",
-    "url": "https://archive.org/download/loc-jukebox-189070-la-borrachita/jukebox-189070_la-borrachita.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "loc-jukebox-189693-na-masteradi::jukebox-189693_na-masteradi.mp3",
-    "title": "Na masteradi",
-    "artist": "dnaile, ralph ; rainer, r. f. ; danilova, augusta ; shilkret, nathaniel",
-    "url": "https://archive.org/download/loc-jukebox-189693-na-masteradi/jukebox-189693_na-masteradi.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "loc-jukebox-61466-teasin::jukebox-61466_teasin.mp3",
-    "title": "Teasin'",
-    "artist": "all star trio ; walsh, j. brandon ; carleton, bob ; all star trio orchestra ; biese, paul",
-    "url": "https://archive.org/download/loc-jukebox-61466-teasin/jukebox-61466_teasin.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "loc-jukebox-41691-mimi::jukebox-41691_mimi.mp3",
-    "title": "Mimi",
-    "artist": "violinsky, ed ; arden, victor ; all star trio ; murray, billy ; macdonald, ballard ; brown, tom ; oliver, earl ; conrad, con ; helleberg, gus ; green, george hamilton ; all star trio orchestra ; wadsworth, wheeler",
-    "url": "https://archive.org/download/loc-jukebox-41691-mimi/jukebox-41691_mimi.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "loc-jukebox-41704-when-the-sun-goes-down::jukebox-41704_when-the-sun-goes-down.mp3",
-    "title": "When the sun goes down",
-    "artist": "shilking orchestra ; bloom, marty ; shilkret, nathaniel ; mealy, john k.",
-    "url": "https://archive.org/download/loc-jukebox-41704-when-the-sun-goes-down/jukebox-41704_when-the-sun-goes-down.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "loc-jukebox-39303-rosie-you-are-working-too-hard::jukebox-39303_rosie-you-are-working-too-hard.mp3",
-    "title": "Rosie (You are working too hard)",
-    "artist": "paul whiteman orchestra ; mcdonald, harold ; grofé, ferde ; gorman, ross ; lewis, sam ; merkur, jacob louis ; donaldson, walter ; whiteman, paul ; pingitore, mike ; busse, henry ; heiss, sammy ; byers, hale",
-    "url": "https://archive.org/download/loc-jukebox-39303-rosie-you-are-working-too-hard/jukebox-39303_rosie-you-are-working-too-hard.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "loc-jukebox-39418-mello-cello::jukebox-39418_mello-cello.mp3",
-    "title": "Mello 'cello",
-    "artist": "smith, joseph c. ; moret, neil ; joseph c. smith's orchestra",
-    "url": "https://archive.org/download/loc-jukebox-39418-mello-cello/jukebox-39418_mello-cello.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "loc-jukebox-39424-kiss-a-miss::jukebox-39424_kiss-a-miss.mp3",
-    "title": "Kiss a miss",
-    "artist": "baron, maurice ; smith, joseph c. ; joseph c. smith's orchestra",
-    "url": "https://archive.org/download/loc-jukebox-39424-kiss-a-miss/jukebox-39424_kiss-a-miss.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "loc-jukebox-39557-romance::jukebox-39557_romance.mp3",
-    "title": "Romance",
-    "artist": "david, lee ; smith, joseph c. ; joseph c. smith's orchestra",
-    "url": "https://archive.org/download/loc-jukebox-39557-romance/jukebox-39557_romance.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "loc-jukebox-43388-chip-of-the-old-block::jukebox-43388_chip-of-the-old-block.mp3",
-    "title": "Chip of the old block",
-    "artist": "simpson, harold ; squire, w. h. ; bourdon, rosario ; dadmun, royal",
-    "url": "https://archive.org/download/loc-jukebox-43388-chip-of-the-old-block/jukebox-43388_chip-of-the-old-block.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "loc-jukebox-43417-give-a-man-a-horse-he-can-ride::jukebox-43417_give-a-man-a-horse-he-can-ride.mp3",
-    "title": "Give a man a horse he can ride",
-    "artist": "dadmun, royal ; o'hara, geoffrey ; thomson, james ; bourdon, rosario",
-    "url": "https://archive.org/download/loc-jukebox-43417-give-a-man-a-horse-he-can-ride/jukebox-43417_give-a-man-a-horse-he-can-ride.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "loc-jukebox-43777-dear-old-southland::jukebox-43777_dear-old-southland.mp3",
-    "title": "Dear old Southland",
-    "artist": "paul whiteman orchestra ; layton, turner ; whiteman, paul",
-    "url": "https://archive.org/download/loc-jukebox-43777-dear-old-southland/jukebox-43777_dear-old-southland.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "loc-jukebox-35234-todo-pas::jukebox-35234_todo-pas.mp3",
-    "title": "Todo pasó",
-    "artist": "ponce, manuel m. ; gonzález, guillermo ; aguirre del pino, francisco ; trío gonzález ; briceño, alcides",
-    "url": "https://archive.org/download/loc-jukebox-35234-todo-pas/jukebox-35234_todo-pas.mp3",
+    "id": "loc-jukebox-34579-i-m-like-a-ship-without-a-sail::jukebox-34579_i-m-like-a-ship-without-a-sail.mp3",
+    "title": "I'm like a ship without a sail",
+    "artist": "kendis, james ; brockman, james ; bourdon, rosario ; shaw, elliott ; hart, charles",
+    "url": "https://archive.org/download/loc-jukebox-34579-i-m-like-a-ship-without-a-sail/jukebox-34579_i-m-like-a-ship-without-a-sail.mp3",
     "mime": "audio/mpeg",
     "license": "Public Domain",
     "source": "Internet Archive"
   },
   {
-    "id": "loc-jukebox-50401-the-pal-that-i-loved-stole-the-gal-that-i-loved::jukebox-50401_the-pal-that-i-loved-stole-the-gal-that-i-loved.mp3",
-    "title": "The pal that I loved stole the gal that I loved",
-    "artist": "pease, harry ; prince, charles adams ; nelson, ed g. ; james, lewis",
-    "url": "https://archive.org/download/loc-jukebox-50401-the-pal-that-i-loved-stole-the-gal-that-i-loved/jukebox-50401_the-pal-that-i-loved-stole-the-gal-that-i-loved.mp3",
+    "id": "flowgentlysweeta10298gut::10298-m/10298-m-001.mp3",
+    "title": "Flow Gently Sweet Afton and Bonnie, Sweet Bessie",
+    "artist": "Jonathan E. Spilman, James L. Gilbert, Robert Trucksess",
+    "url": "https://archive.org/download/flowgentlysweeta10298gut/10298-m%2F10298-m-001.mp3",
     "mime": "audio/mpeg",
     "license": "Public Domain",
     "source": "Internet Archive"
@@ -1337,6 +527,24 @@
     "artist": "Unknown",
     "url": "https://archive.org/download/calauem_002756/calauem_002756_b_access.m4a",
     "mime": "audio/mp4",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "wc.d.24::WC.D.24.mp3",
+    "title": "Que Me Importa si Tengo a mi Madre, sung by Manuela Garcia",
+    "artist": "Lummis, Charles Fletcher, 1859-1928, Uruchurtu, Rosendo, performer",
+    "url": "https://archive.org/download/wc.d.24/WC.D.24.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "loc-jukebox-185743-weeping-willow-lane::jukebox-185743_weeping-willow-lane.mp3",
+    "title": "Weeping Willow Lane",
+    "artist": "pasternack, josef ; burr, henry ; frost, jack ; frost, harold g ; croxton, frank ; klickmann, f. henri ; reitz, william h.",
+    "url": "https://archive.org/download/loc-jukebox-185743-weeping-willow-lane/jukebox-185743_weeping-willow-lane.mp3",
+    "mime": "audio/mpeg",
     "license": "Public Domain",
     "source": "Internet Archive"
   },
@@ -1373,6 +581,51 @@
     "artist": "Norton, Sue; Tibby, Ardy; DeGroot, Caryl",
     "url": "https://archive.org/download/cawhojml_000010/cawhojml_000010_a_access.m4a",
     "mime": "audio/mp4",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "loc-jukebox-33149-granny::jukebox-33149_granny.mp3",
+    "title": "Granny",
+    "artist": "pasternack, josef ; belledna, alex ; rattay, howard ; alexander, edna ; rowland, adele ; gilbert, l. wolfe ; witzmann, john",
+    "url": "https://archive.org/download/loc-jukebox-33149-granny/jukebox-33149_granny.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "loc-jukebox-32104-out-of-the-east::jukebox-32104_out-of-the-east.mp3",
+    "title": "Out of the east",
+    "artist": "rosey, joe ; joseph c. smith's orchestra ; smith, joseph c.",
+    "url": "https://archive.org/download/loc-jukebox-32104-out-of-the-east/jukebox-32104_out-of-the-east.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "loc-jukebox-33714-i-love-you-just-the-same-sweet-adeline::jukebox-33714_i-love-you-just-the-same-sweet-adeline.mp3",
+    "title": "I love you just the same, sweet Adeline",
+    "artist": "pasternack, josef ; rattay, howard ; bourdon, rosario ; armstrong, harry ; gaskill, clarence ; harrison, charles ; james, lewis",
+    "url": "https://archive.org/download/loc-jukebox-33714-i-love-you-just-the-same-sweet-adeline/jukebox-33714_i-love-you-just-the-same-sweet-adeline.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "loc-jukebox-33999-peggy::jukebox-33999_peggy.mp3",
+    "title": "Peggy",
+    "artist": "frey, hugo ; williams, harry ; joseph c. smith's orchestra ; waslyn, louis ; smith, joseph c. ; akst, harry ; macdonough, harry ; moret, neil",
+    "url": "https://archive.org/download/loc-jukebox-33999-peggy/jukebox-33999_peggy.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "loc-jukebox-31414-some-day-i-ll-make-you-glad::jukebox-31414_some-day-i-ll-make-you-glad.mp3",
+    "title": "Some day I'll make you glad",
+    "artist": "freedman, max c. ; sterling trio ; burr, henry ; rattay, howard ; pasternack, josef ; campbell, albert ; squires, harry d. ; meyer, john h.",
+    "url": "https://archive.org/download/loc-jukebox-31414-some-day-i-ll-make-you-glad/jukebox-31414_some-day-i-ll-make-you-glad.mp3",
+    "mime": "audio/mpeg",
     "license": "Public Domain",
     "source": "Internet Archive"
   },
@@ -1458,6 +711,15 @@
     "source": "Internet Archive"
   },
   {
+    "id": "loc-jukebox-33218-breeze::jukebox-33218_breeze.mp3",
+    "title": "Breeze",
+    "artist": "gruner, william ; macdonald, ballard ; bourdon, rosario ; chalmers, donald ; murray, billy ; american quartet ; hanley, james f. ; adams, william ; goodwin, joe ; young, john ; porter, steve",
+    "url": "https://archive.org/download/loc-jukebox-33218-breeze/jukebox-33218_breeze.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
     "id": "caclah_000124::caclah_000124_access.mp3",
     "title": "Padua Hills Theatre Tapes - Tape 33 - La Bamba",
     "artist": "Unknown artist",
@@ -1530,6 +792,843 @@
     "source": "Internet Archive"
   },
   {
+    "id": "loc-jukebox-32423-egyptland::jukebox-32423_egyptland.mp3",
+    "title": "Egyptland",
+    "artist": "brown, vern ; brown, fred ; brown, tom ; six brown brothers ; fink, harry ; brown, alec ; casey, james w. ; brown, william ; klickmann, f. henri",
+    "url": "https://archive.org/download/loc-jukebox-32423-egyptland/jukebox-32423_egyptland.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "loc-jukebox-33416-yearning::jukebox-33416_yearning.mp3",
+    "title": "Yearning",
+    "artist": "rattay, howard ; pasternack, josef ; moret, neil ; carter, sidney ; murphy, lambert",
+    "url": "https://archive.org/download/loc-jukebox-33416-yearning/jukebox-33416_yearning.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "loc-jukebox-37579-m-mil-co-to-v-tv-i-m::jukebox-37579_m-mil-co-to-v-tv-i-m.mp3",
+    "title": "Má milá, co to v tváři máš?",
+    "artist": "bourdon, rosario ; vašata, rudolf",
+    "url": "https://archive.org/download/loc-jukebox-37579-m-mil-co-to-v-tv-i-m/jukebox-37579_m-mil-co-to-v-tv-i-m.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "loc-jukebox-42525-leave-me-with-a-smile::jukebox-42525_leave-me-with-a-smile.mp3",
+    "title": "Leave me with a smile",
+    "artist": "violinsky, ed ; burtnett, earl ; arden, victor ; all star trio ; brown, tom ; oliver, earl ; koehler, charles ; helleberg, gus ; green, george hamilton ; all star trio orchestra ; wadsworth, wheeler",
+    "url": "https://archive.org/download/loc-jukebox-42525-leave-me-with-a-smile/jukebox-42525_leave-me-with-a-smile.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "loc-jukebox-42584-the-cigarette::jukebox-42584_the-cigarette.mp3",
+    "title": "The cigarette",
+    "artist": "smyrnea, maria",
+    "url": "https://archive.org/download/loc-jukebox-42584-the-cigarette/jukebox-42584_the-cigarette.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "loc-jukebox-42704-na-weselu::jukebox-42704_na-weselu.mp3",
+    "title": "Na weselu",
+    "artist": "scarpa, eddie ; levy, ted ; schrader, fred ; baker, bernard ; cerminara, n. ; shilkret, nathaniel ; witkowski, leon ; bianco, [?] ; orkiestra witkowskiego ; keneke, emil ; witzmann, john ; reitz, william h.",
+    "url": "https://archive.org/download/loc-jukebox-42704-na-weselu/jukebox-42704_na-weselu.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "loc-jukebox-42839-wiwat-niech-zyje::jukebox-42839_wiwat-niech-zyje.mp3",
+    "title": "Wiwat! Niech zyje",
+    "artist": "shilkret, nathaniel ; ochrymowicz, władysław",
+    "url": "https://archive.org/download/loc-jukebox-42839-wiwat-niech-zyje/jukebox-42839_wiwat-niech-zyje.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "loc-jukebox-664040-think-of-me-little-daddy::jukebox-664040_think-of-me-little-daddy.mp3",
+    "title": "Think of me little daddy",
+    "artist": "cox, jimmie ; whitman, alberta guy ; sweatman, wilbur c. s. ; wilbur sweatman's original jazz band",
+    "url": "https://archive.org/download/loc-jukebox-664040-think-of-me-little-daddy/jukebox-664040_think-of-me-little-daddy.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "loc-jukebox-666078-miss-mcleod-s-reel::jukebox-666078_miss-mcleod-s-reel.mp3",
+    "title": "Miss McLeod's reel",
+    "artist": "quinn, frank ; muller, john",
+    "url": "https://archive.org/download/loc-jukebox-666078-miss-mcleod-s-reel/jukebox-666078_miss-mcleod-s-reel.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "loc-jukebox-667631-you-can-have-every-light-on-broadway::jukebox-667631_you-can-have-every-light-on-broadway.mp3",
+    "title": "You can have every light on Broadway",
+    "artist": "jones, billy ; davis, benny ; simons, seymour",
+    "url": "https://archive.org/download/loc-jukebox-667631-you-can-have-every-light-on-broadway/jukebox-667631_you-can-have-every-light-on-broadway.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "loc-jukebox-667674-rosy-posy::jukebox-667674_rosy-posy.mp3",
+    "title": "Rosy posy",
+    "artist": "lewis, ted ; ted lewis and his band ; romberg, sigmund",
+    "url": "https://archive.org/download/loc-jukebox-667674-rosy-posy/jukebox-667674_rosy-posy.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "loc-jukebox-70522-the-birch-tree::jukebox-70522_the-birch-tree.mp3",
+    "title": "The birch tree",
+    "artist": "fomin, evstigneĭ ipatovich ; shilkret, lew ; kirilloff's russian balalaika orchestra",
+    "url": "https://archive.org/download/loc-jukebox-70522-the-birch-tree/jukebox-70522_the-birch-tree.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "loc-jukebox-71897-you-re-just-a-flower-from-an-old-bouquet::jukebox-71897_you-re-just-a-flower-from-an-old-bouquet.mp3",
+    "title": "You're just a flower from an old bouquet",
+    "artist": "clark, helen ; bourdon, rosario ; schmidt, alexander ; shaw, elliott ; denni, lucien ; denni, gwynne",
+    "url": "https://archive.org/download/loc-jukebox-71897-you-re-just-a-flower-from-an-old-bouquet/jukebox-71897_you-re-just-a-flower-from-an-old-bouquet.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "loc-jukebox-8045-amar-eso-es-todo::jukebox-8045_amar-eso-es-todo.mp3",
+    "title": "Amar, eso es todo",
+    "artist": "montaner, rita ; delfín, eusebio",
+    "url": "https://archive.org/download/loc-jukebox-8045-amar-eso-es-todo/jukebox-8045_amar-eso-es-todo.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "loc-jukebox-68215-a-flower::jukebox-68215_a-flower.mp3",
+    "title": "A flower",
+    "artist": "pavelka, josef ; koleta, karel ; czecho-slovak band",
+    "url": "https://archive.org/download/loc-jukebox-68215-a-flower/jukebox-68215_a-flower.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "loc-jukebox-68257-fertzig-yuhr-zurich::jukebox-68257_fertzig-yuhr-zurich.mp3",
+    "title": "Fertzig yuhr zurich",
+    "artist": "feldman, joseph ; shilkret, nathaniel ; rumshinsky, joseph ; jackson, h.",
+    "url": "https://archive.org/download/loc-jukebox-68257-fertzig-yuhr-zurich/jukebox-68257_fertzig-yuhr-zurich.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "loc-jukebox-74042-ato-hivdalto::jukebox-74042_ato-hivdalto.mp3",
+    "title": "Ato hivdalto",
+    "artist": "shilkret, nathaniel ; roitman, david",
+    "url": "https://archive.org/download/loc-jukebox-74042-ato-hivdalto/jukebox-74042_ato-hivdalto.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "loc-jukebox-74077-baroish-hashonu::jukebox-74077_baroish-hashonu.mp3",
+    "title": "Baroish hashonu",
+    "artist": "glickstein, izso garay ; shield, leroy ; zilberts, zavel",
+    "url": "https://archive.org/download/loc-jukebox-74077-baroish-hashonu/jukebox-74077_baroish-hashonu.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "loc-jukebox-70593-the-young-teetotler::jukebox-70593_the-young-teetotler.mp3",
+    "title": "The young teetotler",
+    "artist": "geoghegan, ed ; quinn, frank",
+    "url": "https://archive.org/download/loc-jukebox-70593-the-young-teetotler/jukebox-70593_the-young-teetotler.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "loc-jukebox-70635-randi-ko::jukebox-70635_randi-ko.mp3",
+    "title": "Randičko",
+    "artist": "shield, leroy ; štolc, emil ; bratři vesel ; weber's band",
+    "url": "https://archive.org/download/loc-jukebox-70635-randi-ko/jukebox-70635_randi-ko.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "loc-jukebox-7064-charamuscas::jukebox-7064_charamuscas.mp3",
+    "title": "Charamuscas",
+    "artist": "alonso y trelles, josé",
+    "url": "https://archive.org/download/loc-jukebox-7064-charamuscas/jukebox-7064_charamuscas.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "loc-jukebox-71073-via-vai::jukebox-71073_via-vai.mp3",
+    "title": "Via Vai",
+    "artist": "prince, charles adams ; cataldo, enrico ; cibelli, eugenio ; bonagura, enzo",
+    "url": "https://archive.org/download/loc-jukebox-71073-via-vai/jukebox-71073_via-vai.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "loc-jukebox-70938-l-nyok-a-leg-nyt-j-l-megbecs-lj-tek::jukebox-70938_l-nyok-a-leg-nyt-j-l-megbecs-lj-tek.mp3",
+    "title": "Lányok a legényt jól megbecsüljétek",
+    "artist": "sió aladár és zenekara ; sió, aladár",
+    "url": "https://archive.org/download/loc-jukebox-70938-l-nyok-a-leg-nyt-j-l-megbecs-lj-tek/jukebox-70938_l-nyok-a-leg-nyt-j-l-megbecs-lj-tek.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "loc-jukebox-43364-knight-of-the-hobbyhorse::jukebox-43364_knight-of-the-hobbyhorse.mp3",
+    "title": "Knight of the hobbyhorse",
+    "artist": "bourdon, rosario ; godard, benjamin ; victor orchestra ; kullak, theodor ; schytte, ludvig ; schumann, robert",
+    "url": "https://archive.org/download/loc-jukebox-43364-knight-of-the-hobbyhorse/jukebox-43364_knight-of-the-hobbyhorse.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "loc-jukebox-63980-to-morrow::jukebox-63980_to-morrow.mp3",
+    "title": "To-morrow",
+    "artist": "frey, hugo ; banta, frank e. ; robinson, j. russel ; great white way orchestra",
+    "url": "https://archive.org/download/loc-jukebox-63980-to-morrow/jukebox-63980_to-morrow.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "loc-jukebox-35663-all-that-i-want-is-you::jukebox-35663_all-that-i-want-is-you.mp3",
+    "title": "All that I want is you",
+    "artist": "rattay, howard ; bourdon, rosario ; monaco, james v. ; hart, charles ; goodwin, joe",
+    "url": "https://archive.org/download/loc-jukebox-35663-all-that-i-want-is-you/jukebox-35663_all-that-i-want-is-you.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "loc-jukebox-35966-wild-flower::jukebox-35966_wild-flower.mp3",
+    "title": "Wild flower",
+    "artist": "ferera, frank ; king, robert ; franchini, anthony j. ; earl, mary",
+    "url": "https://archive.org/download/loc-jukebox-35966-wild-flower/jukebox-35966_wild-flower.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "loc-jukebox-37305-ziegfeld-follies-of-1920::jukebox-37305_ziegfeld-follies-of-1920.mp3",
+    "title": "Ziegfeld follies of 1920",
+    "artist": "smith, joseph c. ; joseph c. smith's orchestra ; wiedoeft, rudy ; berlin, irving",
+    "url": "https://archive.org/download/loc-jukebox-37305-ziegfeld-follies-of-1920/jukebox-37305_ziegfeld-follies-of-1920.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "loc-jukebox-38655-old-pal-why-don-t-you-answer-me::jukebox-38655_old-pal-why-don-t-you-answer-me.mp3",
+    "title": "Old pal, why don't you answer me?",
+    "artist": "jerome, m. k. ; bourdon, rosario ; burr, henry ; lapitino, francis j. ; lewis, sam m. ; young, joe ; gorodetzer, meyer",
+    "url": "https://archive.org/download/loc-jukebox-38655-old-pal-why-don-t-you-answer-me/jukebox-38655_old-pal-why-don-t-you-answer-me.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "loc-jukebox-340955-umar-rabbei-elusor::jukebox-340955_umar-rabbei-elusor.mp3",
+    "title": "Umar Rabbei Elusor",
+    "artist": "shield, leroy ; steinberg, david moshe",
+    "url": "https://archive.org/download/loc-jukebox-340955-umar-rabbei-elusor/jukebox-340955_umar-rabbei-elusor.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "loc-jukebox-62978-lapti-wo-derevni-wo-olkhovki::jukebox-62978_lapti-wo-derevni-wo-olkhovki.mp3",
+    "title": "Lapti-wo derevni wo Olkhovki",
+    "artist": "kozloff, p. n. ; russian grand opera choir",
+    "url": "https://archive.org/download/loc-jukebox-62978-lapti-wo-derevni-wo-olkhovki/jukebox-62978_lapti-wo-derevni-wo-olkhovki.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "loc-jukebox-65228-two-canaries::jukebox-65228_two-canaries_s01.mp3",
+    "title": "Two canaries",
+    "artist": "shilkret, nathaniel ; tryner, frank ; victor band",
+    "url": "https://archive.org/download/loc-jukebox-65228-two-canaries/jukebox-65228_two-canaries_s01.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "loc-jukebox-42774-i-want-my-mammy::jukebox-42774_i-want-my-mammy.mp3",
+    "title": "I want my mammy",
+    "artist": "meyer, john h. ; croxton, frank ; burr, henry ; bourdon, rosario ; peerless quartet ; breau, louis ; wehner, george b. ; campbell, albert",
+    "url": "https://archive.org/download/loc-jukebox-42774-i-want-my-mammy/jukebox-42774_i-want-my-mammy.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "loc-jukebox-63091-chicken::jukebox-63091_chicken.mp3",
+    "title": "Chicken",
+    "artist": "hoffman, anna ; shilkret, nathaniel ; kortchmaroff, m. ; doctor, rubin",
+    "url": "https://archive.org/download/loc-jukebox-63091-chicken/jukebox-63091_chicken.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "loc-jukebox-63160-mutter-o-sing-mich-zur-ruh::jukebox-63160_mutter-o-sing-mich-zur-ruh.mp3",
+    "title": "Mutter, o sing' mich zur Ruh'!",
+    "artist": "hemans, felicia dorothea browne",
+    "url": "https://archive.org/download/loc-jukebox-63160-mutter-o-sing-mich-zur-ruh/jukebox-63160_mutter-o-sing-mich-zur-ruh.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "loc-jukebox-185802-suo-gan::jukebox-185802_suo-gan.mp3",
+    "title": "Suo-gan",
+    "artist": "graves, alfred perceval",
+    "url": "https://archive.org/download/loc-jukebox-185802-suo-gan/jukebox-185802_suo-gan.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "loc-jukebox-63391-tocte-se-pard-lov::jukebox-63391_tocte-se-pard-lov.mp3",
+    "title": "Tocte se pardálové",
+    "artist": "echtner, karel ; albrecht, václav ; český šrammel orkestr ; shilkret, nathaniel ; kovářik, ferry",
+    "url": "https://archive.org/download/loc-jukebox-63391-tocte-se-pard-lov/jukebox-63391_tocte-se-pard-lov.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "loc-jukebox-63417-gyere-velem-az-erd-be-come-with-me-to-the-forest::jukebox-63417_gyere-velem-az-erd-be-come-with-me-to-the-forest.mp3",
+    "title": "Gyere velem az erdőbe (Come with me to the forest )",
+    "artist": "rózsa, s. lajos ; kokos sandors hungarian gipsy orchestra ; balázs, árpád",
+    "url": "https://archive.org/download/loc-jukebox-63417-gyere-velem-az-erd-be-come-with-me-to-the-forest/jukebox-63417_gyere-velem-az-erd-be-come-with-me-to-the-forest.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "loc-jukebox-61042-time-after-time::jukebox-61042_time-after-time.mp3",
+    "title": "Time after time",
+    "artist": "lennartz, alfred ; brennan, j. keirn ; burr, henry ; bourdon, rosario ; ball, ernest r.",
+    "url": "https://archive.org/download/loc-jukebox-61042-time-after-time/jukebox-61042_time-after-time.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "loc-jukebox-43022-rock-a-bye-baby::jukebox-43022_rock-a-bye-baby.mp3",
+    "title": "Rock-a-bye baby",
+    "artist": "rattay, howard ; lapitino, francis j. ; pasternack, josef ; canning, effie i. ; alcock, merle",
+    "url": "https://archive.org/download/loc-jukebox-43022-rock-a-bye-baby/jukebox-43022_rock-a-bye-baby.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "loc-jukebox-657309-manhattan-beach-march::jukebox-657309_manhattan-beach-march.mp3",
+    "title": "Manhattan Beach march",
+    "artist": "prince's band",
+    "url": "https://archive.org/download/loc-jukebox-657309-manhattan-beach-march/jukebox-657309_manhattan-beach-march.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "loc-jukebox-38327-my-wonder-girl::jukebox-38327_my-wonder-girl.mp3",
+    "title": "My wonder girl",
+    "artist": "zany, king ; byers, hale ; ambassador orchestra ; heiss, sammy ; busse, henry ; johnson, theron e. \"buster\" ; mcdonald, harold ; whiteman, paul ; bloom, marty ; pingitore, mike ; grofé, ferde ; black, ben ; brown, nacio herb ; mueller, gus ; hickman, art",
+    "url": "https://archive.org/download/loc-jukebox-38327-my-wonder-girl/jukebox-38327_my-wonder-girl.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "loc-jukebox-38372-nun-ce-o-dicite-a-mmamma::jukebox-38372_nun-ce-o-dicite-a-mmamma.mp3",
+    "title": "Nun ce'o dicite a'mmamma",
+    "artist": "pennino, francesco ; shilkret, nathaniel ; de charny, nina",
+    "url": "https://archive.org/download/loc-jukebox-38372-nun-ce-o-dicite-a-mmamma/jukebox-38372_nun-ce-o-dicite-a-mmamma.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "loc-jukebox-66198-long-ago-sweetheart-mine::jukebox-66198_long-ago-sweetheart-mine.mp3",
+    "title": "Long ago, sweetheart mine",
+    "artist": "macdowell, edward ; bourdon, rosario ; kline, olive",
+    "url": "https://archive.org/download/loc-jukebox-66198-long-ago-sweetheart-mine/jukebox-66198_long-ago-sweetheart-mine.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "loc-jukebox-50703-that-old-gang-of-mine::jukebox-50703_that-old-gang-of-mine.mp3",
+    "title": "That old gang of mine",
+    "artist": "dixon, mort ; rose, billy ; murray, billy ; henderson, ray ; levy, ted ; smalle, ed",
+    "url": "https://archive.org/download/loc-jukebox-50703-that-old-gang-of-mine/jukebox-50703_that-old-gang-of-mine.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "loc-jukebox-41933-when-francis-dances-with-me::jukebox-41933_when-francis-dances-with-me.mp3",
+    "title": "When Francis dances with me",
+    "artist": "jones, ada ; bourdon, rosario ; murray, billy ; violinsky ; ryan, ben",
+    "url": "https://archive.org/download/loc-jukebox-41933-when-francis-dances-with-me/jukebox-41933_when-francis-dances-with-me.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "loc-jukebox-42039-my-sunny-tennessee::jukebox-42039_my-sunny-tennessee.mp3",
+    "title": "My sunny Tennessee",
+    "artist": "croxton, frank ; bourdon, rosario ; burr, henry ; meyer, john h. ; kalmar, bert ; ruby, harry ; peerless quartet ; campbell, albert ; ruby, herman",
+    "url": "https://archive.org/download/loc-jukebox-42039-my-sunny-tennessee/jukebox-42039_my-sunny-tennessee.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "loc-jukebox-64113-o-ritorno-a-nola::jukebox-64113_o-ritorno-a-nola.mp3",
+    "title": "O ritorno a Nola",
+    "artist": "cibelli, alfredo ; shilkret, nathaniel ; dicolo, m. ; passeggio, a. ; rosa, ria",
+    "url": "https://archive.org/download/loc-jukebox-64113-o-ritorno-a-nola/jukebox-64113_o-ritorno-a-nola.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "loc-jukebox-65336-o-schiaffo::jukebox-65336_o-schiaffo.mp3",
+    "title": "'O schiaffo",
+    "artist": "vento, pacifico ; shilkret, nathaniel ; di maio, vincenzo ; albano, ferdinando",
+    "url": "https://archive.org/download/loc-jukebox-65336-o-schiaffo/jukebox-65336_o-schiaffo.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "loc-jukebox-66864-f-gelns-visa::jukebox-66864_f-gelns-visa.mp3",
+    "title": "Fågelns visa",
+    "artist": "söderberg, w. th ; zendt, marie sidenius ; shilkret, nathaniel",
+    "url": "https://archive.org/download/loc-jukebox-66864-f-gelns-visa/jukebox-66864_f-gelns-visa.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "loc-jukebox-65043-rosalie::jukebox-65043_rosalie.mp3",
+    "title": "Rosalie",
+    "artist": "murray, billy ; frey, hugo ; great white way orchestra ; king, edward t. ; greene, schuyler",
+    "url": "https://archive.org/download/loc-jukebox-65043-rosalie/jukebox-65043_rosalie.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "loc-jukebox-64725-wie-azoy-laibt-a-keinik::jukebox-64725_wie-azoy-laibt-a-keinik.mp3",
+    "title": "Wie azoy laibt a keinik?",
+    "artist": "feldman, joseph ; rosenthal, aneta ; shilkret, nathaniel ; gilrod, louis ; grossman, jack ; rabinewitz, isidore",
+    "url": "https://archive.org/download/loc-jukebox-64725-wie-azoy-laibt-a-keinik/jukebox-64725_wie-azoy-laibt-a-keinik.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "loc-jukebox-64938-valse-bleue-valsa-azu::jukebox-64938_valse-bleue-valsa-azu.mp3",
+    "title": "Valse bleue, Valsa azu",
+    "artist": "shilkret, nathaniel ; margis, alfred ; victor schrammel-orchester",
+    "url": "https://archive.org/download/loc-jukebox-64938-valse-bleue-valsa-azu/jukebox-64938_valse-bleue-valsa-azu.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "loc-jukebox-64358-november-rose::jukebox-64358_november-rose.mp3",
+    "title": "November rose",
+    "artist": "adams, william ; bourdon, rosario ; steel, john ; snyder, jack",
+    "url": "https://archive.org/download/loc-jukebox-64358-november-rose/jukebox-64358_november-rose.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "loc-jukebox-42429-d-meitschi-von-emmetal::jukebox-42429_d-meitschi-von-emmetal.mp3",
+    "title": "D'meitschi von Emmetal",
+    "artist": "shilkret, nathaniel ; zimmermann, fritz ; grandville, marcelle",
+    "url": "https://archive.org/download/loc-jukebox-42429-d-meitschi-von-emmetal/jukebox-42429_d-meitschi-von-emmetal.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "loc-jukebox-62122-a-santanotte::jukebox-62122_a-santanotte.mp3",
+    "title": "'A 'Santanotte'",
+    "artist": "cibelli, alfredo ; scala, eduardo ; shilkret, nathaniel ; buongiovanni, francesco",
+    "url": "https://archive.org/download/loc-jukebox-62122-a-santanotte/jukebox-62122_a-santanotte.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "loc-jukebox-62404-magic-flute-overture::jukebox-62404_magic-flute-overture.mp3",
+    "title": "Magic flute : Overture",
+    "artist": "pasternack, josef ; victor symphony orchestra ; mozart, wolfgang amadeus",
+    "url": "https://archive.org/download/loc-jukebox-62404-magic-flute-overture/jukebox-62404_magic-flute-overture.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "loc-jukebox-43793-good-bye-shanghai::jukebox-43793_good-bye-shanghai.mp3",
+    "title": "Good-bye Shanghai",
+    "artist": "clyde doerr orchestra ; meyer, joseph ; doerr, clyde",
+    "url": "https://archive.org/download/loc-jukebox-43793-good-bye-shanghai/jukebox-43793_good-bye-shanghai.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "loc-jukebox-70719-so-may-you::jukebox-70719_so-may-you.mp3",
+    "title": "So may you",
+    "artist": "andrews, mark ; ackley, b. d. ; rowe, james ; barnes, j. foster",
+    "url": "https://archive.org/download/loc-jukebox-70719-so-may-you/jukebox-70719_so-may-you.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "loc-jukebox-69270-daddy-s-wonderful-pal::jukebox-69270_daddy-s-wonderful-pal.mp3",
+    "title": "Daddy's wonderful pal",
+    "artist": "lennartz, alfred ; schmidt, alexander ; freedman, max c. ; link, harry ; nelson, bob ; bourdon, rosario ; burr, henry",
+    "url": "https://archive.org/download/loc-jukebox-69270-daddy-s-wonderful-pal/jukebox-69270_daddy-s-wonderful-pal.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "loc-jukebox-69461-tu-sa-tu-sa::jukebox-69461_tu-sa-tu-sa.mp3",
+    "title": "Tu-sa tu-sa",
+    "artist": "shield, leroy ; kotylansky, chaim ; shishkin, n. i.",
+    "url": "https://archive.org/download/loc-jukebox-69461-tu-sa-tu-sa/jukebox-69461_tu-sa-tu-sa.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "loc-jukebox-67727-irish-love-song-op-22::jukebox-67727_irish-love-song-op-22.mp3",
+    "title": "Irish love song, op. 22",
+    "artist": "bourdon, rosario ; lang, margaret ruthven ; crooks, richard ; lapitino, francis j.",
+    "url": "https://archive.org/download/loc-jukebox-67727-irish-love-song-op-22/jukebox-67727_irish-love-song-op-22.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "loc-jukebox-69101-m-ly-a-rima::jukebox-69101_m-ly-a-rima.mp3",
+    "title": "Mély a rima",
+    "artist": "sió aladár és zenekara ; király, ern",
+    "url": "https://archive.org/download/loc-jukebox-69101-m-ly-a-rima/jukebox-69101_m-ly-a-rima.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "loc-jukebox-188893-boh-je-l-ska::jukebox-188893_boh-je-l-ska.mp3",
+    "title": "Boh je láska",
+    "artist": "shilkret, nathaniel ; hok, anton",
+    "url": "https://archive.org/download/loc-jukebox-188893-boh-je-l-ska/jukebox-188893_boh-je-l-ska.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "loc-jukebox-188951-if-you-only-knew::jukebox-188951_if-you-only-knew.mp3",
+    "title": "If you only knew",
+    "artist": "bourdon, rosario ; von tilzer, albert ; fleeson, neville ; steel, john",
+    "url": "https://archive.org/download/loc-jukebox-188951-if-you-only-knew/jukebox-188951_if-you-only-knew.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "loc-jukebox-189058-play-that-song-of-india-again::jukebox-189058_play-that-song-of-india-again.mp3",
+    "title": "Play that 'Song of India' again",
+    "artist": "harrison, charles ; bibo, irving m. ; bourdon, rosario ; rimsky-korsakov, nikolay ; whiteman, paul ; wood, leo",
+    "url": "https://archive.org/download/loc-jukebox-189058-play-that-song-of-india-again/jukebox-189058_play-that-song-of-india-again.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "loc-jukebox-712901-el-capitan-march::jukebox-712901_el-capitan-march.mp3",
+    "title": "El capitan march",
+    "artist": "sousa, john philip ; prince's band",
+    "url": "https://archive.org/download/loc-jukebox-712901-el-capitan-march/jukebox-712901_el-capitan-march.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "loc-jukebox-767060-old-folks-at-home-swanee-ribber::jukebox-767060_old-folks-at-home-swanee-ribber.mp3",
+    "title": "Old folks at home (Swanee Ribber)",
+    "artist": "gilmore, p. s. ; lambert, louis ; foster, stephen collins ; dykema, peter w. ; columbia band",
+    "url": "https://archive.org/download/loc-jukebox-767060-old-folks-at-home-swanee-ribber/jukebox-767060_old-folks-at-home-swanee-ribber.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "loc-jukebox-73008-sud-ba::jukebox-73008_sud-ba.mp3",
+    "title": "Sud'ba",
+    "artist": "medoff, david",
+    "url": "https://archive.org/download/loc-jukebox-73008-sud-ba/jukebox-73008_sud-ba.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "loc-jukebox-68179-stars-of-the-summer-night::jukebox-68179_stars-of-the-summer-night.mp3",
+    "title": "Stars of the summer night",
+    "artist": "longfellow, henry wadsworth",
+    "url": "https://archive.org/download/loc-jukebox-68179-stars-of-the-summer-night/jukebox-68179_stars-of-the-summer-night.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "loc-jukebox-70295-persian-march::jukebox-70295_persian-march.mp3",
+    "title": "Persian march",
+    "artist": "strauss, johann ; goldman, edwin franko ; goldman band",
+    "url": "https://archive.org/download/loc-jukebox-70295-persian-march/jukebox-70295_persian-march.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "loc-jukebox-70304-oh-didn-t-it-rain::jukebox-70304_oh-didn-t-it-rain.mp3",
+    "title": "Oh! Didn't it rain",
+    "artist": "leonard, eddie ; crumit, frank ; shilkret, nathaniel",
+    "url": "https://archive.org/download/loc-jukebox-70304-oh-didn-t-it-rain/jukebox-70304_oh-didn-t-it-rain.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "loc-jukebox-9450-la-golondrina::jukebox-9450_la-golondrina.mp3",
+    "title": "La golondrina",
+    "artist": "kloss, alberto ; serradell, narciso ; balmaceda, jorge",
+    "url": "https://archive.org/download/loc-jukebox-9450-la-golondrina/jukebox-9450_la-golondrina.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "loc-jukebox-68373-ecossaises::jukebox-68373_ecossaises.mp3",
+    "title": "Ecossaises",
+    "artist": "beethoven, ludwig van ; cherkassky, shura",
+    "url": "https://archive.org/download/loc-jukebox-68373-ecossaises/jukebox-68373_ecossaises.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "loc-jukebox-68389-my-creole-sue::jukebox-68389_my-creole-sue.mp3",
+    "title": "My Creole Sue",
+    "artist": "shannon quartet ; davis, gussie l. ; levy, ted",
+    "url": "https://archive.org/download/loc-jukebox-68389-my-creole-sue/jukebox-68389_my-creole-sue.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "loc-jukebox-68460-morning-leaves::jukebox-68460_morning-leaves.mp3",
+    "title": "Morning leaves",
+    "artist": "strauss, johann ; shilkret, nathaniel ; shield, leroy ; international concert orchestra",
+    "url": "https://archive.org/download/loc-jukebox-68460-morning-leaves/jukebox-68460_morning-leaves.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "loc-jukebox-68543-abandonado::jukebox-68543_abandonado.mp3",
+    "title": "Abandonado",
+    "artist": "international novelty orchestra ; posadas, guillermo",
+    "url": "https://archive.org/download/loc-jukebox-68543-abandonado/jukebox-68543_abandonado.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "loc-jukebox-669867-new-hampshire::jukebox-669867_new-hampshire.mp3",
+    "title": "New Hampshire",
+    "artist": "columbians dance orchestra de luxe ; schwartz, jean ; green, joe ; columbians",
+    "url": "https://archive.org/download/loc-jukebox-669867-new-hampshire/jukebox-669867_new-hampshire.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "loc-jukebox-70970-knock-at-the-door::jukebox-70970_knock-at-the-door.mp3",
+    "title": "Knock at the door",
+    "artist": "crumit, frank ; johnson, chic ; olsen, ole ; kassel, art ; banta, frank e. ; clark, frank h.",
+    "url": "https://archive.org/download/loc-jukebox-70970-knock-at-the-door/jukebox-70970_knock-at-the-door.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "loc-jukebox-671101-midnight-blues::jukebox-671101_midnight-blues.mp3",
+    "title": "Midnight blues",
+    "artist": "smith, bessie ; henderson, fletcher ; thompson, babe ; williams, spencer",
+    "url": "https://archive.org/download/loc-jukebox-671101-midnight-blues/jukebox-671101_midnight-blues.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "loc-jukebox-37020-comrades-of-the-legion::jukebox-37020_comrades-of-the-legion.mp3",
+    "title": "Comrades of the legion",
+    "artist": "pasternack, josef ; sousa's band [i.e., victor band] ; victor band ; sousa, john philip",
+    "url": "https://archive.org/download/loc-jukebox-37020-comrades-of-the-legion/jukebox-37020_comrades-of-the-legion.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "loc-jukebox-39862-pozdrav-jara::jukebox-39862_pozdrav-jara.mp3",
+    "title": "Pozdrav jara",
+    "artist": "psotova čechoslovenská kapela [i.e., victor orchestra] ; victor orchestra ; psota, joseph ; štolc, emil ; martorano, sante ; hirschberg, adolph",
+    "url": "https://archive.org/download/loc-jukebox-39862-pozdrav-jara/jukebox-39862_pozdrav-jara.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "loc-jukebox-40621-june-moon::jukebox-40621_june-moon.mp3",
+    "title": "June moon",
+    "artist": "carey, guy ; baum, joe ; thatcher, thomas ; miller, joe ; bargy, roy ; adkins, rick ; magine, frank ; foeste, william ; benson orchestra of chicago ; straight, charley ; amaturo, matthew ; rupp, carl",
+    "url": "https://archive.org/download/loc-jukebox-40621-june-moon/jukebox-40621_june-moon.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "loc-jukebox-40651-b-tuta::jukebox-40651_b-tuta.mp3",
+    "title": "Bâtuta",
+    "artist": "draganescu, i., dr ; petru laicu şi orchestra lui ; laicu, petru",
+    "url": "https://archive.org/download/loc-jukebox-40651-b-tuta/jukebox-40651_b-tuta.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "loc-jukebox-41411-auld-lang-syne::jukebox-41411_auld-lang-syne.mp3",
+    "title": "Auld lang syne",
+    "artist": "westminster chimes [i.e., william h. reitz] ; reitz, william h.",
+    "url": "https://archive.org/download/loc-jukebox-41411-auld-lang-syne/jukebox-41411_auld-lang-syne.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "loc-jukebox-41774-die-kleine-kappelle-im-tal::jukebox-41774_die-kleine-kappelle-im-tal.mp3",
+    "title": "Die kleine Kappelle im Tal",
+    "artist": "klaiber, a. w. ; methodist ministers quartet ; mueller, a. h. ; blume, r. a. ; pitts, w. s. ; mueller, f. w.",
+    "url": "https://archive.org/download/loc-jukebox-41774-die-kleine-kappelle-im-tal/jukebox-41774_die-kleine-kappelle-im-tal.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "loc-jukebox-36633-hoj-zem-draha::jukebox-36633_hoj-zem-draha.mp3",
+    "title": "Hoj, zem draha",
+    "artist": "rázus, martin",
+    "url": "https://archive.org/download/loc-jukebox-36633-hoj-zem-draha/jukebox-36633_hoj-zem-draha.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "loc-jukebox-35367-semmi-bab-m-semmi::jukebox-35367_semmi-bab-m-semmi.mp3",
+    "title": "Semmi babám semmi",
+    "artist": "sió, aladár ; sió aladár és zenekara",
+    "url": "https://archive.org/download/loc-jukebox-35367-semmi-bab-m-semmi/jukebox-35367_semmi-bab-m-semmi.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "loc-jukebox-38533-pickaninny-rose::jukebox-38533_pickaninny-rose.mp3",
+    "title": "Pickaninny Rose",
+    "artist": "sheppard, madelyn ; rattay, howard ; bourdon, rosario ; pasternack, josef ; kline, olive ; burns, annelu",
+    "url": "https://archive.org/download/loc-jukebox-38533-pickaninny-rose/jukebox-38533_pickaninny-rose.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "loc-jukebox-36762-campanitas::jukebox-36762_campanitas.mp3",
+    "title": "Campanitas",
+    "artist": "campo, telesforo del",
+    "url": "https://archive.org/download/loc-jukebox-36762-campanitas/jukebox-36762_campanitas.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "loc-jukebox-36554-ausencia::jukebox-36554_ausencia.mp3",
+    "title": "Ausencia",
+    "artist": "villaespesa, francisco",
+    "url": "https://archive.org/download/loc-jukebox-36554-ausencia/jukebox-36554_ausencia.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "loc-jukebox-36556-mimi::jukebox-36556_mimi.mp3",
+    "title": "Mimi",
+    "artist": "bohorquez, daniel ; añez, jorge ; rosales, víctor justiniano",
+    "url": "https://archive.org/download/loc-jukebox-36556-mimi/jukebox-36556_mimi.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "loc-jukebox-36152-el-pr-ximo-presidente::jukebox-36152_el-pr-ximo-presidente.mp3",
+    "title": "El próximo presidente",
+    "artist": "gonzález, guillermo ; briceño, alcides ; aguirre del pino, francisco ; trío gonzález",
+    "url": "https://archive.org/download/loc-jukebox-36152-el-pr-ximo-presidente/jukebox-36152_el-pr-ximo-presidente.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
     "id": "RadioFreeLesbian::Access_Copy_Radio_Free_Lesbian.mp3",
     "title": "Radio Free Lesbian",
     "artist": "Wilson, Chana",
@@ -1539,19 +1638,82 @@
     "source": "Internet Archive"
   },
   {
-    "id": "casfjazz_000486::casfjazz_000486_f00002_access.m4a",
-    "title": "Luciana Souza, 2011",
-    "artist": "SFJAZZ (Organization)",
-    "url": "https://archive.org/download/casfjazz_000486/casfjazz_000486_f00002_access.m4a",
-    "mime": "audio/mp4",
+    "id": "loc-jukebox-36696-e-marenarielle::jukebox-36696_e-marenarielle.mp3",
+    "title": "E marenarielle",
+    "artist": "quaranta, gennaro ; montagna, alberto ; shilkret, nathaniel ; del gaizo, diodato",
+    "url": "https://archive.org/download/loc-jukebox-36696-e-marenarielle/jukebox-36696_e-marenarielle.mp3",
+    "mime": "audio/mpeg",
     "license": "Public Domain",
     "source": "Internet Archive"
   },
   {
-    "id": "narodowemelodyep10260gut::10260-m/10260-m-001.mp3",
-    "title": "Narodowe Melodye\n Polka",
-    "artist": "Aleksander Iwanowski",
-    "url": "https://archive.org/download/narodowemelodyep10260gut/10260-m%2F10260-m-001.mp3",
+    "id": "loc-jukebox-39297-angelo::jukebox-39297_angelo.mp3",
+    "title": "Angelo",
+    "artist": "four sicilians, the ; palumbo, r.",
+    "url": "https://archive.org/download/loc-jukebox-39297-angelo/jukebox-39297_angelo.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "loc-jukebox-31734-you-ll-find-old-dixieland-in-france::jukebox-31734_you-ll-find-old-dixieland-in-france.mp3",
+    "title": "You'll find old Dixieland in France",
+    "artist": "deiro, pietro ; pietro ; carleton, bob ; meyer, george w. ; wenrich, percy",
+    "url": "https://archive.org/download/loc-jukebox-31734-you-ll-find-old-dixieland-in-france/jukebox-31734_you-ll-find-old-dixieland-in-france.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "loc-jukebox-37349-av-horachmim::jukebox-37349_av-horachmim.mp3",
+    "title": "Av horachmim",
+    "artist": "jassinowsky, pinchos ; shilkret, nathaniel",
+    "url": "https://archive.org/download/loc-jukebox-37349-av-horachmim/jukebox-37349_av-horachmim.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "loc-jukebox-188679-det-nye-bokskap::jukebox-188679_det-nye-bokskap.mp3",
+    "title": "Det nye bokskap",
+    "artist": "olson, ethel",
+    "url": "https://archive.org/download/loc-jukebox-188679-det-nye-bokskap/jukebox-188679_det-nye-bokskap.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "loc-jukebox-34206-yeny-memos::jukebox-34206_yeny-memos.mp3",
+    "title": "Yeny memos",
+    "artist": "bey, jemal (oody)",
+    "url": "https://archive.org/download/loc-jukebox-34206-yeny-memos/jukebox-34206_yeny-memos.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "loc-jukebox-38170-est-s-en-el-ten-conten::jukebox-38170_est-s-en-el-ten-conten.mp3",
+    "title": "Estás en el ten conten",
+    "artist": "floro y miguel ; zorrilla, floro ; zaballa, miguel ; villalón morales, alberto",
+    "url": "https://archive.org/download/loc-jukebox-38170-est-s-en-el-ten-conten/jukebox-38170_est-s-en-el-ten-conten.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "loc-jukebox-28600-yugovici::jukebox-28600_yugovici.mp3",
+    "title": "Yugovici",
+    "artist": "shilkret, nathaniel ; djurin, obrad ; king's orchestra",
+    "url": "https://archive.org/download/loc-jukebox-28600-yugovici/jukebox-28600_yugovici.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "loc-jukebox-27999-an-irish-folk-song::jukebox-27999_an-irish-folk-song.mp3",
+    "title": "An Irish folk song",
+    "artist": "lapitino, francis j. ; pasternack, josef ; littlefield, laura ; parker, gilbert ; foote, arthur",
+    "url": "https://archive.org/download/loc-jukebox-27999-an-irish-folk-song/jukebox-27999_an-irish-folk-song.mp3",
     "mime": "audio/mpeg",
     "license": "Public Domain",
     "source": "Internet Archive"
@@ -1562,15 +1724,6 @@
     "artist": "Fred S. Stone, Peerless Orchestra (Edison studio ensemble)",
     "url": "https://archive.org/download/maragtimebaby10285gut/10285-m%2F10285-m-001.mp3",
     "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "copl_000112::copl_000112_a_access.m4a",
-    "title": "\"Banjos in Action\" - Playing for Fun and Entertainment, Anywhere - Anytime",
-    "artist": "Oakland Banjo Band",
-    "url": "https://archive.org/download/copl_000112/copl_000112_a_access.m4a",
-    "mime": "audio/mp4",
     "license": "Public Domain",
     "source": "Internet Archive"
   },
@@ -1593,91 +1746,19 @@
     "source": "Internet Archive"
   },
   {
-    "id": "cfls_000338::cfls_000338_b_access.m4a",
-    "title": "Sight & Sound: Leo Kreter",
-    "artist": "California State University, Fullerton, Paulina June and George Pollak Library",
-    "url": "https://archive.org/download/cfls_000338/cfls_000338_b_access.m4a",
+    "id": "calauem_007062::calauem_007062_f00002_access.m4a",
+    "title": "Taiko!",
+    "artist": "Unknown artist",
+    "url": "https://archive.org/download/calauem_007062/calauem_007062_f00002_access.m4a",
     "mime": "audio/mp4",
     "license": "Public Domain",
     "source": "Internet Archive"
   },
   {
-    "id": "casfjazz_000404::casfjazz_000404_f00002_access.m4a",
-    "title": "SFJAZZ Pre-concert Talk with Hiromi at Palace of Fine Arts Theatre (2008)",
-    "artist": "SFJAZZ (Organization)",
-    "url": "https://archive.org/download/casfjazz_000404/casfjazz_000404_f00002_access.m4a",
-    "mime": "audio/mp4",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "WC.D.35::WC.D.35.mp3",
-    "title": "La Cancion de las Cualidades, sung by Adalaida Kamp",
-    "artist": "Lummis, Charles Fletcher, 1859-1928",
-    "url": "https://archive.org/download/WC.D.35/WC.D.35.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "WC.E.18::WC.E.18.mp3",
-    "title": "Sombrero Blanco, sung by Adalaida Kamp",
-    "artist": "Lummis, Charles Fletcher, 1859-1928",
-    "url": "https://archive.org/download/WC.E.18/WC.E.18.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "WC.E.31::WC.E.31.mp3",
-    "title": "El Destino, sung by Adalaida Kamp",
-    "artist": "Lummis, Charles Fletcher, 1859-1928",
-    "url": "https://archive.org/download/WC.E.31/WC.E.31.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "WC.E.38::WC.E.38.mp3",
-    "title": "Las Mananitas, sung by Adalaida Kamp",
-    "artist": "Lummis, Charles Fletcher, 1859-1928",
-    "url": "https://archive.org/download/WC.E.38/WC.E.38.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "WC.F.23::WC.F.23.mp3",
-    "title": "Sombrero Blanco, performed by Porfirio Rivera",
-    "artist": "Lummis, Charles Fletcher, 1859-1928",
-    "url": "https://archive.org/download/WC.F.23/WC.F.23.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "WC.F.29::WC.F.29.mp3",
-    "title": "Lejos de Ella, sung by Mercedes Garcia and Mrs. Melsing",
-    "artist": "Lummis, Charles Fletcher, 1859-1928, Melsing, Mrs., singer",
-    "url": "https://archive.org/download/WC.F.29/WC.F.29.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "WC.F.9::WC.F.9.mp3",
-    "title": "Jarabe Tapatillo, sung by Tulita Wilcox Miner",
-    "artist": "Lummis, Charles Fletcher, 1859-1928",
-    "url": "https://archive.org/download/WC.F.9/WC.F.9.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "WC.J.6::W.C.J.6.mp3",
-    "title": "John Brown Had a Little Indian, sung by Charles Lummis and Keith Lummis",
-    "artist": "Lummis, Charles, collector, Lummis, Keith, singer",
-    "url": "https://archive.org/download/WC.J.6/W.C.J.6.mp3",
+    "id": "dinahpolka10283gut::10283-m/10283-m-001.mp3",
+    "title": "Dinah Polka",
+    "artist": "Charles P. Lowe",
+    "url": "https://archive.org/download/dinahpolka10283gut/10283-m%2F10283-m-001.mp3",
     "mime": "audio/mpeg",
     "license": "Public Domain",
     "source": "Internet Archive"
@@ -1696,6 +1777,24 @@
     "title": "La Indita de Santa Fe, performed by Rosa Villa",
     "artist": "Lummis, Charles Fletcher, 1859-1928",
     "url": "https://archive.org/download/WC.H.18/WC.H.18.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "WC.I.10::WC.I.10.mp3",
+    "title": "Unknown song, recorded by Charles Lummis",
+    "artist": "Lummis, Charles, collector",
+    "url": "https://archive.org/download/WC.I.10/WC.I.10.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "WC.I.27::WC.I.27.mp3",
+    "title": "Don Simon, sung by Charles Lummis and Manuela Garcia",
+    "artist": "Lummis, Charles Fletcher, 1859-1928, Garcia, Manuela, singer",
+    "url": "https://archive.org/download/WC.I.27/WC.I.27.mp3",
     "mime": "audio/mpeg",
     "license": "Public Domain",
     "source": "Internet Archive"
@@ -1746,42 +1845,6 @@
     "source": "Internet Archive"
   },
   {
-    "id": "WC.I.10::WC.I.10.mp3",
-    "title": "Unknown song, recorded by Charles Lummis",
-    "artist": "Lummis, Charles, collector",
-    "url": "https://archive.org/download/WC.I.10/WC.I.10.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "WC.I.27::WC.I.27.mp3",
-    "title": "Don Simon, sung by Charles Lummis and Manuela Garcia",
-    "artist": "Lummis, Charles Fletcher, 1859-1928, Garcia, Manuela, singer",
-    "url": "https://archive.org/download/WC.I.27/WC.I.27.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "DesaymoSungByFranciscoAmate::WC.A.17.mp3",
-    "title": "Desaymo, sung by Francisco Amate",
-    "artist": "Lummis, Charles Fletcher, 1859-1928",
-    "url": "https://archive.org/download/DesaymoSungByFranciscoAmate/WC.A.17.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "dinahpolka10283gut::10283-m/10283-m-001.mp3",
-    "title": "Dinah Polka",
-    "artist": "Charles P. Lowe",
-    "url": "https://archive.org/download/dinahpolka10283gut/10283-m%2F10283-m-001.mp3",
-    "mime": "audio/mpeg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
     "id": "calauem_002876::calauem_002876_access.m4a",
     "title": "LAUSD: Deedie McGeehee (cassette 255A)",
     "artist": "Unknown",
@@ -1791,20 +1854,110 @@
     "source": "Internet Archive"
   },
   {
-    "id": "wc.b.35_202003::WC.B.35.mp3",
-    "title": "El Cazador, sung by Manuela Garcia",
+    "id": "WC.E.31::WC.E.31.mp3",
+    "title": "El Destino, sung by Adalaida Kamp",
     "artist": "Lummis, Charles Fletcher, 1859-1928",
-    "url": "https://archive.org/download/wc.b.35_202003/WC.B.35.mp3",
+    "url": "https://archive.org/download/WC.E.31/WC.E.31.mp3",
     "mime": "audio/mpeg",
     "license": "Public Domain",
     "source": "Internet Archive"
   },
   {
-    "id": "calauem_007087::calauem_007087_f00002_access.m4a",
-    "title": "Taiko #3: Reels 5, 6, and 7",
-    "artist": "Unknown",
-    "url": "https://archive.org/download/calauem_007087/calauem_007087_f00002_access.m4a",
+    "id": "WC.E.38::WC.E.38.mp3",
+    "title": "Las Mananitas, sung by Adalaida Kamp",
+    "artist": "Lummis, Charles Fletcher, 1859-1928",
+    "url": "https://archive.org/download/WC.E.38/WC.E.38.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "WC.F.23::WC.F.23.mp3",
+    "title": "Sombrero Blanco, performed by Porfirio Rivera",
+    "artist": "Lummis, Charles Fletcher, 1859-1928",
+    "url": "https://archive.org/download/WC.F.23/WC.F.23.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "WC.F.29::WC.F.29.mp3",
+    "title": "Lejos de Ella, sung by Mercedes Garcia and Mrs. Melsing",
+    "artist": "Lummis, Charles Fletcher, 1859-1928, Melsing, Mrs., singer",
+    "url": "https://archive.org/download/WC.F.29/WC.F.29.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "WC.F.9::WC.F.9.mp3",
+    "title": "Jarabe Tapatillo, sung by Tulita Wilcox Miner",
+    "artist": "Lummis, Charles Fletcher, 1859-1928",
+    "url": "https://archive.org/download/WC.F.9/WC.F.9.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "WC.D.35::WC.D.35.mp3",
+    "title": "La Cancion de las Cualidades, sung by Adalaida Kamp",
+    "artist": "Lummis, Charles Fletcher, 1859-1928",
+    "url": "https://archive.org/download/WC.D.35/WC.D.35.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "WC.E.18::WC.E.18.mp3",
+    "title": "Sombrero Blanco, sung by Adalaida Kamp",
+    "artist": "Lummis, Charles Fletcher, 1859-1928",
+    "url": "https://archive.org/download/WC.E.18/WC.E.18.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "WC.J.6::W.C.J.6.mp3",
+    "title": "John Brown Had a Little Indian, sung by Charles Lummis and Keith Lummis",
+    "artist": "Lummis, Charles, collector, Lummis, Keith, singer",
+    "url": "https://archive.org/download/WC.J.6/W.C.J.6.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "calauem_007074::calauem_007074_f00002_access.m4a",
+    "title": "Taiko Center of Los Angeles - Concert @ Schurr High School (3)",
+    "artist": "Unknown artist",
+    "url": "https://archive.org/download/calauem_007074/calauem_007074_f00002_access.m4a",
     "mime": "audio/mp4",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "loc-jukebox-33050-take-your-girlie-to-the-movies::jukebox-33050_take-your-girlie-to-the-movies.mp3",
+    "title": "Take your girlie to the movies",
+    "artist": "bourdon, rosario ; murray, billy ; wendling, pete ; leslie, edgar ; kalmar, bert",
+    "url": "https://archive.org/download/loc-jukebox-33050-take-your-girlie-to-the-movies/jukebox-33050_take-your-girlie-to-the-movies.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "loc-jukebox-31511-for-johnny-and-me::jukebox-31511_for-johnny-and-me.mp3",
+    "title": "For Johnny and me",
+    "artist": "harris, marion ; rattay, howard ; pasternack, josef ; von tilzer, albert ; brown, lew",
+    "url": "https://archive.org/download/loc-jukebox-31511-for-johnny-and-me/jukebox-31511_for-johnny-and-me.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "loc-jukebox-31436-that-tumble-down-shack-in-athlone::jukebox-31436_that-tumble-down-shack-in-athlone.mp3",
+    "title": "That tumble-down shack in Athlone",
+    "artist": "pascoe, richard w. ; bourdon, rosario ; sterling trio ; burr, henry ; rattay, howard ; carlo, monte ; campbell, albert ; sanders, alma m. ; meyer, john h.",
+    "url": "https://archive.org/download/loc-jukebox-31436-that-tumble-down-shack-in-athlone/jukebox-31436_that-tumble-down-shack-in-athlone.mp3",
+    "mime": "audio/mpeg",
     "license": "Public Domain",
     "source": "Internet Archive"
   },
@@ -1899,6 +2052,33 @@
     "source": "Internet Archive"
   },
   {
+    "id": "loc-jukebox-32080-monte-cristo-jr::jukebox-32080_monte-cristo-jr.mp3",
+    "title": "Monte Cristo, Jr.",
+    "artist": "banta, frank e. ; schwartz, jean ; romberg, sigmund ; glantz, nathan ; van eps, fred ; van eps trio",
+    "url": "https://archive.org/download/loc-jukebox-32080-monte-cristo-jr/jukebox-32080_monte-cristo-jr.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "loc-jukebox-31025-beautiful-ohio::jukebox-31025_beautiful-ohio.mp3",
+    "title": "Beautiful Ohio",
+    "artist": "king, robert ; bourdon, rosario ; pasternack, josef ; macdonald, ballard ; earl, mary ; dunlap, marguerite ; kline, olive",
+    "url": "https://archive.org/download/loc-jukebox-31025-beautiful-ohio/jukebox-31025_beautiful-ohio.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "loc-jukebox-36548-o-salige-stund::jukebox-36548_o-salige-stund.mp3",
+    "title": "O salige stund",
+    "artist": "shilkret, nathaniel ; halmrast, johan ; werner, august ; wendelborg, kristian",
+    "url": "https://archive.org/download/loc-jukebox-36548-o-salige-stund/jukebox-36548_o-salige-stund.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
     "id": "WC.G.14::WC.G.14.mp3",
     "title": "Hay Chiquita, sung by Rosendo Uruchurtu",
     "artist": "Lummis, Charles Fletcher, 1859-1928",
@@ -1971,732 +2151,552 @@
     "source": "Internet Archive"
   },
   {
-    "id": "calauem_000448::calauem_000448_b_p02_access.mp3",
-    "title": "Sephardic music: Gregas Judio, Isaac Sene, oud",
-    "artist": "Sene, Emily",
-    "url": "https://archive.org/download/calauem_000448/calauem_000448_b_p02_access.mp3",
+    "id": "loc-jukebox-35978-esk-lidov-p-sn::jukebox-35978_esk-lidov-p-sn.mp3",
+    "title": "České lidové písně",
+    "artist": "psota, joseph ; psotova čechoslovenská kapela",
+    "url": "https://archive.org/download/loc-jukebox-35978-esk-lidov-p-sn/jukebox-35978_esk-lidov-p-sn.mp3",
     "mime": "audio/mpeg",
     "license": "Public Domain",
     "source": "Internet Archive"
   },
   {
-    "id": "casbspl_000054::casbspl_000054_b_access.m4a",
-    "title": "Mu-tonics Concert",
-    "artist": "Mu-tonics",
-    "url": "https://archive.org/download/casbspl_000054/casbspl_000054_b_access.m4a",
+    "id": "calauem_003014::calauem_003014_a_access.m4a",
+    "title": "Esrom Jenkins (cassette 380)",
+    "artist": "Unknown",
+    "url": "https://archive.org/download/calauem_003014/calauem_003014_a_access.m4a",
     "mime": "audio/mp4",
     "license": "Public Domain",
     "source": "Internet Archive"
   },
   {
-    "id": "casfjazz_000231::casfjazz_000231_f00002_access.m4a",
-    "title": "Legacy of the Bass: Brown & McBride 2001",
+    "id": "loc-jukebox-256265-der-aristokrat::jukebox-256265_der-aristokrat.mp3",
+    "title": "Der aristokrat",
+    "artist": "bourdon, rosario ; eisenberg, marcus ; zunser, eliakum",
+    "url": "https://archive.org/download/loc-jukebox-256265-der-aristokrat/jukebox-256265_der-aristokrat.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "casbspl_000020::casbspl_000020_access.m4a",
+    "title": "Clabe Hangan Piano Rehearsal",
+    "artist": "Hangan, Clabe",
+    "url": "https://archive.org/download/casbspl_000020/casbspl_000020_access.m4a",
+    "mime": "audio/mp4",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "casfjazz_000031::casfjazz_000031_b_access.m4a",
+    "title": "Jazz In the City 1988, \"A Gospel Tribute to The Hawkins Family\" with Walter Hawkins, Love Center Choir",
+    "artist": "Jazz In the City",
+    "url": "https://archive.org/download/casfjazz_000031/casfjazz_000031_b_access.m4a",
+    "mime": "audio/mp4",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "casfjazz_000086::casfjazz_000086_t01_b_access.m4a",
+    "title": "Boogie Woogie Piano Summit, 1991",
+    "artist": "San Francisco Jazz Festival",
+    "url": "https://archive.org/download/casfjazz_000086/casfjazz_000086_t01_b_access.m4a",
+    "mime": "audio/mp4",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "casfjazz_000278::casfjazz_000278_f00003_access.m4a",
+    "title": "Kurt Rosenwinkel Group, Jim Hall Trio (2004)",
     "artist": "Unknown artist",
-    "url": "https://archive.org/download/casfjazz_000231/casfjazz_000231_f00002_access.m4a",
+    "url": "https://archive.org/download/casfjazz_000278/casfjazz_000278_f00003_access.m4a",
     "mime": "audio/mp4",
     "license": "Public Domain",
     "source": "Internet Archive"
   },
   {
-    "id": "casfjazz_000232::casfjazz_000232_f00002_access.m4a",
-    "title": "SFJAZZ Spring Season 2001, \"The Music of Dave Holland and Charles Mingus\"",
-    "artist": "Unknown artist",
-    "url": "https://archive.org/download/casfjazz_000232/casfjazz_000232_f00002_access.m4a",
-    "mime": "audio/mp4",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "casfjazz_000265::casfjazz_000265_f00002_access.m4a",
-    "title": "SFJAZZ Collective Inaugural Season, San Francisco Public Debut Concerts 4-1-2004",
-    "artist": "Unknown artist",
-    "url": "https://archive.org/download/casfjazz_000265/casfjazz_000265_f00002_access.m4a",
-    "mime": "audio/mp4",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "caclah_000106::caclah_000106_access.mp3",
-    "title": "Padua Hills Theatre Tapes - Tape 15 - Alarippu",
-    "artist": "Unknown artist",
-    "url": "https://archive.org/download/caclah_000106/caclah_000106_access.mp3",
+    "id": "loc-jukebox-66307-laddie-o-mine::jukebox-66307_laddie-o-mine.mp3",
+    "title": "Laddie o' mine",
+    "artist": "lennartz, alfred ; schmidt, alexander ; beebe, bessie l. ; marsh, lucy isabelle ; bourdon, rosario",
+    "url": "https://archive.org/download/loc-jukebox-66307-laddie-o-mine/jukebox-66307_laddie-o-mine.mp3",
     "mime": "audio/mpeg",
     "license": "Public Domain",
     "source": "Internet Archive"
   },
   {
-    "id": "calauem_003091::calauem_003091_access.m4a",
-    "title": "Untitled Audio Cassette (10)",
-    "artist": "Kalanduyan, Danongan S.",
-    "url": "https://archive.org/download/calauem_003091/calauem_003091_access.m4a",
-    "mime": "audio/mp4",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "calauem_003123::calauem_003123_p01_p01_access.m4a",
-    "title": "Kulintronika \"1st Album\" fod DSK only",
-    "artist": "Kalanduyan, Danongan S.",
-    "url": "https://archive.org/download/calauem_003123/calauem_003123_p01_p01_access.m4a",
-    "mime": "audio/mp4",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "calauem_003002::calauem_003002_a_access.m4a",
-    "title": "Al McNeil: USC/Delfino Cisnero (cassette 371)",
-    "artist": "Unknown",
-    "url": "https://archive.org/download/calauem_003002/calauem_003002_a_access.m4a",
-    "mime": "audio/mp4",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "caclah_000121::caclah_000121_access.mp3",
-    "title": "Padua Hills Theatre Tapes - Tape 30 - Recordings from Fiesta Mexicana",
-    "artist": "Unknown artist",
-    "url": "https://archive.org/download/caclah_000121/caclah_000121_access.mp3",
+    "id": "loc-jukebox-50989-ty-tee::jukebox-50989_ty-tee.mp3",
+    "title": "Ty-tee",
+    "artist": "paul whiteman orchestra ; bibo, irving m. ; whiteman, paul",
+    "url": "https://archive.org/download/loc-jukebox-50989-ty-tee/jukebox-50989_ty-tee.mp3",
     "mime": "audio/mpeg",
     "license": "Public Domain",
     "source": "Internet Archive"
   },
   {
-    "id": "calauem_000586::calauem_000586_access.mp3",
-    "title": "1963 UCLA Folk Festival: Concert: Children's Concert",
-    "artist": "University of California, Los Angeles",
-    "url": "https://archive.org/download/calauem_000586/calauem_000586_access.mp3",
+    "id": "loc-jukebox-41963-i-wonder-if-you-still-care-for-me::jukebox-41963_i-wonder-if-you-still-care-for-me.mp3",
+    "title": "I wonder if you still care for me?",
+    "artist": "snyder, ted ; pasternack, josef ; witzmann, john ; hart, charles ; gorodetzer, meyer ; smith, harry b.",
+    "url": "https://archive.org/download/loc-jukebox-41963-i-wonder-if-you-still-care-for-me/jukebox-41963_i-wonder-if-you-still-care-for-me.mp3",
     "mime": "audio/mpeg",
     "license": "Public Domain",
     "source": "Internet Archive"
   },
   {
-    "id": "calauem_002477::calauem_002477_a_access.m4a",
-    "title": "Requiem Mass and Afro-American Symphony (reel 48)",
-    "artist": "Unknown",
-    "url": "https://archive.org/download/calauem_002477/calauem_002477_a_access.m4a",
-    "mime": "audio/mp4",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "calauem_002610::calauem_002610_access.m4a",
-    "title": "Bette's Lecture, UCLA (cassette 95)",
-    "artist": "Unknown",
-    "url": "https://archive.org/download/calauem_002610/calauem_002610_access.m4a",
-    "mime": "audio/mp4",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "calauem_002813::calauem_002813_access.m4a",
-    "title": "Marion Downs 3 (cassette 222C)",
-    "artist": "Unknown",
-    "url": "https://archive.org/download/calauem_002813/calauem_002813_access.m4a",
-    "mime": "audio/mp4",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "calauem_002846::calauem_002846_access.m4a",
-    "title": "LAUSD: Barney Bigard Interview (cassette 239)",
-    "artist": "Unknown",
-    "url": "https://archive.org/download/calauem_002846/calauem_002846_access.m4a",
-    "mime": "audio/mp4",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "calauem_002852::calauem_002852_access.m4a",
-    "title": "LAUSD: Benny Powell and Buddy Collette 2 (cassette 243B)",
-    "artist": "Unknown",
-    "url": "https://archive.org/download/calauem_002852/calauem_002852_access.m4a",
-    "mime": "audio/mp4",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "calauem_002691::calauem_002691_access.m4a",
-    "title": "Bette Cox 3 (cassette 156)",
-    "artist": "Unknown",
-    "url": "https://archive.org/download/calauem_002691/calauem_002691_access.m4a",
-    "mime": "audio/mp4",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "calauem_002716::calauem_002716_b_access.m4a",
-    "title": "Albert McNeill: I Remember Wings over Jordan (cassette 166O)",
-    "artist": "Unknown",
-    "url": "https://archive.org/download/calauem_002716/calauem_002716_b_access.m4a",
-    "mime": "audio/mp4",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "calauem_002741::calauem_002741_access.m4a",
-    "title": "Darryl Taylor (cassette 179)",
-    "artist": "Unknown",
-    "url": "https://archive.org/download/calauem_002741/calauem_002741_access.m4a",
-    "mime": "audio/mp4",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "calauem_000175::calauem_000175_b_access.mp3",
-    "title": "Father Thomas King, Co-Administrator Transfiguration Catholic Church",
-    "artist": "DjeDje, Jacqueline Cogdell",
-    "url": "https://archive.org/download/calauem_000175/calauem_000175_b_access.mp3",
+    "id": "loc-jukebox-65320-la-copa-del-olvido::jukebox-65320_la-copa-del-olvido.mp3",
+    "title": "La copa del olvido",
+    "artist": "añez, jorge ; delfino, enrique ; shilkret, nathaniel ; briceño, alcides ; vaccarezza, alberto",
+    "url": "https://archive.org/download/loc-jukebox-65320-la-copa-del-olvido/jukebox-65320_la-copa-del-olvido.mp3",
     "mime": "audio/mpeg",
     "license": "Public Domain",
     "source": "Internet Archive"
   },
   {
-    "id": "calauem_000497::calauem_000497_a_access.mp3",
-    "title": "Sephardic music: Romansos, Isaac Sene, oud",
-    "artist": "Sene, Emily",
-    "url": "https://archive.org/download/calauem_000497/calauem_000497_a_access.mp3",
+    "id": "loc-jukebox-61954-bvstrv-kak-wolny-piesn-studentov::jukebox-61954_bvstrv-kak-wolny-piesn-studentov.mp3",
+    "title": "Bvstrv kak wolny (Piesn studentov)",
+    "artist": "moscow male quartet ; kirillov, aleksandr ; sashko, s.",
+    "url": "https://archive.org/download/loc-jukebox-61954-bvstrv-kak-wolny-piesn-studentov/jukebox-61954_bvstrv-kak-wolny-piesn-studentov.mp3",
     "mime": "audio/mpeg",
     "license": "Public Domain",
     "source": "Internet Archive"
   },
   {
-    "id": "calauem_000501::calauem_000501_a_access.mp3",
-    "title": "Sephardic music: Esta Buena",
-    "artist": "Sene, Emily",
-    "url": "https://archive.org/download/calauem_000501/calauem_000501_a_access.mp3",
+    "id": "loc-jukebox-66163-psalm-66::jukebox-66163_psalm-66.mp3",
+    "title": "Psalm 66",
+    "artist": "schmidt, alexander ; levy, ted ; dornay, louis",
+    "url": "https://archive.org/download/loc-jukebox-66163-psalm-66/jukebox-66163_psalm-66.mp3",
     "mime": "audio/mpeg",
     "license": "Public Domain",
     "source": "Internet Archive"
   },
   {
-    "id": "calauem_002773::calauem_002773_access.m4a",
-    "title": "Sam Browne 4 (cassette 208D)",
-    "artist": "Unknown",
-    "url": "https://archive.org/download/calauem_002773/calauem_002773_access.m4a",
-    "mime": "audio/mp4",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "calauem_003152::calauem_003152_p01_p01_access.m4a",
-    "title": "For CD 2001",
-    "artist": "Kalanduyan, Danongan S.",
-    "url": "https://archive.org/download/calauem_003152/calauem_003152_p01_p01_access.m4a",
-    "mime": "audio/mp4",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "calauem_003160::calauem_003160_p01_p01_access.m4a",
-    "title": "KPFA 94.1 FM",
-    "artist": "Kalanduyan, Danongan S.",
-    "url": "https://archive.org/download/calauem_003160/calauem_003160_p01_p01_access.m4a",
-    "mime": "audio/mp4",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "calauem_003192::calauem_003192_p01_p01_access.m4a",
-    "title": "Agong Contest, etc.",
-    "artist": "Kalanduyan, Danongan S.",
-    "url": "https://archive.org/download/calauem_003192/calauem_003192_p01_p01_access.m4a",
-    "mime": "audio/mp4",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "alexandersragtim10305gut::10305-m/10305-m-001.mp3",
-    "title": "Alexander's Ragtime Band",
-    "artist": "Irving Berlin, Billy Murray",
-    "url": "https://archive.org/download/alexandersragtim10305gut/10305-m%2F10305-m-001.mp3",
+    "id": "loc-jukebox-68536-k-tszer-ny-lik::jukebox-68536_k-tszer-ny-lik.mp3",
+    "title": "Kétszer nyílik",
+    "artist": "sió aladár és zenekara ; buttykay, ákos ; sió, aladár",
+    "url": "https://archive.org/download/loc-jukebox-68536-k-tszer-ny-lik/jukebox-68536_k-tszer-ny-lik.mp3",
     "mime": "audio/mpeg",
     "license": "Public Domain",
     "source": "Internet Archive"
   },
   {
-    "id": "WC.C.35::WC.C.35.mp3",
-    "title": "La Mujer de Negros Ojos, sung by Manuela Garcia",
-    "artist": "Garcia, Manuela, singer, Uruchurtu, Rosendo, performer",
-    "url": "https://archive.org/download/WC.C.35/WC.C.35.mp3",
+    "id": "loc-jukebox-72328-uvyom-simchas-chem::jukebox-72328_uvyom-simchas-chem.mp3",
+    "title": "Uvyom simchas' chem",
+    "artist": "shield, leroy ; rosenblatt, josef",
+    "url": "https://archive.org/download/loc-jukebox-72328-uvyom-simchas-chem/jukebox-72328_uvyom-simchas-chem.mp3",
     "mime": "audio/mpeg",
     "license": "Public Domain",
     "source": "Internet Archive"
   },
   {
-    "id": "WC.E.36::WC.E.36.mp3",
-    "title": "Un Son Indita, sung by Adalaida Kamp",
-    "artist": "Lummis, Charles Fletcher, 1859-1928",
-    "url": "https://archive.org/download/WC.E.36/WC.E.36.mp3",
+    "id": "loc-jukebox-817336-marche-militaire::jukebox-817336_marche-militaire.mp3",
+    "title": "Marche militaire",
+    "artist": "schubert, franz ; levitzki, mischa",
+    "url": "https://archive.org/download/loc-jukebox-817336-marche-militaire/jukebox-817336_marche-militaire.mp3",
     "mime": "audio/mpeg",
     "license": "Public Domain",
     "source": "Internet Archive"
   },
   {
-    "id": "WC.E.40::WC.E.40.mp3",
-    "title": "Ya le Dije a Una Indita, sung by Adalaida Kamp",
-    "artist": "Lummis, Charles Fletcher, 1859-1928",
-    "url": "https://archive.org/download/WC.E.40/WC.E.40.mp3",
+    "id": "loc-jukebox-9448-la-estrellita::jukebox-9448_la-estrellita.mp3",
+    "title": "La estrellita",
+    "artist": "kloss, alberto ; balmaceda, jorge ; flores, c. v. g.",
+    "url": "https://archive.org/download/loc-jukebox-9448-la-estrellita/jukebox-9448_la-estrellita.mp3",
     "mime": "audio/mpeg",
     "license": "Public Domain",
     "source": "Internet Archive"
   },
   {
-    "id": "WC.E.42::WC.E.42.mp3",
-    "title": "El Zapatero y el Barbero, sung by Adalaida Kamp",
-    "artist": "Lummis, Charles Fletcher, 1859-1928",
-    "url": "https://archive.org/download/WC.E.42/WC.E.42.mp3",
+    "id": "loc-jukebox-9666-tiento-sobao::jukebox-9666_tiento-sobao.mp3",
+    "title": "Tiento sobao",
+    "artist": "alonso y trelles, josé",
+    "url": "https://archive.org/download/loc-jukebox-9666-tiento-sobao/jukebox-9666_tiento-sobao.mp3",
     "mime": "audio/mpeg",
     "license": "Public Domain",
     "source": "Internet Archive"
   },
   {
-    "id": "WC.E.5::WC.E.5.mp3",
-    "title": "El Gachupin, sung by Adalaida Kamp",
-    "artist": "Lummis, Charles Fletcher, 1859-1928",
-    "url": "https://archive.org/download/WC.E.5/WC.E.5.mp3",
+    "id": "loc-jukebox-73637-na-o-som-na-svete::jukebox-73637_na-o-som-na-svete.mp3",
+    "title": "Na ?o som na svete?",
+    "artist": "sió, aladár ; gellert, andrej ; kun, józsef",
+    "url": "https://archive.org/download/loc-jukebox-73637-na-o-som-na-svete/jukebox-73637_na-o-som-na-svete.mp3",
     "mime": "audio/mpeg",
     "license": "Public Domain",
     "source": "Internet Archive"
   },
   {
-    "id": "WC.E.7::WC.E.7.mp3",
-    "title": "El Viajero de California, sung by Adalaida Kamp",
-    "artist": "Lummis, Charles Fletcher, 1859-1928",
-    "url": "https://archive.org/download/WC.E.7/WC.E.7.mp3",
+    "id": "loc-jukebox-72968-barba-yannis::jukebox-72968_barba-yannis.mp3",
+    "title": "Barba yannis",
+    "artist": "papagika, marika",
+    "url": "https://archive.org/download/loc-jukebox-72968-barba-yannis/jukebox-72968_barba-yannis.mp3",
     "mime": "audio/mpeg",
     "license": "Public Domain",
     "source": "Internet Archive"
   },
   {
-    "id": "WC.J.2::W.C.J.2.mp3",
-    "title": "Mayordona 2, recorded by Charles Lummis",
-    "artist": "Lummis, Charles Fletcher, 1859-1928",
-    "url": "https://archive.org/download/WC.J.2/W.C.J.2.mp3",
+    "id": "loc-jukebox-72226-obrazy-o-ivota-slovensk-ho-pictures-of-slovak-country-life::jukebox-72226_obrazy-o-ivota-slovensk-ho-pictures-of-slovak-co.mp3",
+    "title": "Obrazy žo života Slovenského (Pictures of Slovak country life)",
+    "artist": "windt, charlotte",
+    "url": "https://archive.org/download/loc-jukebox-72226-obrazy-o-ivota-slovensk-ho-pictures-of-slovak-country-life/jukebox-72226_obrazy-o-ivota-slovensk-ho-pictures-of-slovak-co.mp3",
     "mime": "audio/mpeg",
     "license": "Public Domain",
     "source": "Internet Archive"
   },
   {
-    "id": "WC.N.16::WC.N.16.mp3",
-    "title": "El Primero and Adios, Adios, Adios, performed by Charles Lummis",
-    "artist": "Lummis, Charles, collector",
-    "url": "https://archive.org/download/WC.N.16/WC.N.16.mp3",
+    "id": "loc-jukebox-72325-t-ka-b-shofar::jukebox-72325_t-ka-b-shofar.mp3",
+    "title": "T'ka b'shofar",
+    "artist": "shield, leroy ; rosenblatt, josef",
+    "url": "https://archive.org/download/loc-jukebox-72325-t-ka-b-shofar/jukebox-72325_t-ka-b-shofar.mp3",
     "mime": "audio/mpeg",
     "license": "Public Domain",
     "source": "Internet Archive"
   },
   {
-    "id": "WC.C.2::WC.C.2.mp3",
-    "title": "La Vez, sung by Manuela Garcia",
-    "artist": "Lummis, Charles Fletcher, 1859-1928",
-    "url": "https://archive.org/download/WC.C.2/WC.C.2.mp3",
+    "id": "loc-jukebox-68404-you-didn-t-want-me-when-i-wanted-you::jukebox-68404_you-didn-t-want-me-when-i-wanted-you.mp3",
+    "title": "You didn't want me when I wanted you",
+    "artist": "stern, jack ; yellen, jack ; schmidt, alexander ; levy, ted ; adams, william ; james, lewis ; schreibman, ben ; keneke, emil",
+    "url": "https://archive.org/download/loc-jukebox-68404-you-didn-t-want-me-when-i-wanted-you/jukebox-68404_you-didn-t-want-me-when-i-wanted-you.mp3",
     "mime": "audio/mpeg",
     "license": "Public Domain",
     "source": "Internet Archive"
   },
   {
-    "id": "WC.I.42::WC.I.42.mp3",
-    "title": "Cinco Años Hace, performed by Charles Lummis and Turbese Lummis",
-    "artist": "Lummis, Charles Fletcher, 1859-1928, Lummis, Turbese, singer",
-    "url": "https://archive.org/download/WC.I.42/WC.I.42.mp3",
+    "id": "loc-jukebox-68519-letemnek-v-g-r-j-t::jukebox-68519_letemnek-v-g-r-j-t.mp3",
+    "title": "Életemnek végóráját",
+    "artist": "sió aladár és zenekara ; király, ern",
+    "url": "https://archive.org/download/loc-jukebox-68519-letemnek-v-g-r-j-t/jukebox-68519_letemnek-v-g-r-j-t.mp3",
     "mime": "audio/mpeg",
     "license": "Public Domain",
     "source": "Internet Archive"
   },
   {
-    "id": "WC.J.13::W.C.J.13.mp3",
-    "title": "Honduras Versos, sung by Maria de Jesus Guevara",
-    "artist": "Lummis, Charles Fletcher, 1859-1928",
-    "url": "https://archive.org/download/WC.J.13/W.C.J.13.mp3",
+    "id": "loc-jukebox-9670-y-te-dej-llorando::jukebox-9670_y-te-dej-llorando.mp3",
+    "title": "Y te dejé llorando",
+    "artist": "orquesta típica victor ; laina, josé",
+    "url": "https://archive.org/download/loc-jukebox-9670-y-te-dej-llorando/jukebox-9670_y-te-dej-llorando.mp3",
     "mime": "audio/mpeg",
     "license": "Public Domain",
     "source": "Internet Archive"
   },
   {
-    "id": "calauem_003385::calauem_003385_access.m4a",
-    "title": "Oral history interview with Ed Pearl by Victor Cohen (Part 2 of 2)",
-    "artist": "Pearl, Ed",
-    "url": "https://archive.org/download/calauem_003385/calauem_003385_access.m4a",
-    "mime": "audio/mp4",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "caclah_000113::caclah_000113_access.mp3",
-    "title": "Padua Hills Theatre Tapes - Tape 22 - Various rehearsal recordings",
-    "artist": "Unknown artist",
-    "url": "https://archive.org/download/caclah_000113/caclah_000113_access.mp3",
+    "id": "loc-jukebox-37536-tell-me-little-gypsy::jukebox-37536_tell-me-little-gypsy.mp3",
+    "title": "Tell me, little Gypsy",
+    "artist": "pasternack, josef ; rattay, howard ; steel, john ; berlin, irving ; witzmann, john",
+    "url": "https://archive.org/download/loc-jukebox-37536-tell-me-little-gypsy/jukebox-37536_tell-me-little-gypsy.mp3",
     "mime": "audio/mpeg",
     "license": "Public Domain",
     "source": "Internet Archive"
   },
   {
-    "id": "calauem_000663::calauem_000663_access.mp3",
-    "title": "Paso Doble De Los Cerritos composed by Will Simbol",
-    "artist": "Ube Arte;Simbol, Will",
-    "url": "https://archive.org/download/calauem_000663/calauem_000663_access.mp3",
+    "id": "loc-jukebox-38513-var-det-en-dr-m::jukebox-38513_var-det-en-dr-m.mp3",
+    "title": "Var det en dröm?",
+    "artist": "bourdon, rosario ; werner, august ; shilkret, nathaniel ; reitz, william h. ; thommessen, reidar",
+    "url": "https://archive.org/download/loc-jukebox-38513-var-det-en-dr-m/jukebox-38513_var-det-en-dr-m.mp3",
     "mime": "audio/mpeg",
     "license": "Public Domain",
     "source": "Internet Archive"
   },
   {
-    "id": "calauem_000577::calauem_000577_t02_access.mp3",
-    "title": "1963 UCLA Folk Festival: Concert: Friday Night Concert",
-    "artist": "University of California, Los Angeles",
-    "url": "https://archive.org/download/calauem_000577/calauem_000577_t02_access.mp3",
+    "id": "loc-jukebox-39871-zlat-ml-di::jukebox-39871_zlat-ml-di.mp3",
+    "title": "Zlaté mládi",
+    "artist": "hirschberg, adolph ; martorano, sante ; psotova čechoslovenská kapela [i.e., victor orchestra] ; štolc, emil ; victor orchestra ; psota, joseph",
+    "url": "https://archive.org/download/loc-jukebox-39871-zlat-ml-di/jukebox-39871_zlat-ml-di.mp3",
     "mime": "audio/mpeg",
     "license": "Public Domain",
     "source": "Internet Archive"
   },
   {
-    "id": "calauem_002464::calauem_002464_access.m4a",
-    "title": "Cienaga School: Spring Program (reel 37)",
-    "artist": "Unknown",
-    "url": "https://archive.org/download/calauem_002464/calauem_002464_access.m4a",
-    "mime": "audio/mp4",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "calauem_002501::calauem_002501_b_access.m4a",
-    "title": "Indiana University Seminar, Virginia State: Michael Gordon II (cassette 12B)",
-    "artist": "Unknown",
-    "url": "https://archive.org/download/calauem_002501/calauem_002501_b_access.m4a",
-    "mime": "audio/mp4",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "calauem_002515::calauem_002515_access.m4a",
-    "title": "Indiana University Seminar, Virginia State: C. Taylor 3 (cassette 19C)",
-    "artist": "Unknown",
-    "url": "https://archive.org/download/calauem_002515/calauem_002515_access.m4a",
-    "mime": "audio/mp4",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "calauem_002853::calauem_002853_b_access.m4a",
-    "title": "LAUSD: Benny Powell and Buddy Collette 3 (cassette 243C)",
-    "artist": "Unknown",
-    "url": "https://archive.org/download/calauem_002853/calauem_002853_b_access.m4a",
-    "mime": "audio/mp4",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "calauem_002892::calauem_002892_b_access.m4a",
-    "title": "Johnny (cassette 267)",
-    "artist": "Unknown",
-    "url": "https://archive.org/download/calauem_002892/calauem_002892_b_access.m4a",
-    "mime": "audio/mp4",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "calauem_003060::calauem_003060_b_access.m4a",
-    "title": "Maranao Vocal Song",
-    "artist": "Kalanduyan, Danongan S.",
-    "url": "https://archive.org/download/calauem_003060/calauem_003060_b_access.m4a",
-    "mime": "audio/mp4",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "calauem_003215::calauem_003215_a_access.m4a",
-    "title": "Nashville-Thursday: Eileen Southern Wyatt (cassette 306)",
-    "artist": "Unknown",
-    "url": "https://archive.org/download/calauem_003215/calauem_003215_a_access.m4a",
-    "mime": "audio/mp4",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "caclah_000119::caclah_000119_access.mp3",
-    "title": "Padua Hills Theatre Tapes - Tape 24 - Colombian Suite",
-    "artist": "Unknown artist",
-    "url": "https://archive.org/download/caclah_000119/caclah_000119_access.mp3",
+    "id": "loc-jukebox-40769-invarteste-roata-tare::jukebox-40769_invarteste-roata-tare.mp3",
+    "title": "Invarteste roata tare",
+    "artist": "petru laicu şi orchestra lui ; laicu, petru ; caros, g.",
+    "url": "https://archive.org/download/loc-jukebox-40769-invarteste-roata-tare/jukebox-40769_invarteste-roata-tare.mp3",
     "mime": "audio/mpeg",
     "license": "Public Domain",
     "source": "Internet Archive"
   },
   {
-    "id": "calauem_003095::calauem_003095_p01_p01_access.m4a",
-    "title": "Dandelion - Hafez Modir",
-    "artist": "Kalanduyan, Danongan S.",
-    "url": "https://archive.org/download/calauem_003095/calauem_003095_p01_p01_access.m4a",
-    "mime": "audio/mp4",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "calauem_002917::calauem_002917_access.m4a",
-    "title": "Devin Smith: Accolay's Concerto in A minor (cassette 310)",
-    "artist": "Unknown",
-    "url": "https://archive.org/download/calauem_002917/calauem_002917_access.m4a",
-    "mime": "audio/mp4",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "music-blog-angel::All Caps.mp3",
-    "title": "Music blog Angel",
-    "artist": "Jamiroquai and Oblivion’s Mighty Trash",
-    "url": "https://archive.org/download/music-blog-angel/All%20Caps.mp3",
+    "id": "loc-jukebox-41660-honolulu-honey::jukebox-41660_honolulu-honey.mp3",
+    "title": "Honolulu honey",
+    "artist": "weslyn, louis ; dyson, hal ; ferera, frank ; hawaiian trio ; hart, charles ; franchini, anthony j. ; shaw, elliott ; applefield, eva",
+    "url": "https://archive.org/download/loc-jukebox-41660-honolulu-honey/jukebox-41660_honolulu-honey.mp3",
     "mime": "audio/mpeg",
     "license": "Public Domain",
     "source": "Internet Archive"
   },
   {
-    "id": "turkish-radio-music-stopped-suddenly.-sun.-2026-08-23-t-21-40-32-z-9460.0k-hz::Turkish Radio music stopped suddenly. Sun. 2026-08-23T21_40_32Z_9460.0kHz.wav",
-    "title": "Turkish Radio Music Stopped Suddenly. Sun. 2026-08-23 T 21.40.32 Z 9460.0kHz",
-    "artist": "Ghost of Mustafa Kemal Atatürk",
-    "url": "https://archive.org/download/turkish-radio-music-stopped-suddenly.-sun.-2026-08-23-t-21-40-32-z-9460.0k-hz/Turkish%20Radio%20music%20stopped%20suddenly.%20Sun.%202026-08-23T21_40_32Z_9460.0kHz.wav",
-    "mime": "audio/wav",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "www.facebook.com_201506::ambiental pt cei dragi mie.mp3",
-    "title": "my music work",
-    "artist": "bebethekyd",
-    "url": "https://archive.org/download/www.facebook.com_201506/ambiental%20pt%20cei%20dragi%20mie.mp3",
+    "id": "loc-jukebox-42529-weep-no-more-my-mammy::jukebox-42529_weep-no-more-my-mammy.mp3",
+    "title": "Weep no more, my mammy",
+    "artist": "paul whiteman orchestra ; mendoza, david ; whiteman, paul ; pollack, lew",
+    "url": "https://archive.org/download/loc-jukebox-42529-weep-no-more-my-mammy/jukebox-42529_weep-no-more-my-mammy.mp3",
     "mime": "audio/mpeg",
     "license": "Public Domain",
     "source": "Internet Archive"
   },
   {
-    "id": "FaracyGrouseAndRecyclingthroughMusic::FaracyGrouse7.mp3",
-    "title": "Faracy Grouse and recycling (through) music",
-    "artist": "Tara Brabazon",
-    "url": "https://archive.org/download/FaracyGrouseAndRecyclingthroughMusic/FaracyGrouse7.mp3",
+    "id": "loc-jukebox-42562-when-buddha-smiles::jukebox-42562_when-buddha-smiles.mp3",
+    "title": "When Buddha smiles",
+    "artist": "paul whiteman orchestra ; gershwin, george ; brown, nacio herb ; whiteman, paul",
+    "url": "https://archive.org/download/loc-jukebox-42562-when-buddha-smiles/jukebox-42562_when-buddha-smiles.mp3",
     "mime": "audio/mpeg",
     "license": "Public Domain",
     "source": "Internet Archive"
   },
   {
-    "id": "FinalEditsForProject_201804::final edits for project .mp3",
-    "title": "Video Games and Music by Stephanie and Steven",
-    "artist": "Stephanie and Steven",
-    "url": "https://archive.org/download/FinalEditsForProject_201804/final%20edits%20for%20project%20.mp3",
+    "id": "loc-jukebox-42571-feh-r-r-zsa::jukebox-42571_feh-r-r-zsa.mp3",
+    "title": "Fehér rózsa",
+    "artist": "szalay, gyula ; erőss, béla ; nagy, lajos",
+    "url": "https://archive.org/download/loc-jukebox-42571-feh-r-r-zsa/jukebox-42571_feh-r-r-zsa.mp3",
     "mime": "audio/mpeg",
     "license": "Public Domain",
     "source": "Internet Archive"
   },
   {
-    "id": "ForeverChangedByMusicByMrChristopherChuah_329::20100815ForeverChangedByMusic.mp3",
-    "title": "Forever Changed By Music by Mr Christopher Chuah",
-    "artist": "Unknown artist",
-    "url": "https://archive.org/download/ForeverChangedByMusicByMrChristopherChuah_329/20100815ForeverChangedByMusic.mp3",
-    "mime": "audio/mpeg",
-    "license": "CC BY",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "JohnStark_DirectorTheMusicCompanyrecordings::ArtistTrack18.mp3",
-    "title": "The Music Company recordings",
-    "artist": "John Stark, Director",
-    "url": "https://archive.org/download/JohnStark_DirectorTheMusicCompanyrecordings/ArtistTrack18.mp3",
-    "mime": "audio/mpeg",
-    "license": "CC BY",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "JohnStark_DirectorTheMusicCompanyrecordings_10::ArtistTrack15.mp3",
-    "title": "The Music Company recordings",
-    "artist": "John Stark, Director",
-    "url": "https://archive.org/download/JohnStark_DirectorTheMusicCompanyrecordings_10/ArtistTrack15.mp3",
-    "mime": "audio/mpeg",
-    "license": "CC BY",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "JohnStark_DirectorTheMusicCompanyrecordings_9::ArtistTrack14.mp3",
-    "title": "The Music Company recordings",
-    "artist": "John Stark, Director",
-    "url": "https://archive.org/download/JohnStark_DirectorTheMusicCompanyrecordings_9/ArtistTrack14.mp3",
-    "mime": "audio/mpeg",
-    "license": "CC BY",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "irish-instrumental-music::irish-jig-370669.mp3",
-    "title": "Irish Instrumental Music",
-    "artist": "cl0udn0te",
-    "url": "https://archive.org/download/irish-instrumental-music/irish-jig-370669.mp3",
+    "id": "loc-jukebox-123169-royal-trumpeters-march::jukebox-123169_royal-trumpeters-march.mp3",
+    "title": "Royal trumpeters' march",
+    "artist": "arthur pryor's band ; seltzer, frank r.",
+    "url": "https://archive.org/download/loc-jukebox-123169-royal-trumpeters-march/jukebox-123169_royal-trumpeters-march.mp3",
     "mime": "audio/mpeg",
     "license": "Public Domain",
     "source": "Internet Archive"
   },
   {
-    "id": "JV-36749-1957-QmWmnPWwM1vy6tyWKMWrEDw2GbKTp2ZggSw4w4x2vZxRV1.mp3::TS487973.mp3",
-    "title": "Moon Song",
-    "artist": "Unknown artist",
-    "url": "https://archive.org/download/JV-36749-1957-QmWmnPWwM1vy6tyWKMWrEDw2GbKTp2ZggSw4w4x2vZxRV1.mp3/TS487973.mp3",
+    "id": "loc-jukebox-63408-krakovi-ak::jukebox-63408_krakovi-ak.mp3",
+    "title": "Krakovi͡ak (Краковяк)",
+    "artist": "shilkret, nathaniel ; kirilloff's russian balalaika orchestra",
+    "url": "https://archive.org/download/loc-jukebox-63408-krakovi-ak/jukebox-63408_krakovi-ak.mp3",
     "mime": "audio/mpeg",
     "license": "Public Domain",
     "source": "Internet Archive"
   },
   {
-    "id": "JV-5896-1930-QmPvVFJGS1rjLqmha5goR2pi5QXRSqaCrcxtLHvLgu6kBA.mp3::DV511033.mp3",
-    "title": "Singing A Vagabond Song",
-    "artist": "Unknown artist",
-    "url": "https://archive.org/download/JV-5896-1930-QmPvVFJGS1rjLqmha5goR2pi5QXRSqaCrcxtLHvLgu6kBA.mp3/DV511033.mp3",
+    "id": "loc-jukebox-63434-i-gr-na-palmers-skud::jukebox-63434_i-gr-na-palmers-skud.mp3",
+    "title": "I gröna palmers skud",
+    "artist": "shilkret, nathaniel ; millard, h. ; bye, erik ole ; faure, j. ; holmes, l.",
+    "url": "https://archive.org/download/loc-jukebox-63434-i-gr-na-palmers-skud/jukebox-63434_i-gr-na-palmers-skud.mp3",
     "mime": "audio/mpeg",
     "license": "Public Domain",
     "source": "Internet Archive"
   },
   {
-    "id": "JesusAntonioMusic::JesusAntonio-Tortugas.mp3",
-    "title": "Jesus Antonio Music",
-    "artist": "Jesus Antonio Diaz",
-    "url": "https://archive.org/download/JesusAntonioMusic/JesusAntonio-Tortugas.mp3",
-    "mime": "audio/mpeg",
-    "license": "CC BY",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "JV-3168-1927-QmejNpuCZt9BUutQmL6iECHPikFKbMm35fvFBs7kLJ8pRa.mp3::PER15167.mp3",
-    "title": "Desert Song",
-    "artist": "Unknown artist",
-    "url": "https://archive.org/download/JV-3168-1927-QmejNpuCZt9BUutQmL6iECHPikFKbMm35fvFBs7kLJ8pRa.mp3/PER15167.mp3",
+    "id": "loc-jukebox-61591-kleine-m-dchen-brauchen-liebe::jukebox-61591_kleine-m-dchen-brauchen-liebe.mp3",
+    "title": "Kleine Mädchen brauchen Liebe",
+    "artist": "victor orchestra ; blažević, emilio ; bromme, walter ; cairns, clifford ; shilkret, nathaniel ; steinberg, william ; deutsches tanz-orchester [i.e., victor orchestra] ; balle, ernest",
+    "url": "https://archive.org/download/loc-jukebox-61591-kleine-m-dchen-brauchen-liebe/jukebox-61591_kleine-m-dchen-brauchen-liebe.mp3",
     "mime": "audio/mpeg",
     "license": "Public Domain",
     "source": "Internet Archive"
   },
   {
-    "id": "JV-32668-1953-Qmcb77hjJYYdRqv2u9HRtQSRTk2dQmah6M3r1r5SHDBR3h.mp3::TS491796.mp3",
-    "title": "Without A Song",
-    "artist": "Unknown artist",
-    "url": "https://archive.org/download/JV-32668-1953-Qmcb77hjJYYdRqv2u9HRtQSRTk2dQmah6M3r1r5SHDBR3h.mp3/TS491796.mp3",
+    "id": "loc-jukebox-61607-der-siderel::jukebox-61607_der-siderel.mp3",
+    "title": "Der siderel",
+    "artist": "shilkret, nathaniel ; gilrod, louis ; birnzweig, s. ; kammen, joseph",
+    "url": "https://archive.org/download/loc-jukebox-61607-der-siderel/jukebox-61607_der-siderel.mp3",
     "mime": "audio/mpeg",
     "license": "Public Domain",
     "source": "Internet Archive"
   },
   {
-    "id": "JV-4924-1929-QmWDubSWh9R5YHZNuAMkrNyw2BvyyDzSgNMLuvNX1gthen.mp3::DV506558.mp3",
-    "title": "Pagan Love Song",
-    "artist": "Unknown artist",
-    "url": "https://archive.org/download/JV-4924-1929-QmWDubSWh9R5YHZNuAMkrNyw2BvyyDzSgNMLuvNX1gthen.mp3/DV506558.mp3",
+    "id": "loc-jukebox-64869-kam-pak-na-n-s-bol-evici::jukebox-64869_kam-pak-na-n-s-bol-evici.mp3",
+    "title": "Kam pak na nás, Bolševici?",
+    "artist": "albrecht, václav ; albrecht instrumental trio ; dolin, max ; shilkret, nathaniel ; hašler, karel",
+    "url": "https://archive.org/download/loc-jukebox-64869-kam-pak-na-n-s-bol-evici/jukebox-64869_kam-pak-na-n-s-bol-evici.mp3",
     "mime": "audio/mpeg",
     "license": "Public Domain",
     "source": "Internet Archive"
   },
   {
-    "id": "JV-7451-1932-QmT3ZFAV3QJ7PmMBKWwqzf4ddGzWuND86rjvrXLi6FgGfd.mp3::BRUC8479.mp3",
-    "title": "The Scat Song",
-    "artist": "Unknown artist",
-    "url": "https://archive.org/download/JV-7451-1932-QmT3ZFAV3QJ7PmMBKWwqzf4ddGzWuND86rjvrXLi6FgGfd.mp3/BRUC8479.mp3",
+    "id": "loc-jukebox-65019-o-susanna-rheinl-nder::jukebox-65019_o-susanna-rheinl-nder.mp3",
+    "title": "O Susanna (Rheinländer)",
+    "artist": "franzen, arvid ; shilkret, nathaniel ; lager, john ; hinsch, wilhelm",
+    "url": "https://archive.org/download/loc-jukebox-65019-o-susanna-rheinl-nder/jukebox-65019_o-susanna-rheinl-nder.mp3",
     "mime": "audio/mpeg",
     "license": "Public Domain",
     "source": "Internet Archive"
   },
   {
-    "id": "tis-20267::Tis_20267.mp3",
-    "title": "'Tis 2026/7 (song)",
-    "artist": "Claire Almengor",
-    "url": "https://archive.org/download/tis-20267/Tis_20267.mp3",
+    "id": "loc-jukebox-61194-crugybar-o-frynian-caersalem::jukebox-61194_crugybar-o-frynian-caersalem.mp3",
+    "title": "Crugybar o frynian caersalem",
+    "artist": "pedwarawd wilkes-barre [i.e., wilkes-barre quartet] ; williams, david j. ; gorodetzer, meyer ; wilkes-barre quartet ; williams, j. cledan",
+    "url": "https://archive.org/download/loc-jukebox-61194-crugybar-o-frynian-caersalem/jukebox-61194_crugybar-o-frynian-caersalem.mp3",
     "mime": "audio/mpeg",
     "license": "Public Domain",
     "source": "Internet Archive"
   },
   {
-    "id": "track-1-1::Track 2.wav",
-    "title": "Music of Hope and Resilience, March 19th 2023, Ingham County Chorale Concert",
-    "artist": "Justin Macauley",
-    "url": "https://archive.org/download/track-1-1/Track%202.wav",
-    "mime": "audio/wav",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "GarageMusic::NoPerfections1.mp3",
-    "title": "Garage Music",
-    "artist": "Schandor der Schandorianer",
-    "url": "https://archive.org/download/GarageMusic/NoPerfections1.mp3",
-    "mime": "audio/mpeg",
-    "license": "CC BY",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "HalloweenMusicKarmabub::New_music_001.ogg",
-    "title": "Halloween Music Karmabub",
-    "artist": "karmabub",
-    "url": "https://archive.org/download/HalloweenMusicKarmabub/New_music_001.ogg",
-    "mime": "audio/ogg",
-    "license": "Public Domain",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "IndigoAcidIndigoAcidEpisode3-MelodicMusic::podcast3.mp3",
-    "title": "Indigo Acid Episode 3 - Melodic Music",
-    "artist": "Indigo Acid",
-    "url": "https://archive.org/download/IndigoAcidIndigoAcidEpisode3-MelodicMusic/podcast3.mp3",
-    "mime": "audio/mpeg",
-    "license": "CC BY",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "temple-bell::temple-bell.mp3",
-    "title": "Jagran Music",
-    "artist": "Unknown artist",
-    "url": "https://archive.org/download/temple-bell/temple-bell.mp3",
+    "id": "loc-jukebox-64195-na-koleji::jukebox-64195_na-koleji.mp3",
+    "title": "Na koleji",
+    "artist": "bandrowski, iris ; shilkret, nathaniel ; bandrowski, stefan",
+    "url": "https://archive.org/download/loc-jukebox-64195-na-koleji/jukebox-64195_na-koleji.mp3",
     "mime": "audio/mpeg",
     "license": "Public Domain",
     "source": "Internet Archive"
   },
   {
-    "id": "Daddy_gs_carolina_beach_music_partTwo::LigginsJoe-Tanya.mp3",
-    "title": "Daddy_G's_CAROLINA_BEACH_MUSIC_Part Two",
-    "artist": "Daddy G's Memory Music",
-    "url": "https://archive.org/download/Daddy_gs_carolina_beach_music_partTwo/LigginsJoe-Tanya.mp3",
+    "id": "loc-jukebox-64063-you-gave-me-your-heart-so-i-gave-you-mine::jukebox-64063_you-gave-me-your-heart-so-i-gave-you-mine.mp3",
+    "title": "You gave me your heart (So I gave you mine)",
+    "artist": "snyder, ted ; great white way orchestra",
+    "url": "https://archive.org/download/loc-jukebox-64063-you-gave-me-your-heart-so-i-gave-you-mine/jukebox-64063_you-gave-me-your-heart-so-i-gave-you-mine.mp3",
     "mime": "audio/mpeg",
     "license": "Public Domain",
     "source": "Internet Archive"
   },
   {
-    "id": "instrumental-vintage-music::01ADream.mp3",
-    "title": "Instrumental Vintage Music",
-    "artist": "earbuddy50",
-    "url": "https://archive.org/download/instrumental-vintage-music/01ADream.mp3",
+    "id": "loc-jukebox-422548-jack-tar-march::jukebox-422548_jack-tar-march.mp3",
+    "title": "Jack Tar march",
+    "artist": "pryor, arthur ; shilkret, nathaniel ; sousa, john philip ; clarke, edwin g. ; rogers, walter b. ; clarke, herbert l. ; sousa's band ; victor orchestra",
+    "url": "https://archive.org/download/loc-jukebox-422548-jack-tar-march/jukebox-422548_jack-tar-march.mp3",
     "mime": "audio/mpeg",
     "license": "Public Domain",
     "source": "Internet Archive"
   },
   {
-    "id": "www.audiofighter.com::Dhalius - Lester (www.audiofighter.com).mp3",
-    "title": "Free Backsound Music 2020",
-    "artist": "Audiofighter",
-    "url": "https://archive.org/download/www.audiofighter.com/Dhalius%20-%20Lester%20%28www.audiofighter.com%29.mp3",
-    "mime": "audio/mpeg",
-    "license": "CC BY-SA",
-    "source": "Internet Archive"
-  },
-  {
-    "id": "diagetic_music::diagetic_music.mp3",
-    "title": "diagetic_music",
-    "artist": "Stanley Lieber",
-    "url": "https://archive.org/download/diagetic_music/diagetic_music.mp3",
+    "id": "loc-jukebox-66647-diamond-waltz::jukebox-66647_diamond-waltz.mp3",
+    "title": "Diamond waltz",
+    "artist": "trio italiano ; cibelli, alfredo ; shilkret, jack ; caldarelli, j. ; tripepi, d. ; laucella, nicola",
+    "url": "https://archive.org/download/loc-jukebox-66647-diamond-waltz/jukebox-66647_diamond-waltz.mp3",
     "mime": "audio/mpeg",
     "license": "Public Domain",
     "source": "Internet Archive"
   },
   {
-    "id": "www.VintageSense.com-Vintage-Indian-Music-33::09722_indian_music_vintagesense.com_1960_ghunghat1960_lageNaMoraJiya_lata_vintagesense.com_song_id_09722.mp3",
-    "title": "www.VintageSense.com-Vintage-Indian-Music-33",
-    "artist": "www.VintageSense.com",
-    "url": "https://archive.org/download/www.VintageSense.com-Vintage-Indian-Music-33/09722_indian_music_vintagesense.com_1960_ghunghat1960_lageNaMoraJiya_lata_vintagesense.com_song_id_09722.mp3",
+    "id": "loc-jukebox-66661-o-termometro::jukebox-66661_o-termometro.mp3",
+    "title": "'O termometro",
+    "artist": "feola, francesco ; shilkret, nathaniel ; bonavolontà, giuseppe ; de bellis, amalia",
+    "url": "https://archive.org/download/loc-jukebox-66661-o-termometro/jukebox-66661_o-termometro.mp3",
     "mime": "audio/mpeg",
-    "license": "CC BY",
+    "license": "Public Domain",
     "source": "Internet Archive"
   },
   {
-    "id": "www.VintageSense.com-Vintage-Indian-Music-88n::17466_indian_music_VintageSense.com_panjabi-fav-01_VintageSense.com_song_id_17466.mp3",
-    "title": "www.VintageSense.com-Vintage-Indian-Music-88n",
-    "artist": "www.VintageSense.com",
-    "url": "https://archive.org/download/www.VintageSense.com-Vintage-Indian-Music-88n/17466_indian_music_VintageSense.com_panjabi-fav-01_VintageSense.com_song_id_17466.mp3",
+    "id": "loc-jukebox-666920-kentucky-home::jukebox-666920_kentucky-home.mp3",
+    "title": "Kentucky home",
+    "artist": "weeks, harold ; happy six ; yerkes, harry a. ; brashen, abe",
+    "url": "https://archive.org/download/loc-jukebox-666920-kentucky-home/jukebox-666920_kentucky-home.mp3",
     "mime": "audio/mpeg",
-    "license": "CC BY",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "loc-jukebox-61647-lovey-dove::jukebox-61647_lovey-dove.mp3",
+    "title": "Lovey dove",
+    "artist": "clyde doerr orchestra ; romberg, sigmund ; doerr, clyde ; frey, hugo ; banta, frank e.",
+    "url": "https://archive.org/download/loc-jukebox-61647-lovey-dove/jukebox-61647_lovey-dove.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "loc-jukebox-668138-the-sheik-of-avenue-b::jukebox-668138_the-sheik-of-avenue-b.mp3",
+    "title": "The sheik of Avenue B",
+    "artist": "ruby, harry ; kalmar, bert ; crumit, frank",
+    "url": "https://archive.org/download/loc-jukebox-668138-the-sheik-of-avenue-b/jukebox-668138_the-sheik-of-avenue-b.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "loc-jukebox-40937-kohoutek::jukebox-40937_kohoutek.mp3",
+    "title": "Kohoutek",
+    "artist": "pangrác, františek a. ; hirschberg, adolph ; český orkestr [i.e., victor orchestra] ; seltzer, frank r. ; shilkret, nathaniel ; blažević, emilio",
+    "url": "https://archive.org/download/loc-jukebox-40937-kohoutek/jukebox-40937_kohoutek.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "loc-jukebox-40942-nemelem::jukebox-40942_nemelem.mp3",
+    "title": "Nemelem",
+    "artist": "pangrác, františek a. ; čermák, j. ; český orkestr [i.e., victor orchestra] ; shilkret, nathaniel ; blažević, emilio ; victor orchestra",
+    "url": "https://archive.org/download/loc-jukebox-40942-nemelem/jukebox-40942_nemelem.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "loc-jukebox-68628-i-love-you::jukebox-68628_i-love-you.mp3",
+    "title": "I love you",
+    "artist": "schmidt, alexander ; archer, harry ; thompson, harlan ; bourdon, rosario ; hart, charles",
+    "url": "https://archive.org/download/loc-jukebox-68628-i-love-you/jukebox-68628_i-love-you.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "loc-jukebox-670172-the-world-is-waiting-for-the-sunrise::jukebox-670172_the-world-is-waiting-for-the-sunrise.mp3",
+    "title": "The world is waiting for the sunrise",
+    "artist": "lockhart, gene ; hart, charles ; seitz, ernest",
+    "url": "https://archive.org/download/loc-jukebox-670172-the-world-is-waiting-for-the-sunrise/jukebox-670172_the-world-is-waiting-for-the-sunrise.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "loc-jukebox-670189-down-hearted-blues::jukebox-670189_down-hearted-blues.mp3",
+    "title": "Down hearted blues",
+    "artist": "smith, bessie ; hunter, alberta ; williams, clarence ; austin, lovie",
+    "url": "https://archive.org/download/loc-jukebox-670189-down-hearted-blues/jukebox-670189_down-hearted-blues.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "loc-jukebox-67956-chapultepec::jukebox-67956_chapultepec.mp3",
+    "title": "Chapultepec",
+    "artist": "orquesta internacional ; rubalcaba, higinio ; shilkret, nathaniel ; international novelty orchestra",
+    "url": "https://archive.org/download/loc-jukebox-67956-chapultepec/jukebox-67956_chapultepec.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "loc-jukebox-69412-wonderful-one::jukebox-69412_wonderful-one.mp3",
+    "title": "Wonderful one",
+    "artist": "grofé, ferde ; neilan, marshall a. ; whiteman, paul ; wiedoeft, rudy ; banta, frank e. ; terriss, dorothy ; burr, henry",
+    "url": "https://archive.org/download/loc-jukebox-69412-wonderful-one/jukebox-69412_wonderful-one.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "loc-jukebox-69414-salvador::jukebox-69414_salvador.mp3",
+    "title": "Salvador",
+    "artist": "orquesta internacional ; moure, francisco ; shilkret, nathaniel ; international novelty orchestra",
+    "url": "https://archive.org/download/loc-jukebox-69414-salvador/jukebox-69414_salvador.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "loc-jukebox-69644-memory-lane::jukebox-69644_memory-lane.mp3",
+    "title": "Memory Lane",
+    "artist": "waring, fred ; spier, larry ; linton, charles ; conrad, con ; pennsylvanians ; de sylva, b. g. ; waring, tom",
+    "url": "https://archive.org/download/loc-jukebox-69644-memory-lane/jukebox-69644_memory-lane.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "loc-jukebox-68190-you-can-t-make-a-fool-out-of-me::jukebox-68190_you-can-t-make-a-fool-out-of-me.mp3",
+    "title": "You can't make a fool out of me",
+    "artist": "cunningham, paul ; lennartz, alfred ; van alstyne, egbert ; bourdon, rosario ; burr, henry",
+    "url": "https://archive.org/download/loc-jukebox-68190-you-can-t-make-a-fool-out-of-me/jukebox-68190_you-can-t-make-a-fool-out-of-me.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "loc-jukebox-189035-national-polka::jukebox-189035_national-polka.mp3",
+    "title": "National polka",
+    "artist": "serbian quartet ; shilkret, nathaniel",
+    "url": "https://archive.org/download/loc-jukebox-189035-national-polka/jukebox-189035_national-polka.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
+    "source": "Internet Archive"
+  },
+  {
+    "id": "loc-jukebox-189620-am-elterngrab::jukebox-189620_am-elterngrab.mp3",
+    "title": "Am Elterngrab",
+    "artist": "robyn, william ; winter, emil ; schlegel, carl ; marchetti, henry",
+    "url": "https://archive.org/download/loc-jukebox-189620-am-elterngrab/jukebox-189620_am-elterngrab.mp3",
+    "mime": "audio/mpeg",
+    "license": "Public Domain",
     "source": "Internet Archive"
   }
 ]
